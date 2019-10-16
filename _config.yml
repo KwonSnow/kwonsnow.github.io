@@ -74,6 +74,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
