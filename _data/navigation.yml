@@ -2,14 +2,14 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /_posts/
+# - title: Posts
+#   url: /posts/
 # - title: Categories
 #   url: /categories/
 # - title: Tags
 #   url: /tags/
-- title: Recipes
-  url: /_recipes/
+# - title: Recipes
+#   url: /recipes/
 # - title: Search
 #   url: /search/
 # - title: External Page
