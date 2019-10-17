@@ -18,6 +18,8 @@ If!! we do following:
 
 <p><span class="math inline">\(\mathrm{E}=\min _{\left\{\varphi_{i}(r), f_{i}\left|\sum_{i} f_{i}=N_{\text {el}}\right| \int \varphi_{i}^{*}(r) \varphi_{i}(r) d r=\delta_{i j}\right\}}\left(T_{N}+T_{e l}+U_{N_{-} N}+U_{N-e l}+U_{e l-e l}\right)\)</span></p>
 
+<p><span class="math inline">\(T_{e l}=\sum_{i} f_{i} \int \varphi_{i}^{*}(r)\left[-\frac{1}{2} \frac{\hbar}{m_{e}} \varphi_{i}(r)\right] d^{3} r\)</span></p>
+
 
 
 Reference: https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2
