@@ -20,9 +20,11 @@ NFREE : s how many ionic steps are stored in the iteration history
 ### damped molecular dynamics  
 IBRION = 3  : damped molecular dynamics
 <p><span class="math inline">\(\ddot{\vec{x}}=-2 \alpha \vec{F}-\mu \dot{\vec{x}}\)</span></p>
-SMASS : dampling factor μ  
 POTIM : controls α  
-  
+SMASS : dampling factor μ  
+μ=2 is equivalent to a simple steepest descent algorithm  (maximal damping)
+μ=0 corresponds to no damping  
+
 ## Others
 IBRION = 2 : conjugate gradient
 
