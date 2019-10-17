@@ -1,5 +1,5 @@
 ---
-title: "Practical DFT"
+title: "Practical DFT-1"
 date: 2019-10-17T08:08:50-04:00
 category: DFT
 tags:
@@ -7,7 +7,7 @@ tags:
   - DFT
 ---
 
-# Practical DFT
+# Practical DFT-1
 
 ## Kohn-Sham Theorm
 
@@ -35,7 +35,7 @@ Local Density Approximation (LDA)
 
 
 
-Reference: https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2
-{% include responsive-embed url="https://youtu.be/eixqE1mRZEw" ratio="16:9" %}
+Reference: https://youtu.be/eixqE1mRZEw
+{% include responsive-embed url="https://youtu.be/eixqE1mRZEw" ratio="5:3" %}
 
 
