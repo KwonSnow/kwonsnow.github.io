@@ -1,18 +1,14 @@
 ---
 title: Blogging List
-date: 2018-10-31T08:08:50-04:00
-category: electrochemistry
+date: 9999-12-31
+categories: management
 tags: 
-  - OER
-published: true
+  - management
+  - post
+  - blog
 ---
 
-
-
-
-
-
-# TO DO LIST
+# Blogging List
 
 ## CI-NEB
 *  EDIFFG = -0.01 is quite reasonable. You will probably not see much change in barrier heights if you go up to EDIFFG=-0.05
