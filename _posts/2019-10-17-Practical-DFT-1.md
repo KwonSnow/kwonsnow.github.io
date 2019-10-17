@@ -11,7 +11,7 @@ tags:
 
 ## Kohn-Sham Theorm
 
-Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 과 Exact n(r).  
+Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 와 Exact n(r).  
 n(r) = number density = # of electron / volume  
 If!! we do following:  
 <p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p>
@@ -30,6 +30,8 @@ If!! we do following:
 
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int d^{3} r \int d^{3} r^{\prime} \frac{[-e n(r)]\left[-e n\left(r^{\prime}\right)\right]}{\left|r-r^{\prime}\right|}=\frac{1}{2} k_{c} e^{2} \iint \frac{n(r)\left|n\left(r^{\prime}\right)\right|}{\left|r-r^{\prime}\right|}\)</span></p>
 
+
+Local Density Approximation (LDA)
 
 
 
