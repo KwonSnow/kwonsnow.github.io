@@ -9,7 +9,7 @@ tags:
 
 # Practical DFT-1
 
-## Kohn-Sham Theorm
+## Kohn-Sham Theorem
 
 > If we do the following:  
 > <p><span class="math inline">\(\mathrm{E}=\min_{\left\{\varphi_{i}(r), f_{i}\left|\sum_{i} f_{i}=N_{e l}\right| \int \varphi_{i}^{*}(r) \varphi_{i}(r) d^{3} r=\delta_{i j}\right\}}\left(T_{N}+T_{e l}+U_{N-N}+U_{N-e l}+U_{e l-e l}\right)\)</span></p>
