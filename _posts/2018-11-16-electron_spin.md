@@ -1,8 +1,9 @@
 ---
 title: "7.11 Electron spin"
 date: 2018-11-16T08:08:50-04:00
-category: electrochemistry
+category: Quantum Mechanics
 tags:
+  - Quantum Mechanics
   - Quantum Chemistry
   - TMP Chem
 ---
@@ -17,5 +18,3 @@ tags:
 from TMP Chem: https://www.youtube.com/watch?v=dRSI4hft0DY
 
 {% include responsive-embed url="https://www.youtube.com/watch?v=dRSI4hft0DY" %}
-
-{% include responsive-embed url="https://youtu.be/dRSI4hft0DY" %}
