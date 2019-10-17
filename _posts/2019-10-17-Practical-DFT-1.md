@@ -36,7 +36,6 @@ Local Density Approximation (LDA)
 
 
 Reference: https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2
-<div class="responsive-embed responsive-embed-21by9">
-  <iframe class="responsive-embed-item" src="https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2"></iframe>
-</div>
+{% include responsive-embed url="https://youtu.be/eixqE1mRZEw" ratio="16:9" %}
+
 
