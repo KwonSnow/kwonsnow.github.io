@@ -31,11 +31,11 @@ If!! we do following:
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int d^{3} r \int d^{3} r^{\prime} \frac{[-e n(r)]\left[-e n\left(r^{\prime}\right)\right]}{\left|r-r^{\prime}\right|}=\frac{1}{2} k_{c} e^{2} \iint \frac{n(r)\left|n\left(r^{\prime}\right)\right|}{\left|r-r^{\prime}\right|}\)</span></p>
 
 
-Local Density Approximation (LDA)
-
-
-
+Local Density Approximation (LDA)  
+  
+  
+-----------------------------
 Reference: https://youtu.be/eixqE1mRZEw
-{% include responsive-embed url="https://youtu.be/eixqE1mRZEw" ratio="5:3" %}
+
 
 
