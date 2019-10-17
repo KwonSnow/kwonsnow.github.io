@@ -11,9 +11,9 @@ tags:
 
 ## Kohn-Sham Theorm
 
-Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 과 Exact n(r).
-n(r) = number density = # of electron / volume
-If!! we do following:
+Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 과 Exact n(r). <br>
+n(r) = number density = # of electron / volume <br>
+If!! we do following: <br>
 <p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p>
 
 <p><span class="math inline">\(\mathrm{E}=\min _{\left\{\varphi_{i}(r), f_{i}\left|\sum_{i} f_{i}=N_{\text {el}}\right| \int \varphi_{i}^{*}(r) \varphi_{i}(r) d r=\delta_{i j}\right\}}\left(T_{N}+T_{e l}+U_{N_{-} N}+U_{N-e l}+U_{e l-e l}\right)\)</span></p>
