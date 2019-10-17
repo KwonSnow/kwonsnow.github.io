@@ -18,6 +18,7 @@ published: true
 *  EDIFFG = -0.01 is quite reasonable. You will probably not see much change in barrier heights if you go up to EDIFFG=-0.05
 *  EDIFF just needs to be low enough so that the forces are accurate enough for the specified optimizer to work properly. Again, 1e-4 is fairly safe.
 *  Try, first, EDIFF = 1E-4, EDIFFG = -5E-2, IBRION = 1, ISPIN = 1 (if it is non-magnetic). If it osciliates at near TS, EDIFF = 1E-6, EDIFFG = -3E-2, IBRION = 3. You should also reduce the k-point mesh for the initial try.
+
 ## MD analysis
 *  https://www.mdanalysis.org/
 
