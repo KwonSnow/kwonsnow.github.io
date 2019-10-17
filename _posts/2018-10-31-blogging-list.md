@@ -55,7 +55,7 @@ published: true
 *  http://www.cubrid.com/tutorial/3794195
 
 ### 리눅스 코어별 CPU 사용률 확인
-*  https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EC%BD%94%EC%96%B4%EB%B3%84_CPU_%EC%82%AC%EC%9A%A9%EB%A5%A0_%ED%99%95%EC%9D%B8
+*  https://zetawiki.com/wiki/리눅스_코어별_CPU_사용률_확인
 
 ### 가상메모리
 *  http://unicon.myds.me/bbs/board.php?bo_table=windows&wr_id=39
