@@ -11,12 +11,14 @@ tags:
 
 ## Kohn-Sham Theorm
 
-Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 와 Exact n(r).  
+> If we do the following:  
+> <p><span class="math inline">\(\mathrm{E}=\min_{\left\{\varphi_{i}(r), f_{i}\left|\sum_{i} f_{i}=N_{e l}\right| \int \varphi_{i}^{*}(r) \varphi_{i}(r) d^{3} r=\delta_{i j}\right\}}\left(T_{N}+T_{e l}+U_{N-N}+U_{N-e l}+U_{e l-e l}\right)\)</span></p>
+> Many body calculation과 동일한 결과를 얻을 수 있다.여기서의 결과란 Exact ground state E 와 Exact n(r).  
+where  
 n(r) = number density = # of electron / volume  
-If!! we do following:  
 <p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p>
 
-<p><span class="math inline">\(\mathrm{E}=\min_{\left\{\varphi_{i}(r), f_{i}\left|\sum_{i} f_{i}=N_{e l}\right| \int \varphi_{i}^{*}(r) \varphi_{i}(r) d^{3} r=\delta_{i j}\right\}}\left(T_{N}+T_{e l}+U_{N-N}+U_{N-e l}+U_{e l-e l}\right)\)</span></p>
+
 
 <p><span class="math inline">\(T_{e l}=\sum_{i} f_{i} \int \varphi_{i}^{*}(r)\left[-\frac{1}{2} \frac{\hbar}{m_{e}} \varphi_{i}(r)\right] d^{3} r\)</span></p>
 
