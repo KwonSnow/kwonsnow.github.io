@@ -73,6 +73,8 @@ published: true
 *  http://blog.xcoda.net/22
 
 ## Computational Chemistry
+## DFT Lecture
+*  http://jdftx.org/PracticalDFT.html
 
 ## DFT Tools
 ### atomsk
