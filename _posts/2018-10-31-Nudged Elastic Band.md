@@ -12,13 +12,11 @@ tags:
 
 # Optimizer
 ## Force-based optimizer
-### quasi-Newton algorithm (RMM-DIIS)  
-IBRION = 1  : quasi-Newton algorithm (RMM-DIIS)  
+### quasi-Newton algorithm (RMM-DIIS) : IBRION = 1
 POTIM : the step size in the steepest descent step  
 NFREE : s how many ionic steps are stored in the iteration history  
 
-### damped molecular dynamics  
-IBRION = 3  : damped molecular dynamics
+### damped molecular dynamics : IBRION = 3
 <p><span class="math inline">\(\ddot{\vec{x}}=-2 \alpha \vec{F}-\mu \dot{\vec{x}}\)</span></p>
 POTIM : controls α  
 SMASS : dampling factor μ  
