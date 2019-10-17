@@ -1,10 +1,8 @@
 ---
 title: Blogging List
 date: 9999-12-31
-categories: management
+categories: blog
 tags: 
-  - management
-  - post
   - blog
 ---
 
