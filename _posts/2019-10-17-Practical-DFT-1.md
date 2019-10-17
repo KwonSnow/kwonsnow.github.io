@@ -26,6 +26,8 @@ If!! we do following:
 
 <p><span class="math inline">\(V_{n u c}(r)=k_{c} \sum_{I} \frac{(-e)\left(+Z_{I} e\right)}{\left|r-R_{I}\right|}=-k_{c} e^{2} \sum_{I} \frac{Z_{I}}{\left|r-R_{I}\right|}\)</span></p>
 
+<p><span class="math inline">\(U_{e l-e l}=U_{H}+E_{x c}[n(r)]\)</span></p>
+
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int d^{3} r \int d^{3} r^{\prime} \frac{[-e n(r)]\left[-e n\left(r^{\prime}\right)\right]}{\left|r-r^{\prime}\right|}=\frac{1}{2} k_{c} e^{2} \iint \frac{n(r)\left|n\left(r^{\prime}\right)\right|}{\left|r-r^{\prime}\right|}\)</span></p>
 
 
