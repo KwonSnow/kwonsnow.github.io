@@ -20,7 +20,6 @@ If!! we do following:
 
 
 
-from TMP Chem: https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2
+Reference: https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=dGYOsRsLII4&list=PLEawDeF-ZtxAfrW3qVy0Yj3wcDyJmZa_a&index=2" %}
 
