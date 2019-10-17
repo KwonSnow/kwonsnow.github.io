@@ -1,5 +1,5 @@
 ---
-title: "Nudged Elastic Band"
+title: "Nudged Elastic Band (NEB) method"
 date: 2019-10-17T08:08:50-04:00
 category: DFT
 tags:
@@ -10,20 +10,20 @@ tags:
   - optimizer
 ---
 
-# Nudeged Elastic Band (NEB) method
-
-## Optimizer
-### Force-based optimizer:  
+# Optimizer
+## Force-based optimizer
+### quasi-Newton algorithm (RMM-DIIS)  
 IBRION = 1  : quasi-Newton algorithm (RMM-DIIS)  
 POTIM : the step size in the steepest descent step  
 NFREE : s how many ionic steps are stored in the iteration history  
 
-
-IBRION = 3  : damped molecular dynamics  
+### damped molecular dynamics  
+IBRION = 3  : damped molecular dynamics
 <p><span class="math inline">\(\ddot{\vec{x}}=-2 \alpha \vec{F}-\mu \dot{\vec{x}}\)</span></p>
 SMASS : dampling factor μ  
 POTIM : controls α  
-### Others
+  
+## Others
 IBRION = 2 : conjugate gradient
 
 
