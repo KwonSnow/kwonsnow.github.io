@@ -61,7 +61,7 @@ Kohn-Sham theorem의 강점은 이러한 E(XC)를 간단한(?) 형태로 표현�
 
   
 ---
-Reference: https://youtu.be/eixqE1mRZEw
+Reference: Youtube: ['https://youtu.be/eixqE1mRZEw/'](https://youtu.be/eixqE1mRZEw/)
 
 
 
