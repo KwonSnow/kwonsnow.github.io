@@ -18,9 +18,7 @@ tags:
 여기서의 결과란 Exact ground state E 와 Exact n(r).  
 where  
 n(r) = number density = # of electron / volume  
-<span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span> = number density = # of electron / volume  
-
-
+<p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p>
 
 <p><span class="math inline">\(T_{e l}=\sum_{i} f_{i} \int \varphi_{i}^{*}(r)\left[-\frac{1}{2} \frac{\hbar}{m_{e}} \varphi_{i}(r)\right] d^{3} r\)</span></p>
 
@@ -36,14 +34,15 @@ n(r) = number density = # of electron / volume
 
 
 여기서의 문제는 electron 사이의 correlation이 있다는 것.  
-예를 들어 electron cloud에 electron이 하나 위치해 있다면, 이 electron은 그저 주변의 평균적인 charge density를 느끼지 않는다. 왜냐하면 만약 이 electron은 다른 electron과의 correlation 때문에 서로를 밀어낼 것이기 때문 by Pauli exclusion and Coulombic repulsion.  따라서 Something missing from the mean field description.  
-\*\*(그런데 이미 Pauli exclusion은 orbital orthonormality, Coulomic repulsion은 U(el-el)로 고려하지 않았나?)\*\*  
-이것을 고려해주기 위하여 E(XC) 추가. 
-Kohn-Sham theorem의 강점은 여기서 이러한 E(XC)를 특정한 간단한 형태로 표현할 수 있다는 것. 그리고 이것은 exchange and correlation energy에 의존. exchange referring to the Pauli exclusion effect and the correlation referring to the additional dynamical correlations that the electron repel each other? 그리고 이것은 density의 함수로 나타낼 수 있음.  
-문제는 이러한 함수가 있다는 것은 알지만 (?) 어떻게 구성하는지는 모른다는 것. 괜찮은 approximatoin으로  LDA를 예로들 수 있다.
+예를 들어 electron cloud에 electron이 하나 위치해 있다면, 이 electron은 그저 주변의 평균적인 charge density를 느끼지 않는다. 왜냐하면 만약 이 electron은 다른 electron과의 correlation 때문에 서로를 밀어낼 것이기 때문 by Pauli exclusion and Coulombic repulsion.  따라서 Something missing from the mean field description. 이것을 고려해주기 위하여 E(XC) 추가. (그런데 이미 Pauli exclusion은 orbital orthonormality, Coulomic repulsion은 U(el-el)로 고려하지 않았나?)  
+Kohn-Sham theorem의 강점은 이러한 E(XC)를 간단한(?) 형태로 표현할 수 있다는 것. exchange referring to the Pauli exclusion effect and the correlation referring to the additional dynamical correlations that the electron repel each other? 그리고 이것은 density의 함수로 나타낼 수 있음. 문제는 이러한 함수가 있다는 것은 알지만 (?) 어떻게 구성하는지는 모른다는 것. 괜찮은 approximatoin으로  LDA를 예로들 수 있다.
 
 Local Density Approximation (LDA)  
 <p><span class="math inline">\(E_{X C}[n(r)]=\int f_{X C}(n(r)) d^{3} r\)</span></p>
+
+![image-center]({{ 'Practical_DFT_1.png' | absolute_url }}){: .align-center}
+
+
 
   
 ---
