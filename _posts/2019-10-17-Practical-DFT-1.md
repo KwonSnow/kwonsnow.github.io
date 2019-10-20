@@ -18,7 +18,7 @@ tags:
 여기서의 결과란 Exact ground state E 와 Exact n(r).  
 where  
 n(r) = number density = # of electron / volume  
-<p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p> = number density = # of electron / volume  
+<span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span> = number density = # of electron / volume  
 
 
 
