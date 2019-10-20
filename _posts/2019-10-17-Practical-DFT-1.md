@@ -65,6 +65,8 @@ Solid의 경우 이 B.C.는 PBC.
 Expand in basis
 <p><span class="math inline">\(n(r)=\sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)\)</span></p>
 <p><span class="math inline">\(\varphi(r)=\sum_{\alpha} \hat{\varphi}_{\alpha} b_{\alpha}(r)\)</span></p>
+in order to represent the function by sample values of the function at different points in space
+38:32
 
   
 ---
