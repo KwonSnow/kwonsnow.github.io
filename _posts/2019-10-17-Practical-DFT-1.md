@@ -18,13 +18,13 @@ tags:
 여기서의 결과란 Exact ground state E 와 Exact n(r).  
 where  
 n(r) = number density = # of electron / volume  
-<p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p>
+<p><span class="math inline">\(\mathrm{n}(\mathrm{r})=\sum_{i}\left|\varphi_{i}(r)\right|^{2}\)</span></p> = number density = # of electron / volume  
 
 
 
 <p><span class="math inline">\(T_{e l}=\sum_{i} f_{i} \int \varphi_{i}^{*}(r)\left[-\frac{1}{2} \frac{\hbar}{m_{e}} \varphi_{i}(r)\right] d^{3} r\)</span></p>
 
-<p><span class="math inline">\(U_{N-N}=\frac{1}{2} k_{c} \sum_{I \neq J} \frac{\left(+Z_{I} e\right)\left(+Z_{J} e\right)}{\left|R_{I}-R_{J}\right|}=\frac{1}{2} k_{C} \sum_{I \neq J} \frac{Z_{I} Z_{J}}{\left|R_{I}-R_{J}\right|}\)</span></p>
+<p><span class="math inline">\(U_{N-N}=\frac{1}{2} k_{c} \sum_{I \neq J} \frac{\left(+Z_{I} e\right)\left(+Z_{J} e\right)}{\left|R_{I}-R_{J}\right|}=\frac{1}{2} k_{C} e^{2} \sum_{I \neq J} \frac{Z_{I} Z_{J}}{\left|R_{I}-R_{J}\right|}\)</span></p>
 
 <p><span class="math inline">\(U_{N-e l}=\int n(r) d^{3} r V_{n u c}(r)\)</span></p>
 
