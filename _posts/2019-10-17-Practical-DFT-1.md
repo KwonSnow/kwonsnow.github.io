@@ -40,7 +40,7 @@ Kohn-Sham theorem의 강점은 이러한 E(XC)를 간단한(?) 형태로 표현�
 Local Density Approximation (LDA)  
 <p><span class="math inline">\(E_{X C}[n(r)]=\int f_{X C}(n(r)) d^{3} r\)</span></p>
 
-![image-center]({{ 'Practical_DFT_1.png' | absolute_url }}){: .align-center}
+![image-center]({{ 'images/Practical_DFT_1.png' | absolute_url }}){: .align-center}
 
 
 
