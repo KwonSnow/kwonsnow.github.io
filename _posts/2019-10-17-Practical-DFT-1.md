@@ -35,10 +35,17 @@ n(r) = number density = # of electron / volume
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int d^{3} r \int d^{3} r^{\prime} \frac{[-e n(r)]\left[-e n\left(r^{\prime}\right)\right]}{\left|r-r^{\prime}\right|}=\frac{1}{2} k_{c} e^{2} \iint \frac{n(r)\left|n\left(r^{\prime}\right)\right|}{\left|r-r^{\prime}\right|}\)</span></p>
 
 
+여기서의 문제는 electron 사이의 correlation이 있다는 것.  
+예를 들어 electron cloud에 electron이 하나 위치해 있다면, 이 electron은 그저 주변의 평균적인 charge density를 느끼지 않는다. 왜냐하면 만약 이 electron은 다른 electron과의 correlation 때문에 서로를 밀어낼 것이기 때문 by Pauli exclusion and Coulombic repulsion.  따라서 Something missing from the mean field description.  
+\*\*(그런데 이미 Pauli exclusion은 orbital orthonormality, Coulomic repulsion은 U(el-el)로 고려하지 않았나?)\*\*  
+이것을 고려해주기 위하여 E(XC) 추가. 
+Kohn-Sham theorem의 강점은 여기서 이러한 E(XC)를 특정한 간단한 형태로 표현할 수 있다는 것. 그리고 이것은 exchange and correlation energy에 의존. exchange referring to the Pauli exclusion effect and the correlation referring to the additional dynamical correlations that the electron repel each other? 그리고 이것은 density의 함수로 나타낼 수 있음.
+
+
 Local Density Approximation (LDA)  
   
   
------------------------------
+---
 Reference: https://youtu.be/eixqE1mRZEw
 
 
