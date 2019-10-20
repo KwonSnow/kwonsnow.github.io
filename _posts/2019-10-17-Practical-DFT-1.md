@@ -60,7 +60,7 @@ one way to get around the action and distance thing is to take the field serious
 Solid의 경우 이 B.C.는 PBC.
 
 ### Solve Poisson's Equation
-(1) Simplification
+(1) Simplification  
 (2) Choose computational representation 
 Expand in basis
 <p><span class="math inline">\(n(r)=\sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)\)</span></p>
@@ -68,7 +68,7 @@ Expand in basis
 
   
 ---
-Reference: Youtube: ['https://youtu.be/eixqE1mRZEw/'](https://youtu.be/eixqE1mRZEw/)
+Reference: Youtube: [https://youtu.be/dGYOsRsLII4](https://youtu.be/dGYOsRsLII4)
 
 
 
