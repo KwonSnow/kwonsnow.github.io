@@ -45,19 +45,26 @@ Kohn-Sham theorem의 강점은 이러한 E(XC)를 간단한(?) 형태로 표현�
 
 
 ### Computational attack (for any problem)
-(1) as many analytic simpliications as possible.
-  (a) choose appropriate system of units
-  fundamental constant를 code에 넣는 것을 최대한 피한다.
+(1) as many analytic simplications as possible.
+choose appropriate system of units. fundamental constant를 code에 넣는 것을 최대한 피한다.  
   
 (2) Elimination of double integral
-
+Mean field Hartree energy, U(H), 빼고는 다 single integral. U(H)는 double integral over spcae 포함되어 있고, 이걸 직접적으로 계산하려면 six dimentional sum을 해야하는데 그렇게 되면 계산이 너무 비싸지게 된다.
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int n(r) \varphi(r) d^{3} r\)</span></p>
 <p><span class="math inline">\(\varphi(r)=\int \frac{n\left(r^{\prime}\right) d^{3} r^{\prime}}{\left|r-r^{\prime}\right|}\)</span></p>
-
+물론 이것은 약간 문제를 덮어두는 식이지만, 뭐 어쨌든 이렇게 하면 각 point에서 3차원 적분만 하면 된다.
+one way to get around the action and distance thing is to take the field seriously. And look at the field equation. Then just couples neighboring points. And the corresponding field equation here is.... Poisson equation
+위의 두 식을 푼다는 것은 적절한 boundary condition을 가지고 아래의 Poisson equation을 푸는 것과 같다.  
 
 <p><span class="math inline">\(\nabla^{2} \varphi(r)=-4 \pi n(\mathrm{r})    w / B . C .^{\prime} S\)</span></p>
+Solid의 경우 이 B.C.는 PBC.
 
-
+### Solve Poisson's Equation
+(1) Simplification
+(2) Choose computational representation 
+Expand in basis
+<p><span class="math inline">\(n(r)=\sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)\)</span></p>
+<p><span class="math inline">\(\varphi(r)=\sum_{\alpha} \hat{\varphi}_{\alpha} b_{\alpha}(r)\)</span></p>
 
   
 ---
