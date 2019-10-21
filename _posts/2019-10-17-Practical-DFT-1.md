@@ -60,12 +60,13 @@ one way to get around the action and distance thing is to take the field serious
 Solid의 경우 이 B.C.는 PBC.  
 
 ---
-<p><span class="math inline">\(\nabla \cdot \vec{E}=\frac{\rho(\vec{r})}{\varepsilon_{0}}\)</span></p>
 전기장을 나타내는 식인 Gauss법칙에
+<p><span class="math inline">\(\nabla \cdot \vec{E}=\frac{\rho(\vec{r})}{\varepsilon_{0}}\)</span></p>
+전기장과 포텐셜을 나타내는 관계식을 대입하면
 <p><span class="math inline">\(\vec{E}=-\nabla V\)</span></p>
-전기장과 포텐셜을 나타내는 식을 대입하면
+Poisson 식이 나타남.  
 <p><span class="math inline">\(\nabla^{2} V(\vec{r})=-\frac{\rho}{\varepsilon_{0}}\)</span></p>
-Poisson 식이 나타남. 전하가 놓였을때 그것으로 부터 파생되는 포텐셜(전위)를 구할 수 있게 됨.  
+따라서 전하가 놓였을때 그것으로 부터 파생되는 포텐셜(전위)를 구할 수 있게 됨.  
 
 ---
 ### Solve Poisson's Equation
@@ -74,8 +75,20 @@ Poisson 식이 나타남. 전하가 놓였을때 그것으로 부터 파생되�
 Expand in basis
 <p><span class="math inline">\(n(r)=\sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)=\sum_{\alpha} \hat{\bar{n}}_{\alpha} b_{\alpha}(r)\)</span></p>
 <p><span class="math inline">\(\varphi(r)=\sum_{\alpha} \hat{\varphi}_{\alpha} b_{\alpha}(r)=\sum_{\alpha} \hat{\bar{\varphi}}_{\alpha} b_{\alpha}(r)\)</span></p>
-공간의 서로 다른 지점에서 sample value를 얻기 위한 함수를 표현하기 위해 finite set of coefficient를 하나의 벡터로 표기.
-  
+공간의 서로 다른 지점에서 sample value를 얻기 위한 함수를 표현하기 위해 finite set of coefficient를 하나의 벡터로 표기.  
+벡터는 모두 column vector로 표기. row vector가 필요할 경우 column vector를 transpose.  
+
+Poisson's Equation에 위의 computational representation을 대입하면,
+<p><span class="math inline">\(\nabla^{2} \sum_{\alpha} \widehat{\varphi}_{\alpha} b_{\alpha}(r)=-4 \pi \sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)\)</span></p>
+
+여기서 문제는 공간내 무한대의 점 (r)을 유한한 수로 표현해야 한다는 점. 즉, 공간을 coefficient 또는 basis function과 같은 수로 표현할 수 있어야 한다. 이럴 경우 standard method로 [Galerkin Method](https://en.wikipedia.org/wiki/Galerkin_method) 사용.  
+<p><span class="math inline">\(\int d^{3} r b_{\beta}^{*}(r) \cdots\)</span></p>
+Take both sides of equation and integrate them against the complex conjugates of all of the basis functions. That will give you as many conditions its basis functions. 이러한 방법으로 공간(r)을 discretize 함.
+<p><span class="math inline">\(\sum_{\alpha}\left(\int d^{3} r\left[b_{\beta}^{*}(r) \nabla^{2} b_{\alpha}(r)\right]\right) \hat{\varphi}_{\alpha}=-4 \pi \sum_{\alpha}\left[\int d^{3} r\left(b_{\beta}^{*}(r) b_{\alpha}(r)\right)\right] \hat{n}_{\alpha}\)</span></p>
+왼쪽의 적분항은 some set of numbers that is defined by basis so I might as well give it a name. It is the matrix elements with in my basis of the Laplacian operator. so call it L.
+오른쪽의 적분항은 overlaps of basis functions. so call it O. 만약 basis가 orthnormal 하다면 이 항은 identity. 
+<p><span class="math inline">\(\mathbb{L} \vec{\varphi}=-4 \pi \mathbb{O} \vec{n}\)</span></p>
+
 ---
 Reference: Youtube: [https://youtu.be/dGYOsRsLII4](https://youtu.be/dGYOsRsLII4)
 
