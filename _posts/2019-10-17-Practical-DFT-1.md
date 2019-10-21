@@ -34,7 +34,7 @@ n(r) = number density = # of electron / volume
 
 
 여기서의 문제는 electron 사이의 correlation이 있다는 것.  
-예를 들어 electron cloud에 electron이 하나 위치해 있다면, 이 electron은 그저 주변의 평균적인 charge density를 느끼지 않는다. 왜냐하면 만약 이 electron은 다른 electron과의 correlation 때문에 서로를 밀어낼 것이기 때문 by Pauli exclusion and Coulombic repulsion.  따라서 Something missing from the mean field description. 이것을 고려해주기 위하여 E(XC) 추가. (그런데 이미 Pauli exclusion은 orbital orthonormality, Coulomic repulsion은 U(el-el)로 고려하지 않았나?)  
+예를 들어 electron cloud에 electron이 하나 위치해 있다면, 이 electron은 그저 주변의 평균적인 charge density를 느끼지 않는다. 왜냐하면 만약 이 electron은 다른 electron과의 correlation 때문에 서로를 밀어낼 것이기 때문 by Pauli exclusion and Coulombic repulsion.  따라서 Something missing from the mean field description. 이것을 고려해주기 위하여 E(XC) 추가. (그런데 이미 Pauli exclusion은 orbital orthonormality, Coulomic repulsion은 U(el-el)로 고려하지 않았나?) Hartree-Fock theory is a single-particle approximation, and therefore cannot adequately treat the correlated motion of electrons that occurs due to electron-electron interactions.  
 Kohn-Sham theorem의 강점은 이러한 E(XC)를 간단한(?) 형태로 표현할 수 있다는 것. exchange referring to the Pauli exclusion effect and the correlation referring to the additional dynamical correlations that the electron repel each other? 그리고 이것은 density의 함수로 나타낼 수 있음. 문제는 이러한 함수가 있다는 것은 알지만 (?) 어떻게 구성하는지는 모른다는 것. 괜찮은 approximatoin으로  LDA를 예로들 수 있다.
 
 ### Local Density Approximation (LDA)  
