@@ -58,13 +58,15 @@ one way to get around the action and distance thing is to take the field serious
 
 <p><span class="math inline">\(\nabla^{2} \varphi(r)=-4 \pi n(\mathrm{r})    w / B . C .^{\prime} S\)</span></p>
 Solid의 경우 이 B.C.는 PBC.  
+
 ---
 <p><span class="math inline">\(\nabla \cdot \vec{E}=\frac{\rho(\vec{r})}{\varepsilon_{0}}\)</span></p>
 전기장을 나타내는 식인 Gauss법칙에
 <p><span class="math inline">\(\vec{E}=-\nabla V\)</span></p>
 전기장과 포텐셜을 나타내는 식을 대입하면
 <p><span class="math inline">\(\nabla^{2} V(\vec{r})=-\frac{\rho}{\varepsilon_{0}}\)</span></p>
-Poisson 식이 나타남. 전하가 놓였을때 그것으로 부터 파생되는 포텐셜(전위)를 구할 수 있게 됨.
+Poisson 식이 나타남. 전하가 놓였을때 그것으로 부터 파생되는 포텐셜(전위)를 구할 수 있게 됨.  
+
 ---
 ### Solve Poisson's Equation
 (1) Simplification  
