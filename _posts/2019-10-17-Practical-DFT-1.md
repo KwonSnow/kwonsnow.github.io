@@ -7,7 +7,7 @@ tags:
   - DFT
 ---
 
-# Practical DFT by A. T. Arias
+# Practical DFT Lecture by Prof. Tomas Arias
 
 ## Kohn-Sham Theorem
 
