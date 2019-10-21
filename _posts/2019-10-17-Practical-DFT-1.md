@@ -53,7 +53,7 @@ Mean field Hartree energy, U(H), 빼고는 다 single integral. U(H)는 double i
 <p><span class="math inline">\(U_{H}=\frac{1}{2} \int n(r) \varphi(r) d^{3} r\)</span></p>
 <p><span class="math inline">\(\varphi(r)=\int \frac{n\left(r^{\prime}\right) d^{3} r^{\prime}}{\left|r-r^{\prime}\right|}\)</span></p>
 물론 이것은 약간 문제를 덮어두는 식이지만, 뭐 어쨌든 이렇게 하면 각 point에서 3차원 적분만 하면 된다.
-one way to get around the action and distance thing is to take the field seriously. And look at the field equation. Then just couples neighboring points. And the corresponding field equation here is.... Poisson equation
+one way to get around the action and distance thing is to take the field seriously. And look at the field equation. Then just couples neighboring points. And the corresponding field equation here is.... [Poisson equation](https://en.wikipedia.org/wiki/Poisson%27s_equation#Electrostatics)
 위의 두 식을 푼다는 것은 적절한 boundary condition을 가지고 아래의 Poisson equation을 푸는 것과 같다.  
 
 <p><span class="math inline">\(\nabla^{2} \varphi(r)=-4 \pi n(\mathrm{r})    w / B . C .^{\prime} S\)</span></p>
