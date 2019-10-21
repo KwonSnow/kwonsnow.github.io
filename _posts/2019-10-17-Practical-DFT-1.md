@@ -75,8 +75,6 @@ Expand in basis
 <p><span class="math inline">\(n(r)=\sum_{\alpha} \hat{n}_{\alpha} b_{\alpha}(r)=\sum_{\alpha} \hat{\bar{n}}_{\alpha} b_{\alpha}(r)\)</span></p>
 <p><span class="math inline">\(\varphi(r)=\sum_{\alpha} \hat{\varphi}_{\alpha} b_{\alpha}(r)=\sum_{\alpha} \hat{\bar{\varphi}}_{\alpha} b_{\alpha}(r)\)</span></p>
 공간의 서로 다른 지점에서 sample value를 얻기 위한 함수를 표현하기 위해 finite set of coefficient를 하나의 벡터로 표기.
-
-
   
 ---
 Reference: Youtube: [https://youtu.be/dGYOsRsLII4](https://youtu.be/dGYOsRsLII4)
