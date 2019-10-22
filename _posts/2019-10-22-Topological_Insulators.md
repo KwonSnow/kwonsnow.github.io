@@ -1,6 +1,6 @@
 ---
 title: "Topological Insulators"
-date: {{ date }}
+date: 2019-10-17T03:08:50-04:00
 category: DFT
 tags:
   - Quantum Mechanics
