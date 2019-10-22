@@ -17,5 +17,6 @@ At a given energy the only other available electronic states have different spin
 Angular Resolved Photoelectron Spectrosopy (ARPES) showed that Bi2Se3 is topological insulator for 6 quintuple layers and larger PBE says no band inversion -> not top. 
 Insul. G0W0 bulk Bi2Se3 has band inversion but not possible for finite number layers.
 
-
-[1] [J. Phys. Chem. Lett.2011, 2, 212](https://pubs.acs.org/doi/10.1021/jz101565j)
+---
+reference
+[1] [Accurate Ab Initio Quantum Mechanics Simulations of Bi2Se3 and Bi2Te3 Topological Insulator Surfaces, J. Phys. Chem. Lett. 2015, 6, 3792](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b01586)
