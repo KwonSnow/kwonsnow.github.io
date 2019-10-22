@@ -20,6 +20,6 @@ Angular Resolved Photoelectron Spectrosopy (ARPES) showed that Bi2Se3 is topolog
 Insul. G0W0 bulk Bi2Se3 has band inversion but not possible for finite number layers.
 
 ---
-reference
-[1] [Colloquium: Topological insulators, Rev. Mod. Phys. 2010, 82, 3045](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.82.3045)
-[2] [Accurate Ab Initio Quantum Mechanics Simulations of Bi2Se3 and Bi2Te3 Topological Insulator Surfaces, J. Phys. Chem. Lett. 2015, 6, 3792](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b01586)
+reference  
+[1] [Colloquium: Topological insulators, Rev. Mod. Phys. 2010, 82, 3045](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.82.3045)  
+[2] [Accurate Ab Initio Quantum Mechanics Simulations of Bi2Se3 and Bi2Te3 Topological Insulator Surfaces, J. Phys. Chem. Lett. 2015, 6, 3792](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b01586)  
