@@ -7,6 +7,8 @@ tags:
 ---
 
 # Blogging List
+## spintronics
+*  https://depletionregion.tistory.com/notice/149
 
 ## CI-NEB
 *  EDIFFG = -0.01 is quite reasonable. You will probably not see much change in barrier heights if you go up to EDIFFG=-0.05
