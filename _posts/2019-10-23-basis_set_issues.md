@@ -19,3 +19,4 @@ tags:
 ---
 reference  
 [1] [Exploration of Basis Set Issues for Calculation of Intermolecular Interactions, J. Phys. Chem. A 2006, 110, 9529](https://pubs.acs.org/doi/pdf/10.1021/jp0680239)
+[2] [Removing pseudo-linear dependence in Gaussian basis set calculations on crystalline systems with the CRYSTAL code](https://www.archer.ac.uk/community/eCSE/eCSE04-16/eCSE04-16_Technical_Report.pdf)
