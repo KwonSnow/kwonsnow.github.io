@@ -1,6 +1,6 @@
 ---
 title: Blogging List
-date: 9999-12-31
+date: 2018-10-31
 categories: blog
 tags: 
   - blog
