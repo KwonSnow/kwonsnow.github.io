@@ -3,9 +3,7 @@ title: "Basis Set Issues"
 date: 2019-10-23T05:08:50-04:00
 category: DFT
 tags:
-  - Quantum Mechanics
   - DFT
-  - Band gap
   - Basis set
 ---
 
