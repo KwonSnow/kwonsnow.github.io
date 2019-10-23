@@ -1,6 +1,6 @@
 ---
 title: "Density Functional Theory"
-date: 2019-10-17T08:08:50-04:00
+date: 9998-10-17T08:08:50-04:00
 category: DFT
 tags:
   - Quantum Mechanics
