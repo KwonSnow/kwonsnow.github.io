@@ -11,9 +11,6 @@ tags:
   - Periodic Table
 ---
 
-Displayed by electron configuration  
-(Thumnail: displayed by chemical group)  
-
 ---
 reference  
 [PubChem](https://pubchem.ncbi.nlm.nih.gov/ptable/#property=GroupBlock)
