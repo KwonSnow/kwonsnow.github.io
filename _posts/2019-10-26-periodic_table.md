@@ -11,7 +11,8 @@ tags:
   - Periodic Table
 ---
 
-Thumnail: displayed by electron configuration  
+Displayed by electron configuration  
+(Thumnail: displayed by chemical group)  
 
 ---
 reference  
