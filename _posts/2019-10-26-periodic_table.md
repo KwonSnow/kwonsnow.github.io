@@ -1,5 +1,5 @@
 ---
-title: "Expression of an equation in HTML"
+title: "Periodic table"
 date: 2019-10-17T08:08:50-04:00
 image: 
   path: /images/periodic_table.PNG
