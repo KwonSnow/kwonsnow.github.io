@@ -93,9 +93,9 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
+author: 
+  name: Kwonsnow
+  picture: /images/Earth.PNG
   email:
   twitter:
   links:
