@@ -11,6 +11,8 @@ tags:
   - Periodic Table
 ---
 
+Thumnail: displayed by electron configuration  
+
 ---
 refefence  
 [PubChem](https://pubchem.ncbi.nlm.nih.gov/ptable/#property=GroupBlock)
