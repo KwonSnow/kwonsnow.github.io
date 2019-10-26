@@ -1,6 +1,6 @@
 ---
 title: "Periodic table"
-date: 2019-10-17T08:08:50-04:00
+date: 2019-10-26T08:08:50-04:00
 image: 
   path: /images/periodic_table.PNG
   thumbnail: /images/periodic_table.PNG
