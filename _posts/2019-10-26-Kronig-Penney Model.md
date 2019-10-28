@@ -1,5 +1,5 @@
 ---
-title: "Band gap"
+title: "Kronig-Penney Model"
 date: 2019-10-26T10:08:50-04:00
 category: DFT
 tags:
@@ -40,7 +40,7 @@ V=V0인 구간에서의 해는
 이때 -1 <= cos(ka) <= 1 이므로, βa가 가능한 범위가 정해지게 된다.
 
 
-![image-center]({{ '/images/kronig-penny.PNG' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/kronig-penney.PNG' | absolute_url }}){: .align-center}
 
 
 
