@@ -16,6 +16,7 @@ tags:
 
 Allowed and forbidden energy band가 어떻게 형성되는지 살펴보자.
 아래 그림과 같이 반복적으로 이루어진 array of square-well potentials 생각해보자.
+![image-center]({{ '/images/kronig-penney_1.PNG' | absolute_url }}){: .align-center}
 Allowed energy를 찾기 위해서는 V=0인 구간과 V=V0인 구간에서 따로따로 슈뢰딩거 방정식을 푼뒤에 파동함수의 연속성과 주기성을 만족하도록 적절한 경계조건을 적용한다.
 V=0 인 구간에서의 해는
 <p><span class="math inline">\(\psi_{0}=\operatorname{Aexp}(i \beta x)+\operatorname{Bexp}(-i \beta x)\)</span></p>
@@ -40,7 +41,7 @@ V=V0인 구간에서의 해는
 이때 -1 <= cos(ka) <= 1 이므로, βa가 가능한 범위가 정해지게 된다.
 
 
-![image-center]({{ '/images/kronig-penney.PNG' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/kronig-penney_2.PNG' | absolute_url }}){: .align-center}
 
 
 
