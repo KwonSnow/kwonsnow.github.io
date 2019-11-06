@@ -1,5 +1,5 @@
 ---
-title: "Temperature Smearing"
+title: "Computational electrochemistry"
 date: 2019-11-05T09:08:50-04:00
 category: DFT
 tags:
