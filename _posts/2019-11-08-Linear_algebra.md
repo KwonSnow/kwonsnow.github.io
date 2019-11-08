@@ -1,6 +1,6 @@
 ---
 title: "Linear Algebra"
-date: 2019-10-22T04:08:50-04:00
+date: 2019-11-08T15:08:50-04:00
 category: Mathmatics
 tags:
   - Linear Algebra
