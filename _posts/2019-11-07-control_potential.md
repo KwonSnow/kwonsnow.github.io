@@ -18,6 +18,8 @@ The electronic structure calculation spontaneously separates an electron from th
 [Electrochemical Barriers Made Simple](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01043)  
 [Potential Dependence of Electrochemical Barriers from ab Initio Calculations](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b00382) 
 
+## The surface charging method
+[Impacts of electrode potentials and solvents on the electroreduction of CO2: a comparison of theoretical approaches](https://pubs.rsc.org/en/content/articlelanding/2015/cp/c5cp00946d#!divAbstract)  
 
 ---
 reference  
