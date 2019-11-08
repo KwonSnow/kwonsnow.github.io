@@ -1,6 +1,6 @@
 ---
 title: "How to control a potential?"
-date: 2019-10-30T08:08:50-04:00
+date: 2019-11-07T08:08:50-04:00
 category: Quantum Mechanics
 tags:
   - Quantum Chemistry
