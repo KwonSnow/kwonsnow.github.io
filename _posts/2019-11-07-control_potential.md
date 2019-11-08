@@ -10,6 +10,8 @@ tags:
 
 The electronic structure calculation spontaneously separates an electron from the extra hydrogen in the water layer to form a double layer capacitor.
 
+## Absolute standard hydrogen electrode potential (ASHEP) from the calculated work function
+[Standard hydrogen electrode and potential of zero charge in density functional calculations](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.84.115452)  
 
 ## Adjust # of hydrogen atoms
 [Modeling the electrified solid-liquid interface](https://www.sciencedirect.com/science/article/pii/S0009261408013754)  
