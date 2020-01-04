@@ -31,5 +31,5 @@ image:
 9. 레스팅 7분, 그 동안 가니쉬(통파, 아스파라거스 등)를 팬에 (약불) 구움.
 
 
-[출처](https://www.youtube.com/watch?v=7oZHj57xscg)  
+출처: [오븐없이 후라이팬만 사용해서 5cm 스테이크 제대로 굽는 방법](https://www.youtube.com/watch?v=7oZHj57xscg)  
 
