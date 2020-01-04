@@ -1,5 +1,5 @@
 ---
-title: "5cm Steak"
+title: "5cm tenderloin"
 image: 
   path: /images/Filet_Raw_2.jpg
   thumbnail: /images/Filet_Raw_2.jpg
