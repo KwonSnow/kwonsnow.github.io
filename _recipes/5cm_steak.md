@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
-안심은 여섯가지 부위로 나눠져 있다. (헤드, 샤토브리앙(0), 필레, 트루네도스, 필레미뇽, 필레굴라쉬)
+안심은 여섯가지 부위로 나눠져 있다. (헤드, 샤토브리앙(best), 필레, 트루네도스, 필레미뇽, 필레굴라쉬)
 
 ## Ingredients
 
