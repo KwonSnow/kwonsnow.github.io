@@ -7,20 +7,23 @@ tags:
   - Quantum Numbers
 ---
 
-# Principal quantum number
-(n) : n = 1, 2, 3, 4, 5, ...  
+# Principal quantum number (n)
+n = 1, 2, 3, 4, 5, ...  
 Determines the major part of the energy  
 
 # Angular momentum (l)
+l = 0, 1, 2, ..., n-1  
 s, p, d, f, g, ...  
 Describe angular dependence and contributes to minor energy even without magnetic field  
 오비탈 자체의 angular momentum을 기술한다.  
 
 # Magnetic quantum number (ml)
+ml = 0, ±1, ±2, ..., ±l  
 Describe orientation of the angular momentum vector in a magnetic field  
 __자기장의 영향 하에__ 오비탈 angular momentum의 __방향__을 기술한다.  
 
 # Spin quantum number (ms)
+ms = ±1/2  
 Describes orientation of the electron magnetic moment in a magnetic field  
 __자기장의 영향 하에__ 전자의 __magnetic moment__를 기술한다.  
 
