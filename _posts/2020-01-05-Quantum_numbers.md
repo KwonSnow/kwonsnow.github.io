@@ -24,7 +24,7 @@ __자기장의 영향 하에__ 오비탈 angular momentum의 __방향__을 기�
 Describes orientation of the electron magnetic moment in a magnetic field  
 __자기장의 영향 하에__ 전자의 __magnetic moment__를 기술한다.  
 
-### 따라서 자기장이 없다면 모든 ml value는 같은 에너지를 가지게 되고(3 p orbitals or 5 d orbitals), 두 ms value도 마찬가지.  
+### 따라서 자기장이 없다면 모든 ml value는 같은 에너지를 가지게 되고(예를 들어 all 3 p orbitals or all 5 d orbitals), 두 ms value도 마찬가지.  
 
 
 
