@@ -17,13 +17,13 @@ s, p, d, f, g, ...
 Describe angular dependence and contributes to minor energy even without magnetic field  
 오비탈 자체의 angular momentum을 기술한다.  
 
-# Magnetic quantum number (ml)
-ml = 0, ±1, ±2, ..., ±l  
+# Magnetic quantum number (m~l~)
+m~l~ = 0, ±1, ±2, ..., ±l  
 Describe orientation of the angular momentum vector in a magnetic field  
 __자기장의 영향 하에__ 오비탈 angular momentum의 __방향__ 을 기술한다.  
 
-# Spin quantum number (ms)
-ms = ±1/2  
+# Spin quantum number (m~s~)
+m~s~ = ±1/2  
 Describes orientation of the electron magnetic moment in a magnetic field  
 __자기장의 영향 하에__ 전자의 __magnetic moment__ 를 기술한다.  
 
