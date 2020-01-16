@@ -25,3 +25,8 @@ SMASS : dampling factor μ
 IBRION = 2 : conjugate gradient  
 
 
+
+![image-center]({{ '/images/optimizer.jpg' | absolute_url }}){: .align-center}
+
+
+
