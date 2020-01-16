@@ -26,7 +26,7 @@ IBRION = 2 : conjugate gradient
 
 
 
-![image-center]({{ '/images/optimizer.jpg' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/optimizer.PNG' | absolute_url }}){: .align-center}
 
 
 
