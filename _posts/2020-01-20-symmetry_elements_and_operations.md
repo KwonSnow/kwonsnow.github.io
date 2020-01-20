@@ -1,5 +1,5 @@
 ---
-title: "Symmetry elements and operations"
+title: "Symmetry Elements and Operations"
 date: 2020-01-20T08:08:50-04:00
 category: Inorganic Chemistry
 tags:
@@ -13,6 +13,7 @@ tags:
 
 Symmetry __element__ : mirror planes, axies of rotation, and inversion centers  
 Symmetry __operation__ : reflection, rotation, inversion  
+
 
 ## Identity operation (E)
 아무런 변화를 일으키지 않지만, 수학적 기술을 위해 쓰인다. CHFClBr처럼 다른 아무런 symmetry가 적용되지 않을 때 할당될 수 있다.
