@@ -29,7 +29,7 @@ Mirror plane이 principal axis와 __수직이면__ σ<sub>h</sub> __(horizontal)
 ## Inversion operation (i)
 주의: tetrahedra, triangle, pentagon 등은 inversion symmetry가 없다.
 
-## rotation-reflection operation (S<sub>n</sub>), improper rotation
+## Rotation-reflection operation (S<sub>n</sub>), improper rotation
 rotation axis를 중심으로 360°/n 만큼 회전시킨 후 이 axis에 수직하는 plane을 기준으로 reflection시키는 operation.  
 예) methane (CH<sub>4</sub>): S<sub>4</sub>, Ethane (staggered) (C<sub>2</sub>H<sub>4</sub>): S<sub>6</sub>  
 S<sub>n</sub>을 두번하면 C<sub>n/2</sub> operation을 한번 한 것과 같다.  
