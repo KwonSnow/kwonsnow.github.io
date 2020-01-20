@@ -9,9 +9,22 @@ tags:
 ---
 
 # Symmetry
-분자의 symmetry를 분석함으로써  infrared spectra 나 optical activity를 예측할 수 있고, 본딩에 사용된 orbital의 type을 기술할 수 있으며, electronic spectra를 해석할 수 있다.
+분자의 symmetry를 분석함으로써 __optical activity__ 를 예측할 수 있고, __infrared-active stretching vibration__ 의 수와 type을 결정할 수 있으며, 본딩에 사용된 __orbital의 type__ 을 기술하기도 하고, __electronic spectra__ 를 해석할 수 있다.  
 
-#
+Symmetry __element__ : mirror planes, axies of rotation, and inversion centers
+Symmetry __operation__ : reflection, rotation, inversion
+
+## Identity operation (E)
+아무런 변화를 일으키지 않지만, 수학적 기술을 위해 쓰인다. CHFClBr처럼 다른 아무런 symmetry가 적용되지 않을 때 할당될 수 있다.
+
+## Rotation operation (C<sub>n</sub>), proper rotation
+rotation axis를 기준으로 360°/n 만큼 회전시키는 operation. 
+해당 operation을 몇번 했는지에 따라 C<sub>n</sub><sup>2</sup>, C<sub>n</sub><sup>3</sup> 으로 표기한다. 당연히, C<sub>n</sub><sup>n</sup> = E  
+하나의 분자가 여러개의 rotation axis를 가질 수 있는데, 이러한 경우 가장 높은 order를 가지는 rotation axis를 the highest order rotation axis or __principal axis__ 라고 한다. Cartesian coordinates를 할당하기 위해서 주로 principal axis를 z 축으로 선택하고, z축에 수직한 나머지 rotation axis는 prime(')으로 표기한다. 이 중에서 rotation axis가 여러개의 원자들을 통과하면 single prime, C<sub>n</sub>'으로 표기하고, outer atoms 사이를 통과하면 double prime,  C<sub>n</sub>''으로 표기한다.  
+
+
+
+
 # Dipole moment (μ)
 서로 다른 두 electronegativity를 가진 원자가 결합하면 polar bond를 형성한다.  
 실험적으로는 간접적인 방법으로 dielectric constant를 측정하여 이를 계산한다.
