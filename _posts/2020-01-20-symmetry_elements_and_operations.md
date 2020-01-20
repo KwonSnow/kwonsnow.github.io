@@ -21,7 +21,7 @@ Symmetry __operation__ : reflection, rotation, inversion
 ## Rotation operation (C<sub>n</sub>), proper rotation
 rotation axis를 기준으로 360°/n 만큼 회전시키는 operation. 
 해당 operation을 몇번 했는지에 따라 C<sub>n</sub><sup>2</sup>, C<sub>n</sub><sup>3</sup> 으로 표기한다. 당연히, C<sub>n</sub><sup>n</sup> = E  
-하나의 분자가 여러개의 rotation axis를 가질 수 있는데, 이러한 경우 가장 높은 order를 가지는 rotation axis를 the highest order rotation axis or __principal axis__ 라고 한다. Cartesian coordinates를 할당하기 위해서 주로 principal axis를 z 축으로 선택하고, z축에 수직한 나머지 rotation axis는 prime(')으로 표기한다. 이 중에서 rotation axis가 여러개의 원자들을 통과하면 single prime, C<sub>n</sub>'으로 표기하고, outer atoms 사이를 통과하면 double prime,  C<sub>n</sub>"으로 표기한다.  
+하나의 분자가 여러개의 rotation axis를 가질 수 있는데, 이러한 경우 가장 높은 order를 가지는 rotation axis를 the highest order rotation axis or __principal axis__ 라고 한다. Cartesian coordinates를 할당하기 위해서 주로 principal axis를 z 축으로 선택하고, z축에 수직한 나머지 rotation axis는 prime(′)으로 표기한다. 이 중에서 rotation axis가 여러개의 원자들을 통과하면 single prime, C<sub>n</sub>′으로 표기하고, outer atoms 사이를 통과하면 double prime,  C<sub>n</sub>′′으로 표기한다.  
 
 ## Reflection operation (σ)
 Mirror plane이 principal axis와 __수직이면__ σ<sub>h</sub> __(horizontal)__ 로 표기하고, mirror plane이 이를 포함하면 σ<sub>υ</sub> or σ<sub>d</sub>로 표기한다.
