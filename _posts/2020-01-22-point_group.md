@@ -13,6 +13,19 @@ tags:
 한 분자의 여러 symmetry operations을 하나의 set로 모아놓은 것을 그 분자의 point group이라고 한다.  
 Point group을 결정하는 것은 아래의 diagram을 따라가기만 하면 된다. 다만 첫번째 step인 분자가 low (or high) symmetry를 가지고 있느냐만 집고 넘어가보자.  
 low symmetry는 symmetry가 없거나(E), 하나의 mirror plane (C<sub>s</sub>)만 있거나, 하나의 inversion center (C<sub>i</sub>) 만 있을 경우에 해당된다.
+high symmetry는 여러가지가 있는데,
+C<sub>∞υ</sub>:  linear하고, inversion center가 없는 경우, <sub>HCl</sub>  
+D<sub>∞h</sub>: linear하고 perpendicular C2 axis & perpendicular mirror plane, inversion center가 존재하는 경우, CO<sub>2</sub>  
+T<sub>d</sub>: Tetrahedral, CH<sub>4</sub>  
+O<sub>h</sub>: Ohtahedral, SF<sub>6</sub> 
+I<sub>h</sub>: Icosahedral, B<sub>12</sub>H<sub>12</sub><sup>2-</sup>  
+
+[symmetry decision tree](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmtry.htm) 
+![Alt Text](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmchrt.gif)
+
+
+
+
 
 # Symmetry
 분자의 symmetry를 분석함으로써 __optical activity__ 를 예측할 수 있고, __infrared-active stretching vibration__ 의 수와 type을 결정할 수 있으며, 본딩에 사용된 __orbital의 type__ 을 기술하기도 하고, __electronic spectra__ 를 해석할 수 있다.  
