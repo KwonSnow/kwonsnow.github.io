@@ -25,7 +25,8 @@ I<sub>h</sub>: Icosahedral, B<sub>12</sub>H<sub>12</sub><sup>2-</sup>
 
 # Matrix representation
 각각의 symmetry operation은 행렬의 형태로 표현할 수 있는데, 이를 transformation matrix라고 한다.  
-[New coordinates] = [transformation matrix] [old coordinates]
+<p class="text-center"> [New coordinates] = [transformation matrix] [old coordinates] </p>
+
 
 H<sub>2</sub>O (C<sub>2υ</sub>)를 예로 들어보자. 물분자는 세개의 atom이 있고, 따라서 각 atom마다 xyz coordinate가 있다. 물분자에는 네 개의 symmetry operations이 있다. 이중에서 어떤 operation을 몇 번을 하든 원래의 물분자와 indistinguishable 하다.  
 
