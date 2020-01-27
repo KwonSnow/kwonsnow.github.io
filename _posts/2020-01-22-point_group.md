@@ -60,13 +60,11 @@ C<sub>3υ</sub>의 charater table을 만들기 위해,
 
 ![image-center]({{ 'images/C3v_operations_4.PNG' | absolute_url }}){: .align-center}
 
-irreducible representation에 label을 붙일 때는 규칙이 있는데....
-
+Charater table을 볼 때, order: 6 = 1(E)+2(C<sub>3</sub>)+3(σ<sub>υ</sub>), class, dimension 등등이 헷갈리지 않도록 잘 기억해 두도록 하자.
 
 ![image-center]({{ 'images/C3v_operations_5.PNG' | absolute_url }}){: .align-center}
 
-
-
+irreducible representation에 label을 붙일 때는 규칙이 있는데....
 
 
 
