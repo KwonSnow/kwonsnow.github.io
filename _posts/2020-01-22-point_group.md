@@ -23,7 +23,7 @@ I<sub>h</sub>: Icosahedral, B<sub>12</sub>H<sub>12</sub><sup>2-</sup>
 [symmetry decision tree](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmtry.htm)  
 ![Alt Text](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmchrt.gif)
 
-주의: perpendicular C<sub>2</sub> axis가 없으면 D group!  
+주의: perpendicular C<sub>2</sub> axis가 없으면 (C가 아니고) D group!  
 
 # Matrix representation
 각각의 symmetry operation은 행렬의 형태로 표현할 수 있는데, 이를 transformation matrix라고 한다.  
@@ -34,13 +34,13 @@ H<sub>2</sub>O (C<sub>2υ</sub>)를 예로 들어보자. 물분자는 세개의 
 
 ![image-center]({{ 'images/C2v_operations_1.PNG' | absolute_url }}){: .align-center}
 
-__Character__ 란 위의 예시처럼 diagonal에 있는 요소들의 합을 말한다. 이런 character들의 집합을 __reducible representation (Γ)__ 이라고 한다. C<sub>2υ</sub>의 경우 각 symmetry operation의 matrix representaion은 diagonal element를 제외하면 모두 0 이기 때문에, 각 matrix를 3개의 digonal 1x1 block matrix로 나눌 수 있고, 각 block matrix의 digonal element의 합(여기서는 1)을 각 operation의 column에 써줄 수 있다. 이때 각 __row__를 __irreducible representation__ 이라고 한다.  
+__Character__ 란 위의 예시처럼 diagonal에 있는 요소들의 합을 말한다. 이런 character들의 집합을 __reducible representation (Γ)__ 이라고 한다. C<sub>2υ</sub>의 경우 각 symmetry operation의 matrix representaion은 diagonal element를 제외하면 모두 0 이기 때문에, 각 matrix를 3개의 digonal 1x1 block matrix로 나눌 수 있고, 각 block matrix의 digonal element의 합(여기서는 1)을 각 operation의 column에 써줄 수 있다. 이때 각 __row__ 를 __irreducible representation__ 이라고 한다.  
 
 
 ![image-center]({{ 'images/C2v_operations_2.PNG' | absolute_url }}){: .align-center}
 
 
-# Let's make a character table for NH3
+# Let's make a character table for NH<sub>3</sub> molecule
 
 ![image-center]({{ 'images/C3v_operations_1.PNG' | absolute_url }}){: .align-center}
 
