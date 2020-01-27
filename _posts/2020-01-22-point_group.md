@@ -32,7 +32,7 @@ H<sub>2</sub>O (C<sub>2υ</sub>)를 예로 들어보자. 물분자는 세개의 
 
 ![image-center]({{ 'images/C2v_operations_1.PNG' | absolute_url }}){: .align-center}
 
-__Character__ 란 위의 예시처럼 diagonal에 있는 요소들의 합을 말한다. 이런 character들의 집합을 __reducible representation (Γ)__ 이라고 한다. C<sub>2υ</sub>의 경우 각 symmetry operation의 matrix representaion은 diagonal element를 제외하면 모두 0 이기 때문에 x, y, z coordinates가 독립적으로 적용될 수 있으므로, 각각의 x, y, z contribution으로 deconvolution할 수 있는데 이렇게 deconvolute한 row를 __irreducible representation__ 이라고 한다.  
+__Character__ 란 위의 예시처럼 diagonal에 있는 요소들의 합을 말한다. 이런 character들의 집합을 __reducible representation (Γ)__ 이라고 한다. C<sub>2υ</sub>의 경우 각 symmetry operation의 matrix representaion은 diagonal element를 제외하면 모두 0 이기 때문에, 각 matrix를 3개의 digonal 1x1 block matrix로 나눌 수 있고, 각 block matrix의 digonal element의 합(여기서는 1)을 각 operation의 column에 써줄 수 있다. 이때 각 __row__를 __irreducible representation__ 이라고 한다.  
 
 
 ![image-center]({{ 'images/C2v_operations_2.PNG' | absolute_url }}){: .align-center}
