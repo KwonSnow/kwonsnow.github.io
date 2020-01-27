@@ -23,6 +23,8 @@ I<sub>h</sub>: Icosahedral, B<sub>12</sub>H<sub>12</sub><sup>2-</sup>
 [symmetry decision tree](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmtry.htm)  
 ![Alt Text](https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/symmetry/symmchrt.gif)
 
+주의: perpendicular C<sub>2</sub> axis가 없으면 D group!  
+
 # Matrix representation
 각각의 symmetry operation은 행렬의 형태로 표현할 수 있는데, 이를 transformation matrix라고 한다.  
 <p class="text-center"> [New coordinates] = [transformation matrix] [old coordinates] </p>
