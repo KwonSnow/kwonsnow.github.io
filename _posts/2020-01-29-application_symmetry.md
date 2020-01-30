@@ -53,13 +53,5 @@ Group theory에서는 __vibrational mode가 IR active하려면 cartesian coordin
 
 따라서 H<sub>2</sub>O의 2A<sub>1</sub> + B<sub>1</sub> 는 모두 IR active하다. (주의: B<sub>2</sub> vibrational mode는 없음)  
 
-Raman의 경우에는 symmetry가 x, y, or z의 product (such as x<sup>2</sup> or yz)에 관련되어 있어야 한다.
+__Raman의 경우에는 vibration의 symmetry가 x, y, or z의 product (such as x<sup>2</sup> or yz)의 함수로__ 표현 되어야 한다.
 
-
-각각의 irreduvible representation은 하나의 molecular motion으로 간주하자.
-전체 irreducible representation의 수에서 translational + rotational degree of freedom을 빼면 남은 irreducible representation은 각각의 normal mode를 가진 vibrational mode로 생각할 수 있다.
-
-
-
-
-각각의 irreducible representation에 symmetry label을 붙이는데,
