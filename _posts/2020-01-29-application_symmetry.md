@@ -23,9 +23,9 @@ H<sub>2</sub>O(C<sub>2υ</sub>)는 9 개의 degree of freedom을 가지고 있�
 9개의 motion에 대해 translation, rotation, and vibration을 할당하기 위해서는 transformation matrices의 character를 판별한 후 t
 
 H<sub>2</sub>O의 경우 9x9 matrix여야 하나의 transformation matrix 를 표현할 수 있는데, C<sub>2υ</sub>는 아래의 symmetry operation은 4개가 있다.
-9x9 matrix에서 C<sub>2υ</sub>나 σ<sub>υ(xz)</sub>처럼 H<sub>a</sub>와 H<sub>b</sub>의 위치가 서로 교환되는 경우에는 다음과 같이  
+9x9 matrix에서 C<sub>2υ</sub>나 σ<sub>υ</sub>(yz)처럼 H<sub>a</sub>와 H<sub>b</sub>의 위치가 서로 교환되는 경우에는 다음과 같이  
 결국 이러한 경우에는 diagonal에서 벗어나므로 character를 결정할때는 기여가 0이 된다.
-반면 E나 σ′<sub>υ(yz)</sub>처럼 위치에 변함이 없는 경우에는 모두 diagonal에 위치하여 character를 결정할 때 기여한다.
+반면 E나 σ′<sub>υ</sub>(xz)처럼 위치에 변함이 없는 경우에는 모두 diagonal에 위치하여 character를 결정할 때 기여한다.
 
 ![image-center]({{ 'images/app_sym_2.PNG' | absolute_url }}){: .align-center}
 
