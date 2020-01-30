@@ -52,7 +52,8 @@ Group theory에서는 __vibrational mode가 IR active하려면 cartesian coordin
 
 ![image-center]({{ 'images/app_sym_5.PNG' | absolute_url }}){: .align-center}
 
-따라서 H<sub>2</sub>O의 2A<sub>1</sub> + B<sub>1</sub> 는 모두 IR active하다. (주의: B<sub>2</sub> vibrational mode는 없음)  
+주의 할 점은 C<sub>2υ</sub> point group이라고 해서 위의 모든 IR active mode를 가지지 않는다는 점이다. 
+H<sub>2</sub>O의 2A<sub>1</sub> + B<sub>1</sub> 는 모두 IR active 하지만 B<sub>2</sub> vibrational mode는 없다.
 
 __Raman의 경우에는 vibration의 symmetry가 x, y, or z의 product (such as x<sup>2</sup> or yz)의 함수로__ 표현 되어야 한다.
 
