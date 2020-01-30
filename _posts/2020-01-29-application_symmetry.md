@@ -36,9 +36,11 @@ H<sub>2</sub>O의 경우 9x9 matrix여야 하나의 transformation matrix 를 �
 따라서 9개의 degree of freedom이 있기 때문에, 9개의 irreducible representaion이 있다. ( 3A<sub>1</sub> + A<sub>2</sub> + 3B<sub>1</sub> + 2B<sub>2</sub> ) 여기서 translation과 rotation motion의 갯수를 빼주어야 몇 개의 vibration mode가 있는지 알 수 있다.  
 아래 character table의 오른쪽을 보면 symmetry의 수학적 표현이 x, y, z coordination과 관련되어 있는지 Rx, Ry, Rz 같은 rotation axis와 연관되어 있는지 알 수 있다.  
 Translation은 x, y, z 와 관련되어 있으므로, A<sub>1</sub>, B<sub>1</sub>, B<sub>2</sub>가 이에 해당되고, Rotation은 Rx, Ry, Rz와 관련되어 있으므로, A<sub>2</sub>, B<sub>1</sub>, B<sub>2</sub>가 해당 된다. 
+
 ![image-center]({{ 'images/app_sym_3_2.PNG' | absolute_url }}){: .align-center}
 
 따라서 이에 해당하는 만큼 Total degree of freedom에서 빼주면,  
+
 ![image-center]({{ 'images/app_sym_4.PNG' | absolute_url }}){: .align-center}
 
 Vibration mode는 2A<sub>1</sub> + B<sub>1</sub>만 남게된다. 즉 총 3개의 normal mode가 존재할 수 있다.
