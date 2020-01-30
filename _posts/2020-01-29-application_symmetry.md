@@ -29,7 +29,8 @@ H<sub>2</sub>O의 경우 9x9 matrix여야 하나의 transformation matrix 를 �
 
 ![image-center]({{ 'images/app_sym_2.PNG' | absolute_url }}){: .align-center}
 
-따라서 reducible representation (Γ)는 9 -1 3 1 이 된다. 이것을 각각의 irreducible representation의 요소로 분리하기 위해서 다음과 같은 규칙을 사용한다.
+따라서 reducible representation (Γ)는 9 -1 3 1 이 된다. 이것은 9개의 motion 전체를 나타내는 하나의 지표라고 생각할 수 있다.
+이 9가지의 motion을 각각의 irreducible representation의 요소로 분리하기 (or projection) 위해서 다음과 같은 규칙을 사용한다.
 
 ![image-center]({{ 'images/app_sym_3.PNG' | absolute_url }}){: .align-center}
  
