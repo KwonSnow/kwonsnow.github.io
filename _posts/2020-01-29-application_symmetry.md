@@ -9,6 +9,10 @@ tags:
   - Raman activity
 ---
 
+# Optical activity
+## Chirality
+Mirror image에 중첩되지 않는 분자들을 __chiral__ 또는 __dissymmetric__ 하다고 하는데, dissymmetric 하다는 말이 곧 symmetry가 없다는 말은 아니다. 
+CBrClFI와 같은 분자처럼 E를 제외한 다른 symmetry operation이 없거나, only proper roation axis만 있을 때 그 분자를 chiral 하다고 말한다. 이러한 chiral 분자들은 빛을 편향시키는 성질이 있어 __optical activity__ 가 있다. 빛을 시계방향으로 편향시키면 dextrorotatory, 반시계방향으로 편향시키면 levorotatory라고 한다. 
 
 
 # Molecular Vibrations
@@ -46,6 +50,8 @@ Translation은 x, y, z 와 관련되어 있으므로, A<sub>1</sub>, B<sub>1</su
 Vibration mode는 2A<sub>1</sub> + B<sub>1</sub>만 남게된다. 즉 총 3개의 normal mode가 존재할 수 있다.
 물론 irreducible representation이 해당 normal mode의 모든 것을 보여주진 않지만, 이러한 방법을 통해서 적어도 몇개의 vibration degree of freedom 이 있고 (symmetry label을 통해) 각각의 mode가 어떤 특징을 가지는지는 알 수 있다.
 
+## IR activity
+
 __Molecular vibration이 IR active하기 위해서는 해당 분자의 dipole moment의 변화가 있어야 한다.__  
 
 Group theory에서는 __vibrational mode가 IR active하려면 cartesian coordinates, x, y, or z에 대해 symmetry를 가지고 있어야 한다.__ 왜냐하면 x, y, or z 방향에 대해 분자의 center of charge가 이동하면 dipole moment를 형성하기 때문이다.  
@@ -54,6 +60,8 @@ Group theory에서는 __vibrational mode가 IR active하려면 cartesian coordin
 
 주의 할 점은 C<sub>2υ</sub> point group이라고 해서 위의 모든 IR active mode를 가지지 않는다는 점이다. 
 H<sub>2</sub>O의 2A<sub>1</sub> + B<sub>1</sub> 는 모두 IR active 하지만 B<sub>2</sub> vibrational mode는 없다.
+
+## Raman activity
 
 __Raman의 경우에는 vibration의 symmetry가 x, y, or z의 product (such as x<sup>2</sup> or yz)의 함수로__ 표현 되어야 한다.
 
