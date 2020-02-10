@@ -11,7 +11,7 @@ tags:
 
 # Optical activity
 ## Chirality
-Mirror image에 중첩되지 않는 분자들을 __chiral__ 또는 __dissymmetric__ 하다고 하는데, dissymmetric 하다는 말이 곧 symmetry가 없다는 말은 아니다. 
+Mirror image에 중첩되지 않는 분자들을 __chiral__ 또는 __dissymmetric__ 하다고 한다. (dissymmetric 하다는 말이 곧 symmetry가 없다는 말은 아니다.)
 CBrClFI와 같은 분자처럼 E를 제외한 다른 symmetry operation이 없거나, only proper roation axis만 있을 때 그 분자를 chiral 하다고 말한다. 이러한 chiral 분자들은 빛을 편향시키는 성질이 있어 __optical activity__ 가 있다. 빛을 시계방향으로 편향시키면 dextrorotatory, 반시계방향으로 편향시키면 levorotatory라고 한다. 
 
 
