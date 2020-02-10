@@ -66,16 +66,15 @@ Charater table을 볼 때, order: 6 = 1(E)+2(C<sub>3</sub>)+3(σ<sub>υ</sub>), 
 
 ![image-center]({{ 'images/C3v_operations_5.PNG' | absolute_url }}){: .align-center}
 
-irreducible representation에 label을 붙일 때는 규칙이 있는데....
+irreducible representation은 아래와 같은 규칙으로 notation 한다..
+
+![image-center]({{ 'images/representation_notation_1.PNG' | absolute_url }}){: .align-center}
+![image-center]({{ 'images/representation_notation_2.PNG' | absolute_url }}){: .align-center}
 
 
 
 
 
-각각의 irreduvible representation은 하나의 molecular motion으로 간주하자.
-전체 irreducible representation의 수에서 translational + rotational degree of freedom을 빼면 남은 irreducible representation은 각각의 normal mode를 가진 vibrational mode로 생각할 수 있다.
 
 
 
-
-각각의 irreducible representation에 symmetry label을 붙이는데,
