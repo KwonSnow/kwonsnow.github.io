@@ -72,7 +72,7 @@ tr:nth-child(even) {
   <tr>
     <th>notation</th>
     <th>symmetry</th>
-    <th># of nodes that include the center of C<sub>z</sub></th>
+    <th># of nodes that include the center of bond axis</th>
   </tr>
   <tr>
     <td>σ(sigma)</td>
