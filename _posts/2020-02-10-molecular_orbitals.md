@@ -38,6 +38,7 @@ __어떤 상황에서든 MO의 수는 AO의 수와 같다.__
 
 ![image-center]({{ 'images/p_orbital_interaction.PNG' | absolute_url }}){: .align-center}
 
+같거나 반대의 sign을 가진 orbital overlap의 기여가 같으면, bonding과 antibonding의 효과가 상쇄되어 MO를 만들지 않는다. 즉, 한 원자의 AO symmetry properties가 다른 원자의 어떠한 AO와도 맞지 않으면(do not match), nonbonding orbital이라고 한다.
 
 # Molecular orbitals from d orbitals
 
