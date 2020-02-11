@@ -28,8 +28,10 @@ bonding을 구성하는 조건으로 다음의 세가지를 들 수 있다.
 
 여기서 Atomic orbital(AO)의 부호(sign)는 임의적이다.
 
-bonding을 이룰 때, orbitals이 원자를 연결하는 축에 대해 rotation symmetry가 있으면 σ가 bond라고 한다.
-
+Bonding MO는 두 AO의 합으로 두 원자핵 사이의 electron concentration을 증가시키고, 에너지를 낮다.  
+Antibonding MO는는 두 AO의 차로 두 wave function의 상쇄로 인해 zero electron density, 즉 node가 생기고, 에너지가 높다. 이러한 antibonding MO의 electron은 두 원자 사이에 반발력을 일으킨다.  
+Nonbonding orbital도 가능한데, 한 원자의 AO symmetry가 다른 원자의 AO symmetry와 맞지 않거나, 우연히 MO의 에너지가 AO의 에너지가 같은 경우이다.  
+__어떤 상황에서든 MO의 수는 AO의 수와 같다.__
 
 <head>
 <style>
