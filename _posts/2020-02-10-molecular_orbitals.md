@@ -36,12 +36,12 @@ __어떤 상황에서든 MO의 수는 AO의 수와 같다.__
 # Molecular orbitals from p orbitals
 두 원자핵을 연결하는 축을 z축으로 정의하자. 이 경우 p<sub>z</sub> orbital끼리 빼야, σ orbital을 이루고, 더하면 σ* orbital을 만든다.
 
-
+![image-center]({{ 'images/p_orbital_interaction.PNG' | absolute_url }}){: .align-center}
 
 
 # Molecular orbitals from d orbitals
 
-
+![image-center]({{ 'images/d_orbital_interaction.PNG' | absolute_url }}){: .align-center}
 
 
 <head>
