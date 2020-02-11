@@ -33,6 +33,17 @@ Antibonding MO는는 두 AO의 차로 두 wave function의 상쇄로 인해 zero
 Nonbonding orbital도 가능한데, 한 원자의 AO symmetry가 다른 원자의 AO symmetry와 맞지 않거나, 우연히 MO의 에너지가 AO의 에너지가 같은 경우이다.  
 __어떤 상황에서든 MO의 수는 AO의 수와 같다.__
 
+# Molecular orbitals from p orbitals
+두 원자핵을 연결하는 축을 z축으로 정의하자. 이 경우 p<sub>z</sub> orbital끼리 빼야, σ orbital을 이루고, 더하면 σ* orbital을 만든다.
+
+
+
+
+# Molecular orbitals from d orbitals
+
+
+
+
 <head>
 <style>
 table {
@@ -60,21 +71,21 @@ tr:nth-child(even) {
   <tr>
     <th>notation</th>
     <th>symmetry</th>
-    <th># of nodes including the line of centers</th>
+    <th># of nodes that include the center of C<sub>z</sub></th>
   </tr>
   <tr>
     <td>σ(sigma)</td>
-    <td>rotation</td>
+    <td>symmetric to rotation about bond axis</td>
     <td>0</td>
   </tr>
   <tr>
     <td>π(pi)</td>
-    <td>change sign with C<sub>2</sub> rotation</td>
+    <td>change in sign with C<sub>2</sub> rotation</td>
     <td>1</td>
   </tr>
   <tr>
     <td>𝛿(delta)</td>
-    <td>change sign with C<sub>4</sub> rotation</td>
+    <td>change in sign with C<sub>4</sub> rotation</td>
     <td>2</td>
   </tr>
 </table>
