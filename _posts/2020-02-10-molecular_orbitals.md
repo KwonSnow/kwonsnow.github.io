@@ -113,22 +113,11 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 
 ![image-center]({{ 'images/orbital_mixing.PNG' | absolute_url }}){: .align-center}
 
+이 __네 개의 MO__ 를 비슷한 에너지를 가진 네 개의 AO의 combination으로 다음과 같이 나타낼 수 있다.
 
 <p><span class="math inline">\(\Psi=c_{1} \psi\left(2 s_{a}\right) \pm c_{2} \psi\left(2 s_{b}\right) \pm c_{3} \psi\left(2 p_{a}\right) \pm c_{4} \psi\left(2 p_{b}\right)\)</span></p>
 
-
-
-σ<sub>u</sub>* 끼리도 상호작용하여
-
-
-
-
-
-두 원자핵을 연결하는 축을 z축으로 정의하자. 이 경우 p<sub>z</sub> orbital끼리 빼야, σ orbital을 이루고, 더하면 σ* orbital을 만든다.
-
-
-같거나 반대의 sign을 가진 orbital overlap의 기여가 같으면, bonding과 antibonding의 효과가 상쇄되어 MO를 만들지 않는다. 즉, 한 원자의 AO symmetry properties가 다른 원자의 __어떠한__ AO와도 맞지 않으면(do not match), __nonbonding orbital__ 이라고 한다.
-
-
+Homonuclear molecules의 경우 c<sub>1</sub>=c<sub>2</sub>, c<sub>3</sub>=c<sub>4</sub> 이다.
+이 __네 개의 MO__ 는 mixing을 하지 않았을 때와 symmetry는 같지만, s와 p character의 mixing 때문에 모양은 좀 달라진다.
 
 
