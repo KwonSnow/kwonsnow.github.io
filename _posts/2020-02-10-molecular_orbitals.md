@@ -109,7 +109,7 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 # Orbital Mixing
 
 같은 symmetry를 가진 두 개의 __MO__ 이 비슷한 에너지를 가질 때, 이 둘은 서로 상호작용하여 낮은 orbital의 에너지를 더 낮추고, 높은 orbital의 에너지는 더 높인다.
-아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub>* 끼리도 상호작용하여 σ<sub>u</sub>*(2s) 의 에너지를 낮추고, σ<sub>u</sub>*(2s)의 에너지를 높인다.  
+아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub>* 끼리도 상호작용하여 σ<sub>u</sub>* (2s) 의 에너지를 낮추고, σ<sub>u</sub>* (2p)의 에너지를 높인다.  
 
 ![image-center]({{ 'images/orbital_mixing.PNG' | absolute_url }}){: .align-center}
 
