@@ -97,6 +97,9 @@ tr:nth-child(even) {
 Lewis electron-dot diagram을 이용하면 N<sub>2</sub>, O<sub>2</sub>, F<sub>2</sub>와 같은 분자들은 큰 문제가 없지만, Li<sub>2</sub>, Be<sub>2</sub>, B<sub>2</sub>, C<sub>2</sub>와 같은 분자들은 octet rule을 만족시키지 않기 때문에 설명하기 어렵다. 게다가 O<sub>2</sub>는 실험적으로 두개의 unpaired electrons이 관측되고 따라서 paramagnetic 성질을 보이는데 Lewis 방식으로는 이를 설명할 수 없으므로 Molecular orbital이 필요하다.
 ![image-center]({{ 'images/O2_molecule.PNG' | absolute_url }}){: .align-center}
 
+
+
+
 ## bond order
 bonding과 antibonding electrons의 수는 bond의 수를 결정하는데, 이를 __bond order__ 라 한다.  
 <p class="text-center"> Bond order = 1/2*{(# of e<sup>-</sup> in bonding orbitals)-(# of e<sup>-</sup> in antibonding orbitals)} </p>
@@ -106,16 +109,23 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 # Orbital Mixing
 
 같은 symmetry를 가진 두 개의 __MO__ 이 비슷한 에너지를 가질 때, 이 둘은 서로 상호작용하여 낮은 orbital의 에너지를 더 낮추고, 높은 orbital의 에너지는 더 높인다.
-아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub><sup>*</sup> 끼리도 상호작용하여 σ<sub>u</sub><sup>*</sup>(2s) 의 에너지를 낮추고, σ<sub>u</sub><sup>*</sup>(2s)의 에너지를 높인다.  
+아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub>* 끼리도 상호작용하여 σ<sub>u</sub>*(2s) 의 에너지를 낮추고, σ<sub>u</sub>*(2s)의 에너지를 높인다.  
+
+![image-center]({{ 'images/orbital_mixing.PNG' | absolute_url }}){: .align-center}
+
+
+<p><span class="math inline">\(\Psi=c_{1} \psi\left(2 s_{a}\right) \pm c_{2} \psi\left(2 s_{b}\right) \pm c_{3} \psi\left(2 p_{a}\right) \pm c_{4} \psi\left(2 p_{b}\right)\)</span></p>
+
+
 
 σ<sub>u</sub>* 끼리도 상호작용하여
 
 
 
 
+
 두 원자핵을 연결하는 축을 z축으로 정의하자. 이 경우 p<sub>z</sub> orbital끼리 빼야, σ orbital을 이루고, 더하면 σ* orbital을 만든다.
 
-![image-center]({{ 'images/orbital_mixing.PNG' | absolute_url }}){: .align-center}
 
 같거나 반대의 sign을 가진 orbital overlap의 기여가 같으면, bonding과 antibonding의 효과가 상쇄되어 MO를 만들지 않는다. 즉, 한 원자의 AO symmetry properties가 다른 원자의 __어떠한__ AO와도 맞지 않으면(do not match), __nonbonding orbital__ 이라고 한다.
 
