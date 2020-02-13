@@ -101,8 +101,17 @@ Lewis electron-dot diagram을 이용하면 N<sub>2</sub>, O<sub>2</sub>, F<sub>2
 bonding과 antibonding electrons의 수는 bond의 수를 결정하는데, 이를 __bond order__ 라 한다.  
 <p class="text-center"> Bond order = 1/2*{(# of e<sup>-</sup> in bonding orbitals)-(# of e<sup>-</sup> in antibonding orbitals)} </p>
 
+O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 경우와 같이 double bond를 나타낸다.
 
 # Orbital Mixing
+
+같은 symmetry를 가진 두 개의 __MO__ 이 비슷한 에너지를 가질 때, 이 둘은 서로 상호작용하여 낮은 orbital의 에너지를 더 낮추고, 높은 orbital의 에너지는 더 높인다.
+아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub><sup>*</sup> 끼리도 상호작용하여 σ<sub>u</sub><sup>*</sup>(2s) 의 에너지를 낮추고, σ<sub>u</sub><sup>*</sup>(2s)의 에너지를 높인다.  
+
+
+
+
+
 
 두 원자핵을 연결하는 축을 z축으로 정의하자. 이 경우 p<sub>z</sub> orbital끼리 빼야, σ orbital을 이루고, 더하면 σ* orbital을 만든다.
 
