@@ -115,6 +115,9 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 
 이 __네 개의 MO__ 를 비슷한 에너지를 가진 네 개의 AO의 combination으로 다음과 같이 나타낼 수 있다.
 
+<p class="text-center"> <p><span class="math inline">\(\Psi=c_{1} \psi\left(2 s_{a}\right) \pm c_{2} \psi\left(2 s_{b}\right) \pm c_{3} \psi\left(2 p_{a}\right) \pm c_{4} \psi\left(2 p_{b}\right)\)</span></p> </p>
+
+
 <p><span class="math inline">\(\Psi=c_{1} \psi\left(2 s_{a}\right) \pm c_{2} \psi\left(2 s_{b}\right) \pm c_{3} \psi\left(2 p_{a}\right) \pm c_{4} \psi\left(2 p_{b}\right)\)</span></p>
 
 Homonuclear molecules의 경우 c<sub>1</sub>=c<sub>2</sub>, c<sub>3</sub>=c<sub>4</sub> 이다.
