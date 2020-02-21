@@ -121,4 +121,20 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 Homonuclear molecules의 경우 c<sub>1</sub>=c<sub>2</sub>, c<sub>3</sub>=c<sub>4</sub> 이다.
 이 __네 개의 MO__ 는 mixing을 하지 않았을 때와 symmetry는 같지만, s와 p character의 mixing 때문에 모양은 좀 달라진다.
 
+# Homonuclear Diatomic Molecules
+먼저 magnetism에 대한 정리부터 시작해보자.  
+Diamagnetism: unpaired electron이 없고, magnetic field에 대해 아주 적은 양만큼 척력이 작용함.  
+Paramagnetism: unpaired electron이 작은 자석처럼 작용하여 외부 magnetic field에 대해 인력이 작용하지만 magnetic field가 있을 때만 magnetized 됨.
+Ferromagnetism: magnetic field로 인해 유도된 magnetism이 field가 사라져도 유지됨.
+
+
+Homonuclear diatomic molecule의 경우를 보자.
+같은 symmetry를 갖는 σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)가 Mixing 하여 σ<sub>g</sub>(2p)의 에너지는 올라가고, σ<sub>g</sub>(2s)의 에너지는 내려간다. 따라서 nuclear charge (Z)가 작을 때는 σ<sub>g</sub>(2p)의 에너지가 π<sub>u</sub>(2p)의 에너지보다 높지만 Z가 커질수록 σ orbital의 에너지가 π orbital 보다 더 크게 낮아지게 되는데, 이는 σ interaction에 참여하는 atomic orbital의 overlap이 더 크기 때문이다. 또한 2s orbital이 2p 보다 shielding effect가 적기 때문에 Z가 커질수록 더욱 크게 안정화되고, 2s와 2p간의 에너지차이가 심해지면서 mixing이 적어지고 따라서 σ<sub>g</sub>(2p)의 에너지가 π<sub>u</sub>(2p) 보다 낮아지게 된다.
+
+
+![image-center]({{ 'images/homo_diatomic.PNG' | absolute_url }}){: .align-center}
+
+MO theory에서는 Mixing 통해, 위의 그림처럼 B<sub>2</sub> 와 O<sub>2</sub> 가 Paramagnetic 성질을 갖는 지, C<sub>2</sub>가 어떻게 σ bond 없이 π bond만 가질 수 있는지, F<sub>2</sub>가 왜 그토록 reactive 한 지(bond order=1) 설명할 수 있다.
+
+orbital의 에너지는 
 
