@@ -127,7 +127,7 @@ __Diamagnetism__: unpaired electron이 없고, magnetic field에 대해 아주 �
 __Paramagnetism__: unpaired electron이 작은 자석처럼 작용하여 외부 magnetic field에 대해 인력이 작용하지만 __magnetic field가 있을 때만 magnetized 됨.__  
 __Ferromagnetism__: magnetic field로 인해 유도된 magnetism이 __field가 사라져도 유지됨.__
 
-
+<font size="3" color="blue">σ<sub>g</sub>(2p)</font>
 Homonuclear diatomic molecule의 경우를 보자.
 __같은 symmetry를 갖는__ σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)가 Mixing 하여 σ<sub>g</sub>(2p)의 에너지는 올라가고, σ<sub>g</sub>(2s)의 에너지는 내려간다. 따라서 nuclear charge (Z)가 작을 때는 σ<sub>g</sub>(2p)의 에너지가 π<sub>u</sub>(2p)의 에너지보다 높아진다. Z가 커질수록 σ orbital의 에너지가 π orbital 보다 더 크게 낮아지게 되는데, 이는 σ interaction에 참여하는 atomic orbital의 overlap이 더 크기 때문이다. 또한 2s orbital이 2p 보다 shielding effect가 적기 때문에 Z가 커질수록 더욱 크게 안정화되고, 2s와 2p간의 에너지차이가 심해지면서 mixing이 적어지고 따라서 σ<sub>g</sub>(2p)의 에너지가 π<sub>u</sub>(2p) 보다 낮아지게 된다.
 
