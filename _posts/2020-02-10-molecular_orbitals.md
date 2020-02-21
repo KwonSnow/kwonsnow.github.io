@@ -137,6 +137,7 @@ __같은 symmetry를 갖는__ σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)가 Mixing
 MO theory에서는 Mixing 통해, 위의 그림처럼 B<sub>2</sub> 와 O<sub>2</sub> 가 Paramagnetic 성질을 갖는 지, C<sub>2</sub>가 어떻게 σ bond 없이 π bond만 가질 수 있는지, F<sub>2</sub>가 왜 그토록 reactive 한 지(bond order=1) 설명할 수 있다.
 
 orbital의 에너지는 __photoelectron spectroscopy (PES)__ 를 통해 직접적으로 측정할 수 있다. 입사된 광자의 에너지에서 튀어나온 electron의 kinetic energy의 차이가 __ionization energy__ 이다. Ultraviolet lights은 주로 outer electrons을, X-rays는 주로 inner electron을 제거할 때 사용한다.  
+
 PES spectrum에서 electronic energy의 vibration energy와의 상호작용을 볼 수 있다. vibrational energy간의 energy level은 electronic energy 보다 훨씬 작기 때문에, electronic level간의 transition은 vibraional level간의 transition 또한 포함하게 되어, multiple peaks로 나타나게 된다. __bonding에 밀접하게 관여하는 orbital일 수록 vibrational fine peaks (multiple peaks)를 나타내게 된다.__
 
 
