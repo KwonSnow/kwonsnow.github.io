@@ -129,7 +129,7 @@ __Ferromagnetism__: magnetic field로 인해 유도된 magnetism이 __field가 �
 
 
 Homonuclear diatomic molecule의 경우를 보자.
-__같은 symmetry를 갖는__ σ<sub>g</sub>(2s)와 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>가 Mixing 하여 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지는 올라가고, σ<sub>g</sub>(2s)의 에너지는 내려간다. 따라서 nuclear charge (Z)가 작을 때는 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지가 <font size="3" color="orange">π<sub>u</sub>(2p)</font>의 에너지보다 높아진다. Z가 커질수록 σ orbital의 에너지가 π orbital 보다 더 크게 낮아지게 되는데, 이는 σ interaction에 참여하는 atomic orbital의 overlap이 더 크기 때문이다. 또한 2s orbital이 2p 보다 shielding effect가 적기 때문에 Z가 커질수록 더욱 크게 안정화되고, 2s와 2p간의 에너지차이가 심해지면서 mixing이 적어지고 따라서 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지가 <font size="3" color="orange">π<sub>u</sub>(2p)</font> 보다 낮아지게 된다.
+__같은 symmetry를 갖는__ __σ<sub>g</sub>(2s)__ 와 __<font size="3" color="blue">σ<sub>g</sub>(2p)</font>__ 가 Mixing 하여 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지는 올라가고, σ<sub>g</sub>(2s)의 에너지는 내려간다. 따라서 nuclear charge (Z)가 작을 때는 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지가 <font size="3" color="darkorange">π<sub>u</sub>(2p)</font>의 에너지보다 높아진다. Z가 커질수록 σ orbital의 에너지가 π orbital 보다 더 크게 낮아지게 되는데, 이는 σ interaction에 참여하는 atomic orbital의 overlap이 더 크기 때문이다. 또한 2s orbital이 2p 보다 shielding effect가 적기 때문에 Z가 커질수록 더욱 크게 안정화되고, 2s와 2p간의 에너지차이가 심해지면서 mixing이 적어지고 따라서 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>의 에너지가 <font size="3" color="darkorange">π<sub>u</sub>(2p)</font> 보다 낮아지게 된다.
 
 
 ![image-center]({{ 'images/homo_diatomic.PNG' | absolute_url }}){: .align-center}
@@ -138,7 +138,7 @@ MO theory에서는 Mixing 통해, 위의 그림처럼 B<sub>2</sub> 와 O<sub>2<
 
 orbital의 에너지는 __photoelectron spectroscopy (PES)__ 를 통해 직접적으로 측정할 수 있다. 입사된 광자의 에너지에서 튀어나온 electron의 kinetic energy의 차이가 __ionization energy__ 이다. Ultraviolet lights은 주로 outer electrons을, X-rays는 주로 inner electron을 제거할 때 사용한다.  
 
-위 PES stpectrum에서 N2와 O2의 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>와 <font size="3" color="orange">π<sub>u</sub>(2p)</font>의 에너지가 역전되어 있는 것도 볼 수 있다.  
+위 PES stpectrum에서 N2와 O2의 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>와 <font size="3" color="darkorange">π<sub>u</sub>(2p)</font>의 에너지가 역전되어 있는 것도 볼 수 있다.  
 
 PES spectrum에서 electronic energy의 vibration energy와의 상호작용도 볼 수 있다. vibrational energy간의 energy level은 electronic energy 보다 훨씬 작기 때문에, electronic level간의 transition은 vibraional level간의 transition 또한 포함하게 되어, multiple peaks로 나타나게 된다. __bonding에 밀접하게 관여하는 orbital일 수록 vibrational fine peaks (multiple peaks)를 나타내게 된다.__
 
