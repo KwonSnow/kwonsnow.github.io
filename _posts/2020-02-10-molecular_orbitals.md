@@ -113,7 +113,7 @@ O<sub>2</sub>를 예로들면 1/2*(10-6) = 2 로 Lewis electron-dot diagram의 �
 # Orbital Mixing
 
 같은 symmetry를 가진 두 개의 __MO__ 이 비슷한 에너지를 가질 때, 이 둘은 서로 상호작용하여 낮은 orbital의 에너지를 더 낮추고, 높은 orbital의 에너지는 더 높인다.
-아래의 homonuclear diatomics의 예를 보면, σ<sub>g</sub>(2s)와 σ<sub>g</sub>(2p)는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 σ<sub>g</sub>(2s)의 에너지를 낮추고 σ<sub>g</sub>(2p)의 에너지를 높인다. 비슷하게, σ<sub>u</sub>* 끼리도 상호작용하여 σ<sub>u</sub>* (2s) 의 에너지를 낮추고, σ<sub>u</sub>* (2p)의 에너지를 높인다.  
+아래의 homonuclear diatomics의 예를 보면, __<font color="red">σ<sub>g</sub>(2s)</font>__ 와 __<font color="blue">σ<sub>g</sub>(2p)</font>__ 는 같은 σ<sub>g</sub> symmetry를 가지고 있고, 서로 상호작용하여 __<font color="red">σ<sub>g</sub>(2s)</font>__ 의 에너지를 낮추고 __<font color="blue">σ<sub>g</sub>(2p)</font>__ 의 에너지를 높인다. 비슷하게, σ<sub>u</sub>* 끼리도 상호작용하여 <font color="red">σ<sub>u</sub>* (2s)</font> 의 에너지를 낮추고, <font color="blue">σ<sub>u</sub>* (2p)</font>의 에너지를 높인다.  
 
 ![image-center]({{ 'images/orbital_mixing.PNG' | absolute_url }}){: .align-center}
 
@@ -142,7 +142,7 @@ MO theory에서는 Mixing 통해, 위의 그림처럼 B<sub>2</sub> 와 O<sub>2<
 
 orbital의 에너지는 __photoelectron spectroscopy (PES)__ 를 통해 직접적으로 측정할 수 있다. 입사된 광자의 에너지에서 튀어나온 electron의 kinetic energy의 차이가 __ionization energy__ 이다. Ultraviolet lights은 주로 outer electrons을, X-rays는 주로 inner electron을 제거할 때 사용한다.  
 
-위 PES stpectrum에서 N<sub>2</sub>와 O<sub>2</sub>의 <font size="3" color="blue">σ<sub>g</sub>(2p)</font>와 <font size="3" color="darkorange">π<sub>u</sub>(2p)</font>의 에너지가 역전되어 있는 것도 볼 수 있다.  
+위 PES stpectrum에서 N<sub>2</sub>와 O<sub>2</sub>의 <font color="blue">σ<sub>g</sub>(2p)</font>와 <font color="darkorange">π<sub>u</sub>(2p)</font>의 에너지가 역전되어 있는 것도 볼 수 있다.  
 
 PES spectrum에서 electronic energy의 vibration energy와의 상호작용도 볼 수 있다. vibrational energy간의 energy level은 electronic energy 보다 훨씬 작기 때문에, electronic level간의 transition은 vibraional level간의 transition 또한 포함하게 되어, multiple peaks로 나타나게 된다. __bonding에 밀접하게 관여하는 orbital일 수록 vibrational fine peaks (multiple peaks)를 나타내게 된다.__
 
