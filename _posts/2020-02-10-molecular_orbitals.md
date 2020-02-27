@@ -147,3 +147,11 @@ orbital의 에너지는 __photoelectron spectroscopy (PES)__ 를 통해 직접�
 PES spectrum에서 electronic energy의 vibration energy와의 상호작용도 볼 수 있다. vibrational energy간의 energy level은 electronic energy 보다 훨씬 작기 때문에, electronic level간의 transition은 vibraional level간의 transition 또한 포함하게 되어, multiple peaks로 나타나게 된다. __bonding에 밀접하게 관여하는 orbital일 수록 vibrational fine peaks (multiple peaks)를 나타내게 된다.__
 
 
+# Polar Bonds
+Heteronuclear diatomic molecules의 경우에는 서로 다른 nuclear charge를 가진 atom이 bond를 형성하고 있다. 각각의 오비탈 에너지가 다르기 때문에 MO를 형성했을 때 각 atom의 AO의 MO에 대한 기여도 달라지게 된다. __한 atom의 AO가 MO의 에너지가 더 가깝다면 해당 MO에 더 많은 기여를 하게 되고, 더 큰 coefficeint를 갖는다.__ 일반적으로 AO orbital의 에너지가 12 or 13 eV 이상 차이가 나게되면 거의 상호작용하지 않는다고 생각한다.  
+
+CO의 경우를 예로들어 보자.
+먼저 주의할 점은 CO는 C<sub>∞υ</sub> symmetry를 가지고 있지만, 우리는 MO의 형성에 대해서 이야기 하고 있기 때문에 orbital의 symmetry를 고려해야한다. orbital lobe의 sign을 무시한다면, p<sub>x</sub>와 p<sub>y</sub>는 C<sub>2υ</sub> symmetry를 가지는데, __orbital의 point group을 결정할 때만 sign을 무시하고 이후의 과정에 대해서는 모두 고려__ 해야 한다.  
+s와 p<sub>z</sub> orbital은 A<sub>1</sub> (or a<sub>1</sub>) symmetry를 가지고, σ symmetry를 가진 MO를 형성한다. 반면, p<sub>x</sub>와 p<sub>y</sub>는 각각 B<sub>1</sub>, B<sub>2</sub> or (or b<sub>1</sub>, b<sub>2</sub>) symmetry를 가지고 π symmetry를 가진 MO를 형성한다.
+
+
