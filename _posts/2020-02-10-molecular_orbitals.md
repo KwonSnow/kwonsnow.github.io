@@ -152,6 +152,16 @@ Heteronuclear diatomic molecules의 경우에는 서로 다른 nuclear charge를
 
 CO의 경우를 예로들어 보자.
 먼저 주의할 점은 CO는 C<sub>∞υ</sub> symmetry를 가지고 있지만, 우리는 MO의 형성에 대해서 이야기 하고 있기 때문에 orbital의 symmetry를 고려해야한다. orbital lobe의 sign을 무시한다면, p<sub>x</sub>와 p<sub>y</sub>는 C<sub>2υ</sub> symmetry를 가지는데, __orbital의 point group을 결정할 때만 sign을 무시하고 이후의 과정에 대해서는 모두 고려__ 해야 한다.  
-s와 p<sub>z</sub> orbital은 A<sub>1</sub> (or a<sub>1</sub>) symmetry를 가지고, σ symmetry를 가진 MO를 형성한다. 반면, p<sub>x</sub>와 p<sub>y</sub>는 각각 B<sub>1</sub>, B<sub>2</sub> or (or b<sub>1</sub>, b<sub>2</sub>) symmetry를 가지고 π symmetry를 가진 MO를 형성한다.
+
+![image-center]({{ 'images/CO_MO_1.PNG' | absolute_url }}){: .align-center}
+
+s와 p<sub>z</sub> orbital은 A<sub>1</sub> (or a<sub>1</sub>) symmetry를 가지고, σ symmetry를 가진 MO를 형성한다. 반면, p<sub>x</sub>와 p<sub>y</sub>는 각각 B<sub>1</sub>, B<sub>2</sub> or (or b<sub>1</sub>, b<sub>2</sub>) symmetry를 가지고 π symmetry를 가진 MO를 형성한다.  
+
+![image-center]({{ 'images/CO_MO_2.PNG' | absolute_url }}){: .align-center}
+
+C 2s와 O 2s는 이미 ~ 13 eV 정도차이가 나기 때문에 MO를 형성할때 큰 interaction이 없을것이라 예상할 수 있다. 실제로 2σ orbital은 O 2s AO과 매우 가깝고, 2σ* 은 C 2s와 매우 가까운 것을 볼 수 있다.
+반면 C 2p와 O 2p는 ~ 5 eV 정도 차이가 나므로 보다 강한 interaction이 가능하고 3σ이 어느정도 중간 값에 위치하는 것을 볼 수 있다. 3σ MO의 경우 orbital의 모양을 보면 C의 contribution이 더 커서 C 쪽의 orbital이 더 큰 것을 볼 수 있다 (bigger coefficient). 단순히 Electronegativity만으로 설명을 하려고 하면 이것을 이해가 되지 않는데, MO theory에서는 O 2p orbital의 경우 2σ* (+3σ+3σ*) 와도 상호작용이 가능하지만, C 2p의 경우엔 3σ 와 3σ* 에만 크게 기여하기 때문에 이와 같은 현상을 설명할 수 있다. 이것은 특히 Metal (M)과의 결합을 설명하는데 있어 매우 중요한데, CO의 3σ MO는 C 쪽에 더 많은 electron이 있기 때문에 O 보다는 C 가 비어있는 M의 orbital과 더 많이 상호작용하게 되고 따라서 M-O-C가 아닌 M-C-O의 binding mode를 갖게 된다.  
 
 
+# Ionic Compounds
+electronegativity의 차이가 극도로 많이 날 경우에는 electron이 more electronegative한 원자로 완전히 전달되고, 높은 에너지를 가진 양이온의 orbital은 비어지게 된다. 하지만 MO theory에서는 이러한 ion pair 또한 covalent compound로 고려될 수 있다.
