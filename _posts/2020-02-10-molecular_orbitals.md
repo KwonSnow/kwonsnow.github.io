@@ -160,7 +160,7 @@ s와 p<sub>z</sub> orbital은 A<sub>1</sub> (or a<sub>1</sub>) symmetry를 가�
 ![image-center]({{ 'images/CO_MO_2.PNG' | absolute_url }}){: .align-center}
 
 C 2s와 O 2s는 이미 ~ 13 eV 정도차이가 나기 때문에 MO를 형성할때 큰 interaction이 없을것이라 예상할 수 있다. 실제로 2σ orbital은 O 2s AO과 매우 가깝고, 2σ* 은 C 2s와 매우 가까운 것을 볼 수 있다.
-반면 C 2p와 O 2p는 ~ 5 eV 정도 차이가 나므로 보다 강한 interaction이 가능하고 3σ이 어느정도 중간 값에 위치하는 것을 볼 수 있다. 3σ MO의 경우 orbital의 모양을 보면 C의 contribution이 더 커서 C 쪽의 orbital이 더 큰 것을 볼 수 있다 (bigger coefficient). 단순히 Electronegativity만으로 설명을 하려고 하면 이것을 이해가 되지 않는데, MO theory에서는 O 2p orbital의 경우 __2σ*__ ( ,3σ, 3σ* ) 와도 상호작용이 가능하지만, C 2p의 경우엔 3σ 와 3σ* 에만 크게 기여하기 때문에 이와 같은 현상을 설명할 수 있다. 이것은 특히 Metal (M)과의 결합을 설명하는데 있어 매우 중요한데, CO의 3σ MO는 C 쪽에 더 많은 electron이 있기 때문에 O 보다는 C 가 비어있는 M의 orbital과 더 많이 상호작용하게 되고 따라서 M-O-C가 아닌 M-C-O의 binding mode를 갖게 된다.  
+반면 C 2p와 O 2p는 ~ 5 eV 정도 차이가 나므로 보다 강한 interaction이 가능하고 3σ이 어느정도 중간 값에 위치하는 것을 볼 수 있다. 3σ MO의 경우 orbital의 모양을 보면 C의 contribution이 더 커서 C 쪽의 orbital이 더 큰 것을 볼 수 있다 (bigger coefficient). 단순히 Electronegativity만으로 설명을 하려고 하면 이것을 이해가 되지 않는데, MO theory에서는 O 2p orbital의 경우 2σ* ( ,3σ, 3σ* ) 와도 상호작용이 가능하지만, C 2p의 경우엔 3σ 와 3σ* 에만 크게 기여하기 때문에 이와 같은 현상을 설명할 수 있다. 이것은 특히 Metal (M)과의 결합을 설명하는데 있어 매우 중요한데, CO의 3σ MO는 C 쪽에 더 많은 electron이 있기 때문에 O 보다는 C 가 비어있는 M의 orbital과 더 많이 상호작용하게 되고 따라서 M-O-C가 아닌 M-C-O의 binding mode를 갖게 된다.  
 
 
 # Ionic Compounds
