@@ -12,7 +12,8 @@ Implicit solvents (or continuum solvents)는 implicit solvent molecules를 homog
 Continuum model은 thermally averaged and isotropic solvent만 고려하기 때문에, 적은 수의 parameter로도 적당한 정확도로 solvent를 표현할 수 있다.
 Dieletric constant는 주로 solvent의 polarizability 정도를 정의하는데 사용된다.
 일반적으로 말하면, Implicit solvent에서는 대상이 되는 solute를 타일로 된 cavity로 감싸게 되고, 이 cavity는 solvent를 묘사하는 homogeneously polarizable continuum 에 embedded 되어있다.
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/f/f6/PCM_-_cavity.svg)
+
+![image-center]({{ 'images/Cavity.PNG' | absolute_url }}){: .align-center}
 
 solute의 charge distribution은 cavity의 surface에서 continuous dielectric field와 만나게 되고, 주변의 medium을 polarize 시킨다. 이 polarized 된 medium은 또다시 solute를 polarization 시키게 된다. 이러한 과정에서 polarization의 변화에 대한 반응, 즉 reaction potential이 정의되는데, 이러한 재귀적인 (recursive) reaction potential은 self-consistency를 만족하도록 iteration 된다.
 Continuum models은 양자화학 뿐만 아니라 force field method에서도 널리 쓰인다.
