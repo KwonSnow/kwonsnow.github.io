@@ -40,7 +40,7 @@ dielectric constant를 solute와 bulk medium 사이의 buffer로서 사용한다
 
 <p><span class="math inline">\(S[\rho]=\frac{1}{2} \operatorname{erfc}\left(\frac{\log \left(\rho / \rho_{\mathrm{cut}}\right)}{\sigma \sqrt{2}}\right)\)</span></p>  
 
-따라서 dielectric function은 1부터 bulk dielectric constant까지 점진적으로 변하게 된다. 이러한 transition의 특정한 모양은 σ와 ρ<sub>cut</cut> parameter로 결정된다.
+따라서 dielectric function은 1부터 bulk dielectric constant까지 점진적으로 변하게 된다. 이러한 transition의 특정한 모양은 σ와 ρ<sub>cut</sub> parameter로 결정된다.
 
 여러가지 방법들이 개발되었는데,
 Poisson-Boltzmann equation에 기반한 Polarizable continuum model (PCM)과 generalized Born equation에 기반한 Solvation Model (SMx)가 있다. SMD (based on Density) model은 PCM과 비슷하지만 cavity를 만들 때 특정한 parametrised radii를 사용한다.
