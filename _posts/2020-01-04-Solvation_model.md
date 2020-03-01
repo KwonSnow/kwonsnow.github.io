@@ -35,6 +35,9 @@ solvent의 implicit nature는 solute molecule의 coordinate (r<sub>m</sub>) 에�
 dielectric constant를 solute와 bulk medium 사이의 buffer로서 사용한다.
 
 <p><span class="math inline">\(\epsilon[\rho]=1+\left(\epsilon_{\text {bulk }}-1\right) S[\rho]\)</span></p>  
+
+
+
 <p><span class="math inline">\(S[\rho]=\frac{1}{2} \operatorname{erfc}\left(\frac{\log \left(\rho / \rho_{\mathrm{cut}}\right)}{\sigma \sqrt{2}}\right)\)</span></p>  
 
 따라서 dielectric function은 1부터 bulk dielectric constant까지 점진적으로 변하게 된다. 이러한 transition의 특정한 모양은 σ와 ρ<sub>cut</cut> parameter로 결정된다.
