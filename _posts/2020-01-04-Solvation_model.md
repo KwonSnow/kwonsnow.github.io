@@ -23,11 +23,11 @@ Continuum models은 양자화학 뿐만 아니라 force field method에서도 �
 solvent의 implicit nature는 solute molecule의 coordinate (r<sub>m</sub>) 에만 의존하는 것을 볼 수 있다. 두 번째 항인 V는 interaction operater (Q)들로 이루어져 있다. Q는 무한히 멀리 떨어진 독립된 시스템(gaseous)에서 continuum solution 안으로 상황이 바뀌었을 때의 반응을 계산한다. 따라서 이러한 과정은 gas phase에서 Hamiltonian에 perturbation을 줬을 때의 상황과 유사하다.
 
 
-일반적으로 continuum solvation model에서는 위와 같이 네 개의 Q를 고려한다. 각각은 분명한 물리적 의미를 담고 있디.  
-첫째항은 cavity creation에 대한 것으로서, solute를 담는 cavity를 적당한 사이즈와 모양으로 solvent내에 만들 때 쓰이는 에너지이다. 물리적으로는, solvent 내에 공간을 만들 때 solvent structure에 압박을 가하는 에너지 비용으로 설명할 수 있다.  
-둘째항은 solute와 solvent의 polarization을 다루는 electrostatic energy  
-세번째항은 quantum mechanical exchange repulsion에 대한 근사값으로서 implicit solvent에서 이 항은 high level theoretical calculation에 대해서만 근사가 가능하다.  
-네번째항은 quantum mechanical dispersion energy로서 solvent의 charge distribution을 평균하는 방식으로 근사할 수 있다.
+일반적으로 continuum solvation model에서는 위와 같이 네 개의 Q를 고려한다. 각각은 분명한 물리적 의미를 담고 있다.  
+첫째항은 cavity creation에 대한 것으로서, solute를 담는 cavity를 적당한 사이즈와 모양으로 solvent내에 만들 때 쓰이는 에너지이다. 물리적으로는, solvent 내에 공간을 만들 때 solvent structure에 압박을 가하는 에너지 비용으로 설명할 수 있다. (formation of the solvent-solute interface)   
+둘째항은 solute와 solvent의 polarization을 다루는 electrostatic energy (reorientational and polarization screening in the solvent)  
+세번째항은 quantum mechanical exchange repulsion에 대한 근사값으로서 implicit solvent에서 이 항은 high level theoretical calculation에 대해서만 근사가 가능하다. (short-range electron overlap effects)  
+네번째항은 quantum mechanical dispersion energy로서 solvent의 charge distribution을 평균하는 방식으로 근사할 수 있다. (long-range electron correlations)  
 
 
 여러가지 방법들이 개발되었는데,
@@ -36,6 +36,6 @@ Poisson-Boltzmann equation에 기반한 Polarizable continuum model (PCM)과 gen
 
 
 출처
-[Solvent model](https://en.wikipedia.org/wiki/Solvent_model)
+[Solvent model](https://en.wikipedia.org/wiki/Solvent_model)  
 [Polarizable continuum model](https://en.wikipedia.org/wiki/Polarizable_continuum_model)
 
