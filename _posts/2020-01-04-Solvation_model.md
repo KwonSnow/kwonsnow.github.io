@@ -19,7 +19,7 @@ solute의 charge distribution은 cavity의 surface에서 continuous dielectric f
 Continuum models은 양자화학 뿐만 아니라 force field method에서도 널리 쓰인다.
 양자화학에서 implicit solvent는 solute의 Hamiltonian에 일종의 perturbation으로서 나타내어진다. 수학적으로는 다음과 같이 나타내어지는데,  
 
-<p><span class="math inline">\(\hat{H}^{\text {total }}\left(r_{\mathrm{m}}\right)=\hat{H}^{\text {molecule }}\left(r_{\mathrm{m}}\right)+\hat{V}^{\text {molecule +\ solvent <span class="math inline">\(\left(r_{\mathrm{m}}\right)\) }}+\)</span> solvent <span class="math inline">\(\left(r_{\mathrm{m}}\right)\)</span></p>  
+<p><span class="math inline">\(\hat{H}^{\text {total }}\left(r_{\mathrm{m}}\right)=\hat{H}^{\text {molecule }}\left(r_{\mathrm{m}}\right)+\hat{V}^{\text {molecule +\ solvent }}+\)</span> <span class="math inline">\(\left(r_{\mathrm{m}}\right)\)</span></p>  
 
 solvent의 implicit nature는 solute molecule의 coordinate (r<sub>m</sub>) 에만 의존하는 것을 볼 수 있다. 두 번째 항인 V는 interaction operater (Q)들로 이루어져 있다. Q는 무한히 멀리 떨어진 독립된 시스템(gaseous)에서 continuum solution 안으로 상황이 바뀌었을 때의 반응을 계산한다. 따라서 이러한 과정은 gas phase에서 Hamiltonian에 perturbation을 줬을 때의 상황과 유사하다.  
 
