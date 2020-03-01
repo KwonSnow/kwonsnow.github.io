@@ -31,13 +31,22 @@ solvent의 implicit nature는 solute molecule의 coordinate (r<sub>m</sub>) 에�
 세번째항은 quantum mechanical exchange repulsion에 대한 근사값으로서 implicit solvent에서 이 항은 high level theoretical calculation에 대해서만 근사가 가능하다. (short-range electron overlap effects)  
 네번째항은 quantum mechanical dispersion energy로서 solvent의 charge distribution을 평균하는 방식으로 근사할 수 있다. (long-range electron correlations)  
 
+이러한 항들은 cavity shape을 필요로 하는데, 주로 spheres representing atoms or functinal groups으로 정의되는데, sphere radii는 a large empirical database of solvation energy에 fitting하여 결정된다. 또한 soulte 주변의 nonlinear saturation을 기술하기 위하여, __intermediate__
+dielectric constant를 solute와 bulk medium 사이의 buffer로서 사용한다.
+
+<p><span class="math inline">\(\epsilon[\rho]=1+\left(\epsilon_{\text {bulk }}-1\right) S[\rho]\)</span></p>  
+<p><span class="math inline">\(S[\rho]=\frac{1}{2} \operatorname{erfc}\left(\frac{\log \left(\rho / \rho_{\mathrm{cut}}\right)}{\sigma \sqrt{2}}\right)\)</span></p>  
+
+따라서 dielectric function은 1부터 bulk dielectric constant까지 점진적으로 변하게 된다. 이러한 transition의 특정한 모양은 σ와 ρ<sub>cut</cut> parameter로 결정된다.
 
 여러가지 방법들이 개발되었는데,
 Poisson-Boltzmann equation에 기반한 Polarizable continuum model (PCM)과 generalized Born equation에 기반한 Solvation Model (SMx)가 있다. SMD (based on Density) model은 PCM과 비슷하지만 cavity를 만들 때 특정한 parametrised radii를 사용한다.
 
+JDFTx에서는 cavity formation, dieletric screening, dispersion, and repulsion을 single variational principle로 결정하여 이러한 인위적인 separation을 없애고, cavity shape에 대한 정의도 필요없으며, 실험값에 대한 empirical fitting도 필요하지 않다. 따라서, DFT의 first-principle nature를 확보한다.
 
 
 출처
 [Solvent model](https://en.wikipedia.org/wiki/Solvent_model)  
 [Polarizable continuum model](https://en.wikipedia.org/wiki/Polarizable_continuum_model)  
-
+[Joint density-functional theory for electronic structure of solvated systems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.75.205105)  
+[Assessment of Constant-Potential Implicit Solvation Calculations of Electrochemical Energy Barriers for H2 Evolution on Pt](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b10046)  
