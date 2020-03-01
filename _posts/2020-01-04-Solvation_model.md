@@ -48,7 +48,7 @@ Poisson-Boltzmann equation에 기반한 Polarizable continuum model (PCM)과 gen
 JDFTx에서는 cavity formation, dieletric screening, dispersion, and repulsion을 single variational principle로 결정하여 이러한 인위적인 separation을 없애고, cavity shape에 대한 정의도 필요없으며, 실험값에 대한 empirical fitting도 필요하지 않다. 따라서, DFT의 first-principle nature를 확보한다.
 
 
-출처
+출처  
 [Solvent model](https://en.wikipedia.org/wiki/Solvent_model)  
 [Polarizable continuum model](https://en.wikipedia.org/wiki/Polarizable_continuum_model)  
 [Joint density-functional theory for electronic structure of solvated systems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.75.205105)  
