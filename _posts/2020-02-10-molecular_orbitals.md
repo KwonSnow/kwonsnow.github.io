@@ -172,8 +172,13 @@ electronegativity의 차이가 극도로 많이 날 경우에는 electron이 mor
 group orbitals or the symmetry-adapted linear combinations (SALCs) or the orbital은 __irreducible representation이 같은__ atomic orbital의 linear combination이다. Molecular orbital은 molecule 전체를 나타내는 반면, group orbital은 단순히 symmetry가 비슷한 orbital의 모음으로 bonding을 꼭 기술한다고 할 수는 없다. 아래의 FHF<sup>-</sup>의 예에서는 두 F 원자가 이루는 group orbital과 center의 H 1s orbital이 molecular orbital을 이룬다.
 
 ## FHF<sup>-</sup>
-FHF<sup>-</sup>는 매우 강한 hydrogen bonding을 이루고 있는 linear ion이다. Lewis 구조로 이를 표현하면 H 주위에 4개의 전자가 분포하게 되어버리기 때문에, MO theory를 통해 이를 쉽게 설명할 수 있다.
-FHF<sup>-</sup>는 비록 D<sub>∞h</sub> point group을 가지고 있지만, infinite rotation axis는 다루기 어려우므로 D<sub>2h</sub>를 사용한다. D<sub>2h</sub>의 character table은 coorodinate axis 뿐만 아니라 orbital의 symmetry도 보여준다. 예를 들면 B<sub>1u</sub>는 F p<sub>z</sub> orbital과 z axis의 symmetry를 담고 있다. D<sub>2h</sub>의 irreducible representation 중 B<sub>1u</sub>를 보면, E, C<sub>2</sub>(z), σ(xz), σ(yz) operation에 대해 변화가 없고, C<sub>2</sub>(y), C<sub>2</sub>(x), i, σ(xy) operation에는 sign을 바꾸는 것을 알 수 있다.
+FHF<sup>-</sup>는 매우 강한 hydrogen bonding을 이루고 있는 linear ion이다. Lewis 구조로 이를 표현하면 H 주위에 4개의 전자가 분포하게 되어버리기 때문에, MO theory를 통해 이를 쉽게 설명할 수 있다.  
+![image-center]({{ 'images/Lewis_FHF.PNG' | absolute_url }}){: .align-center}
+
+FHF<sup>-</sup>는 비록 D<sub>∞h</sub> point group을 가지고 있지만, infinite rotation axis는 다루기 어려우므로 D<sub>2h</sub>를 사용한다. D<sub>2h</sub>의 character table은 coorodinate axis 뿐만 아니라 orbital의 symmetry도 보여준다. 예를 들면 B<sub>1u</sub>는 F p<sub>z</sub> orbital과 z axis의 symmetry를 담고 있다. D<sub>2h</sub>의 irreducible representation 중 B<sub>1u</sub>를 보면, E, C<sub>2</sub>(z), σ(xz), σ(yz) operation에 대해 변화가 없고, C<sub>2</sub>(y), C<sub>2</sub>(x), i, σ(xy) operation에는 sign을 바꾸는 것을 알 수 있다.  
+
+![image-center]({{ 'images/D2h_character_table.PNG' | absolute_url }}){: .align-center}
+![image-center]({{ 'images/MO_GO_FHF.PNG' | absolute_url }}){: .align-center}
 
 위에 두 F 원자의 2s, 2p orbital로 이루어진 group orbital을 나타내었는데, diatomic molecule의 경우와 비슷하지만 central H atom으로 분리되어 있다. 각 group orbital의 symmetry는 character table에 나와있는 irreducible representation의 operation을 적용해보면 찾을 수 있다.
 
