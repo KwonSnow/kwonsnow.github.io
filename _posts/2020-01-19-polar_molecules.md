@@ -16,6 +16,8 @@ polar molecule의 경우 electric field를 상쇄시키는 방향으로 정렬�
 여러 온도에서의 측정을 통하여 dipole moment (μ)를 계산하게 되는데, μ = Qr로 정의된다.  
 복잡한 분자에서는 단순히 각각의 bond dipole moment의 합으로 net molecular dipole moment를 계산하긴 어렵다.  
 
+1 Debye = 1 D = 3.33564 × 10<sup>-30</sup> C⋅m = 0.2081943 e⋅Å  
+
 μ는 __lone pair의 영향__ 도 큰 데, bond에 의한 net μ와 lone pair에 의한 μ가 같은 방향으로 정렬되는 NH<sub>3</sub> (1.47 D) 나 H<sub>2</sub>O (1.85 D) 와 같은 분자는 큰 μ를 갖지만, 반대로 정렬되는 NF3 <sub>3</sub> (0.23 D)와 같은 경우는 작은 μ를 갖는다.  
 
 # London dispersion force
