@@ -63,5 +63,6 @@ H<sub>2</sub>O의 2A<sub>1</sub> + B<sub>1</sub> 는 모두 IR active 하지만 
 
 ## Raman activity
 
+__Molecular vibration이 Raman active하기 위해서는 해당 분자의 polarizability의 변화가 있어야 한다.__
 __Raman의 경우에는 vibration의 symmetry가 x, y, or z의 product (such as x<sup>2</sup> or yz)의 함수로__ 표현 되어야 한다.
 
