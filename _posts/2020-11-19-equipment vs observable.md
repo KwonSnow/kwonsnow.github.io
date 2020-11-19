@@ -7,9 +7,23 @@ tags:
   - observable
 ---
 
+
 # XAS
 ## XAS vs observable
-operando XAS: hole concentration
+oxidation state of an element  
+
+<i>operando</i> XAS: hole concentration  
+[Nong, et al., Nature 2020, 587, 408, 10.1038/s41586-020-2908-2](https://www.nature.com/articles/s41586-020-2908-2)  
+
+# EXAFS
+## EXAFS vs observable
+The coordination environment of an element  
+
+# XANES
+## XANES vs observable
+
+
+
 
 
 Mirror image에 중첩되지 않는 분자들을 __chiral__ 또는 __dissymmetric__ 하다고 한다. (dissymmetric 하다는 말이 곧 symmetry가 없다는 말은 아니다.)
