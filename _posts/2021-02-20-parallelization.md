@@ -10,7 +10,7 @@ tags:
 
 VASP은 NCORE와 --ntasks-per-node를 기준으로 TEST  
 예를들어 노드당 코어수가 128개라면, --ntasks-per-node는 2, 4, 8, 16, 32, 64, 128개를 TEST할 수 있음.  
-하지만, Expanse 처럼 core단위가 아니라 node단위로 청구하는 곳에서는 128개를 안쓸 이유가 없음.  
+하지만, Expanse (SDSC) 처럼 core단위가 아니라 node단위로 청구하는 곳에서는 128개를 안쓸 이유가 없음.  
 
 https://www.vasp.at/wiki/index.php/NCORE  
 NCORE = 2 up to number-of-cores-per-socket (or number-of-cores-per-node)  
