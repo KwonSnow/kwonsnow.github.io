@@ -21,7 +21,7 @@ Ligand field theory는 crystal field theory와 molecular orbital theory가 결�
 
 
 
-M의 d orbital은 nonbonding인 t<sub>2g</sub> (d<sup>xy</sup>, d<sup>xz</sup>, d<sup>yz</sup>)와 antibonding인 e<sub>g</sub> (dz<sup>2</sup>, dx<sup>2</sup>-y<sup>2</sup>)로 split된다. 여기서 bonding e<sub>g</sub>는 ligand의 p orbital과 결합을 이루고 있고 (ligand와 bonding을 이루고 있는 M의 orbital은 모두 paired spin, 특히 M p orbital), t<sub>2g</sub>와 e<sub>g</sub> (σ<sup>*</sup>)는 특정 oxidation state의 M이 가진 electron에 의해 채워지게 되고, 여기서 M 고유의 spin state가 결정된다.
+M의 d orbital은 nonbonding인 t<sub>2g</sub> (d<sup>xy</sup>, d<sup>xz</sup>, d<sup>yz</sup>)와 antibonding인 e<sub>g</sub> (dz<sup>2</sup>, dx<sup>2</sup>-y<sup>2</sup>)로 split된다. 여기서 bonding e<sub>g</sub>는 ligand의 p orbital과 결합을 이루고 있고, t<sub>2g</sub>와 e<sub>g</sub> (σ<sup>*</sup>)는 특정 oxidation state의 M이 ligand와 결합하고 남은 electron에 의해 채워지게 되고, 여기서 M 고유의 spin state가 결정된다.
 
 ## Angular overlap method
 
