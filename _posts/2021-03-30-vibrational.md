@@ -1,6 +1,6 @@
 ---
 title: "vibrational contribution to free energy"
-date: 2021-03-04T08:08:50-04:00
+date: 2021-03-30T08:08:50-04:00
 category: Statistical Thermodynamics
 tags:
   - Vibrational frequency
@@ -9,7 +9,7 @@ tags:
 
 ## the vibrational contribution to molar entropy
 
-
+the vibrational contribution to molar entropy  
 ![image-center]({{ 'images/Svib_1.PNG' | absolute_url }}){: .align-center}
 
 
