@@ -14,6 +14,10 @@ the vibrational contribution to molar entropy
 
 
 ![image-center]({{ 'images/Svib_2.PNG' | absolute_url }}){: .align-center}
+(Desktop\Project\vibrational entropy.xlsx)  
+
+For electrochemistry calculations, not enough H.B. can cause some low frequency mode having large entropy contribution.  
+Set a threshold value of 60 cm<sup>-1</sup> (acoutstic translational mode of six-member rings in bulk water)  
 
 
 
