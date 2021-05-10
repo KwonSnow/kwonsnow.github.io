@@ -25,5 +25,5 @@ DOS using McMillan formula
 <p><span class="math inline">\(\frac{\gamma}{\gamma_{b}}=1+\lambda\)</span></p>  
 where the γ and γ<sub>b</sub> [mJ/mol·K<sup>2</sup>] are the experimental and theoretical Sommerfeld constant, γ<sub>b</sub> is given by  
 <p><span class="math inline">\(\gamma_{b}=\frac{1}{3} \pi^{2} k_{B}^{2} N\left(E_{F}\right)=(2.359) N\left(E_{F}\right)\)</span></p>
-According to the nearly free electron model, the normal-state electronic heat capacity (C<sub>e</sub>) is proportional to absolute temperature that can be represented by C<sub>e</sub> = γ<sub>b</sub>T. Therefore, from DOS, one can estimate the values of bare Sommerfeld constant (γ<sub>b</sub>) and electron-phonon mass enhacement factor (1+λ) with the assist of experimental values of γ.
+According to the nearly free electron model, the normal-state electronic heat capacity (C<sub>e</sub>) is proportional to absolute temperature that can be represented by C<sub>e</sub> = γ<sub>b</sub>T. Therefore, from DOS, one can estimate the values of bare Sommerfeld constant (γ<sub>b</sub>) and electron-phonon mass enhacement factor (1+λ) with the assist of experimental values of γ.  
 [Comput. Mater. Sci. 2021, 190, 110254](https://doi.org/10.1016/j.commatsci.2020.110254)
