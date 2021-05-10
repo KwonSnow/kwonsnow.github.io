@@ -9,7 +9,12 @@ tags:
 
 # Superconducting transition temerature (T<sub>c</sub>)
 
-When you know the Tc for parent materials?
+Tc from the first principle calculations  
+
+[npj Comput Mater 2020, 6, 94](https://doi.org/10.1038/s41524-020-00365-9)  
+VASP + QuantumEspresso(QE)  
+
+When you know the Tc for parent materials  
 ## McMillan formula
 <p><span class="math inline">\(T_{c}=\frac{\Theta_{D}}{1.45} \exp \left[\frac{-1.04(1+\lambda)}{\lambda-\mu^{*}(1+0.62 \lambda)}\right]\)</span></p>
 three parameters: Debye temperature, (Θ<sub>D</sub>), electron-phonon mass enhacement factor (1+λ) and the Coulomb electron-electron interaction strength which is acoounted by the Coulomb pseudopotential, μ*.  
