@@ -7,7 +7,7 @@ tags:
 ---
 
 
-# Superconducting transition temerature (T<sub>c</sub>)
+# Superconducting transition temperature (T<sub>c</sub>)
 
 Tc from the first principle calculations  
 
