@@ -17,7 +17,7 @@ python code for JDFTx calculations: [Electron-phonon matrix elements](http://jdf
 # Superconducting transition temperature (T<sub>c</sub>)
 
 ## Tc from the first principle calculations  
-
+![image-center]({{ '/images/superconductivity.PNG' | absolute_url }}){: .align-center}
 [npj Comput Mater 2020, 6, 94](https://doi.org/10.1038/s41524-020-00365-9)  
 VASP + QuantumEspresso(QE)  
 
