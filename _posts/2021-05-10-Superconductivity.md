@@ -1,13 +1,10 @@
 
 ---
-title: "Optimizer"
-date: 2019-10-17T08:08:50-04:00
-category: DFT
+title: "Superconductivity"
+date: 2021-05-10T08:08:50-04:00
+category: Solid state physics
 tags:
-  - DFT
-  - VASP
-  - optimizer
-  - ionic minimization
+  - Superconductivity
 ---
 
 # Superconducting transition temerature (T<sub>c</sub>)
