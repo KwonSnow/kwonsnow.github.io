@@ -1,5 +1,5 @@
 ---
-title: "Grand canonical potential kinetics"
+title: "Superconductivity"
 date: 2021-05-10T08:08:50-04:00
 category: Solid state physics
 tags:
