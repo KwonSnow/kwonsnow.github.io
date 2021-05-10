@@ -6,6 +6,13 @@ tags:
   - Superconductivity
 ---
 
+# DFPT
+[Density Functional Perturbation Theory](http://cmt.dur.ac.uk/sjc/thesis_prt/node39.html)  
+[Density Functional Perturbation Theory and Electron Phonon Coupling](https://www.cond-mat.de/events/correl13/manuscripts/heid.pdf)  
+For DFPT: [VASP vs QE](https://www.researchgate.net/post/Can-anyone-mention-some-things-that-can-be-done-with-Quantum-Espresso-that-cannot-be-done-with-VASP)  
+[abipy](https://abinit.github.io/abipy/gallery/plot_a2f.html): output from [Abinit](https://www.abinit.org/).  
+python code for JDFTx calculations: [Electron-phonon matrix elements](http://jdftx.org/EphMatrixElements.html)  
+
 
 # Superconducting transition temperature (T<sub>c</sub>)
 
@@ -13,6 +20,8 @@ tags:
 
 [npj Comput Mater 2020, 6, 94](https://doi.org/10.1038/s41524-020-00365-9)  
 VASP + QuantumEspresso(QE)  
+
+
 
 ## If the Tc for parent materials is known,  
 ### McMillan formula
