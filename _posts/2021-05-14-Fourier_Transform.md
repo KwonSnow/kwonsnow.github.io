@@ -18,6 +18,12 @@ autocorrelation function
 PWDFT, reciprocal lattice  
 
 
+## 1D PWDFT 만들기
+1. hydrogen orbital 구성 ✓
+2. DFT (or FFT)
+3. n(r) 구하기.
+
+
 ##Plane-Wave Basis Sets  
 [Introduction to DFT and the plane-wave pseudopotential method](https://www.archer.ac.uk/training/course-material/2014/04/PMMP_UCL/Slides/castep_1.pdf)  
 <p><span class="math inline">\(\psi_{i, \boldsymbol{k}}(\boldsymbol{r})=\sum_{\boldsymbol{G}}^{|\boldsymbol{G}|&lt;G_{\max }} c_{i \boldsymbol{k}, \boldsymbol{G}} e^{i(\boldsymbol{k}+\boldsymbol{G}) \cdot \boldsymbol{r})}\)</span></p>  
