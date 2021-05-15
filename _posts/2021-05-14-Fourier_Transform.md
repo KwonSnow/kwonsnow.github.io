@@ -22,6 +22,7 @@ PWDFT, reciprocal lattice
 [Introduction to DFT and the plane-wave pseudopotential method](https://www.archer.ac.uk/training/course-material/2014/04/PMMP_UCL/Slides/castep_1.pdf)  
 <p><span class="math inline">\(\psi_{i, \boldsymbol{k}}(\boldsymbol{r})=\sum_{\boldsymbol{G}}^{|\boldsymbol{G}|&lt;G_{\max }} c_{i \boldsymbol{k}, \boldsymbol{G}} e^{i(\boldsymbol{k}+\boldsymbol{G}) \cdot \boldsymbol{r})}\)</span></p>  
 Fourier Series expansion of (r): Fourier coefficients c<sub>ik,G</sub> stored on regular grid of G.  
+Gs are reciprocal lattice vectors and k is a symmetry label in the 1st Brillouin zone.
 
 Bloch's Theorem  
 <p><span class="math inline">\(\phi_{\boldsymbol{k}}(\boldsymbol{r})=\exp (i \boldsymbol{k} \cdot \boldsymbol{r}) u_{\boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
