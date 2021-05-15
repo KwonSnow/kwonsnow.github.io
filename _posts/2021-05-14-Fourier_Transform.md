@@ -31,8 +31,6 @@ Charge density는 u<sub>k</sub>(r)을 Brillouin zone (BZ)에 대해 아래와 �
 <p><span class="math inline">\(n(\boldsymbol{r})=\sum_{m} \int_{\mathrm{BZ}} d \boldsymbol{k} \quad u_{m \boldsymbol{k}}^{*}(\boldsymbol{r}) u_{m \boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
 여기서 m은?  
 주의: Charge density를 얻으려면 여기서 inverse DFT가 아니라 square 곱을 해줘야 함. 역시 적분을 해야하는데, 이때도 grid에서의 sum을 해준다. 
-<p><span class="math inline">\int_{\mathrm{BZ} d \boldsymbol{k}</span></p>
-->  
 <p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>
 애초에 planewave가 grid의 형태로 표현될텐데, 처음에 grid는 어떻게 설정?  
 discrete planewave -> DFT (or FFT) -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
