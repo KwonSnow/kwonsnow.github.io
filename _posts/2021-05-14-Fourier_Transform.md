@@ -29,11 +29,22 @@ Bloch's Theorem
 실제계산에서는 k-space에서의 적분을 discrete Fourier transfrom 하게 된다. 따라서 planewave를 DFT를 하면 coefficient인 u<sub>k</sub>(r)을 저장함.  
 Charge density는 u<sub>k</sub>(r)을 Brillouin zone (BZ)에 대해 아래와 같이 표현할 수 있음.  
 <p><span class="math inline">\(n(\boldsymbol{r})=\sum_{m} \int_{\mathrm{BZ}} d \boldsymbol{k} \quad u_{m \boldsymbol{k}}^{*}(\boldsymbol{r}) u_{m \boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
-여기서 m은 dimemsion을 나타내는데, real-space lattice vector R과 reciprocal lattice vector G는 G·R=2πm의 관계를 가지고, 여기서 m은 정수이다.
+여기서 m은 dimemsion을 나타내는데, real-space lattice vector R과 reciprocal lattice vector G는 G·R=2πm의 관계를 가지고, 여기서 m은 정수이다.  
 
 
-주의: Charge density를 얻으려면 여기서 inverse DFT가 아니라 square 곱을 해줘야 함. 역시 적분을 해야하는데, 이때도 grid에서의 sum을 해준다. 
-<p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>
+주의: Charge density를 얻으려면 여기서 inverse DFT가 아니라 square 곱을 해줘야 함. 역시 적분을 해야하는데, 이때도 grid에서의 sum을 해준다.  
+<p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>  
+실제 계산에서는 c<sub>mkG</sub> 과 n(r)을 둘다 3D grid에 저장하고, FFT를 통해서 real-space와 reciprocal-space를 mapping 함.예를 들어, n(r)은 다음과 같이 구하는데,  
+<p><span class="math inline">\(n(\boldsymbol{r})=\sum_{\boldsymbol{k}} \sum_{m}^{\mathrm{occ}}\left|u_{m \boldsymbol{k}}(\boldsymbol{r})\right|^{2}\)</span></p>  
+where  
+<p><span class="math inline">\(u_{m \boldsymbol{k}}(\boldsymbol{r})=\sum_{\boldsymbol{G}} c_{m \boldsymbol{k}}(\boldsymbol{G}) \exp (i \boldsymbol{G} \cdot \boldsymbol{r})\)</span></p>  
+이러한 mapping은 u<sub>mk</sub>(G)를 real-spalce로 transformation 시키기 위해 each band와 k-point 당 한번씩 FFT를 하게 된다.  
+Hartree, local, potential terms을 계산하기 위해 우리는  
+<p><span class="math inline">\(n(\boldsymbol{G})=\sum_{r} n(\boldsymbol{r}) \exp (-i \boldsymbol{G} \cdot \boldsymbol{r})\)</span></p>  
+이 필요하다.  
+
+
+
 애초에 planewave가 grid의 형태로 표현될텐데, 처음에 grid는 어떻게 설정?  
 discrete planewave -> DFT (or FFT) -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
 
