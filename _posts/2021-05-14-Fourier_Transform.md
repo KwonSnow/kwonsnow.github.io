@@ -29,13 +29,17 @@ Bloch's Theorem
 실제계산에서는 k-space에서의 적분을 discrete Fourier transfrom 하게 된다. 따라서 planewave를 DFT를 하면 coefficient인 u<sub>k</sub>(r)을 저장함.  
 Charge density는 u<sub>k</sub>(r)을 Brillouin zone (BZ)에 대해 아래와 같이 표현할 수 있음.  
 <p><span class="math inline">\(n(\boldsymbol{r})=\sum_{m} \int_{\mathrm{BZ}} d \boldsymbol{k} \quad u_{m \boldsymbol{k}}^{*}(\boldsymbol{r}) u_{m \boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
-여기서 m은?  
+여기서 m은 dimemsion을 나타내는데, real-space lattice vector R과 reciprocal lattice vector G는 G·R=2πm의 관계를 가지고, 여기서 m은 정수이다.
+
+
 주의: Charge density를 얻으려면 여기서 inverse DFT가 아니라 square 곱을 해줘야 함. 역시 적분을 해야하는데, 이때도 grid에서의 sum을 해준다. 
 <p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>
 애초에 planewave가 grid의 형태로 표현될텐데, 처음에 grid는 어떻게 설정?  
 discrete planewave -> DFT (or FFT) -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
 
-
+우리가 cutoff energy를 정하게 되면, 아래 식에 의해 G<sub>max</sub>을 정하게 된다.  
+<p><span class="math inline">\(E_{c}=\frac{\hbar^{2} G_{\max }^{2}}{2 m_{e}}\)</span></p>  
+결국 reciprocal lattice에서 어느정도의 범위를 계산에 넣을 것인지 (2D에서는 원, 3D에서는 구) 한계를 두게 되는데, FFT할 때 이것의 두배 정도 되는 grid를 고려(2k<sub>cut</sub>)한다.
 
 
 
