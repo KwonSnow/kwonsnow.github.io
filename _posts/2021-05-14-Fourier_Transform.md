@@ -6,6 +6,7 @@ tags:
   - Fourier Transformation
 ---
 
+Desktop\Project\Mathematics\Fourier_transform_1.ipynb  
 
 [Fourier Transform(푸리에 변환)의 이해와 활용](https://darkpgmr.tistory.com/171)  
 [python으로 신호 푸리에 변환하는 방법](https://ballentain.tistory.com/3)  
