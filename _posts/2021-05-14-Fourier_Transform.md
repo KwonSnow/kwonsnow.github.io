@@ -42,6 +42,8 @@ where
 Hartree, local, potential terms을 계산하기 위해 우리는  
 <p><span class="math inline">\(n(\boldsymbol{G})=\sum_{r} n(\boldsymbol{r}) \exp (-i \boldsymbol{G} \cdot \boldsymbol{r})\)</span></p>  
 이 필요하다.  
+plane-wave coefficients c<sub>mk</sub>(G)로 표현된 total KS energy는
+<p><span class="math inline">\(\begin{aligned} E_{\mathrm{KS}} &amp;=\sum_{\boldsymbol{k}} \sum_{m} \sum_{\boldsymbol{G}}|\boldsymbol{G}+\boldsymbol{k}|^{2}\left|c_{m \boldsymbol{k}}(\boldsymbol{G})\right|^{2}+\sum_{G \neq 0} V_{\mathrm{ext}}(\boldsymbol{G}) n(\boldsymbol{G}) \\ &amp;+\sum_{G \neq 0} \frac{|n(\boldsymbol{G})|^{2}}{|\boldsymbol{G}|^{2}}+\int d \boldsymbol{r} n(\boldsymbol{r}) \varepsilon_{\mathrm{xc}}(n(\boldsymbol{r}))+E_{\mathrm{II}}\left(\left\{\boldsymbol{R}_{I}\right\}\right) \end{aligned}\)</span></p>  
 
 
 
