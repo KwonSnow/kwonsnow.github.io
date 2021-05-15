@@ -18,7 +18,11 @@ autocorrelation function
 PWDFT, reciprocal lattice  
 
 
+##Plane-Wave Basis Sets  
 [Introduction to DFT and the plane-wave pseudopotential method](https://www.archer.ac.uk/training/course-material/2014/04/PMMP_UCL/Slides/castep_1.pdf)  
+<p><span class="math inline">\(\psi_{i, \boldsymbol{k}}(\boldsymbol{r})=\sum_{\boldsymbol{G}}^{|\boldsymbol{G}|&lt;G_{\max }} c_{i \boldsymbol{k}, \boldsymbol{G}} e^{i(\boldsymbol{k}+\boldsymbol{G}) \cdot \boldsymbol{r})}\)</span></p>  
+Fourier Series expansion of (r): Fourier coefficients c<sub>ik,G</sub> stored on regular grid of G.  
+
 Bloch's Theorem  
 <p><span class="math inline">\(\phi_{\boldsymbol{k}}(\boldsymbol{r})=\exp (i \boldsymbol{k} \cdot \boldsymbol{r}) u_{\boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
 실제계산에서는 k-space에서의 적분을 discrete Fourier transfrom 하게 된다. 따라서 planewave를 DFT를 하면 coefficient인 u<sub>k</sub>(r)을 저장함.  
@@ -31,6 +35,8 @@ Charge density는 u<sub>k</sub>(r)을 Brillouin zone (BZ)에 대해 아래와 �
 <p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>
 애초에 planewave가 grid의 형태로 표현될텐데, 처음에 grid는 어떻게 설정?  
 discrete planewave -> DFT (or FFT) -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
+
+
 
 
 
