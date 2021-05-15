@@ -15,4 +15,18 @@ Desktop\Project\Mathematics\Descrete_Fourier_Transform_1.ipynb
 
 
 autocorrelation function  
-PWDFT, reciprocal lattice
+PWDFT, reciprocal lattice  
+
+
+
+
+[Introduction to DFT and the plane-wave pseudopotential method](https://www.archer.ac.uk/training/course-material/2014/04/PMMP_UCL/Slides/castep_1.pdf)  
+Bloch's Theorem  
+<p><span class="math inline">\(\phi_{\boldsymbol{k}}(\boldsymbol{r})=\exp (i \boldsymbol{k} \cdot \boldsymbol{r}) u_{\boldsymbol{k}}(\boldsymbol{r})\)</span></p>  
+
+실제계산에서는 k-space에서의 적분을 discrete Fourier transfrom 하게 된다.
+따라서 planewave를 DFT를 하면 coefficient인 u<sub>k</sub>(r)을 저장하게 된다.
+
+Hohenberg-Kohn Functional in Momentum Space:  
+[The Plane-Wave Pseudopotential Method](https://th.fhi-berlin.mpg.de/th/Meetings/FHImd2001/pehlke1.pdf)
+
