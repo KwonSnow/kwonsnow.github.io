@@ -30,7 +30,7 @@ Charge density를 얻으려면 여기서 inverse DFT가 아니라 square 곱을 
 ->  
 <p><span class="math inline">\(\sum_{k}^{\mathrm{BZ}}\)</span></p>
 애초에 planewave가 grid의 형태로 표현될텐데, 처음에 grid는 어떻게 설정?  
-discrete planewave -> DFT -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
+discrete planewave -> DFT (or FFT) -> u<sub>k</sub>(r) -> BZ integration (Monkhorst-Pack) -> n(r)  
 
 
 
