@@ -18,3 +18,4 @@ nuclear magnetic resonance (NMR)
 
 [Electron Counting in Solids: Oxidation States, Partial Charges, and Ionicity](https://pubs.acs.org/doi/10.1021/acs.jpclett.7b00809)  
 [Oxidation states and ionicity](https://www.nature.com/articles/s41563-018-0165-7)  
+[Rigorous Definition of Oxidation States of Ions in Solids](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.166403)  
