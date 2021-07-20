@@ -49,6 +49,7 @@ CO2 vs energy: [the largest contributor to GHG emissions over any other sector, 
 ## 식량
 ## 노동량 감소
 ## 도서 국가의 침수
+## 음식가격 상승
 ## 가장 따뜻했던 해
 
 ## 2℃, 1.5℃
