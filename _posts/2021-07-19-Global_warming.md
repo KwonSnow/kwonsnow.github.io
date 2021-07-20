@@ -28,6 +28,13 @@ Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https
 [Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends_ch4/)  
 
 
+## World population
+[World Population Review](https://worldpopulationreview.com/)  
+1. 1650년에 535.3 M  
+2. 1800년 920.8 M (산업혁명 1760~1820)  
+3. 2019 7.71 B  
+population vs energy  
+CO2 vs energy: [the largest contributor to GHG emissions over any other sector, representing 73%](https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters)  
 
 ## 호주, 캘리포니아 산불  
 ## 러시아, 캐나다 이상고온  
