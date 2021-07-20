@@ -11,6 +11,7 @@ tags:
 [Why reducing our carbon emissions matters (a little story about climate change)](https://www.youtube.com/watch?v=rivf479bW8Q)  
 [Carbon dioxide over 800,000 years](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)  
 ## CO2
+[The Carbon Cycle](https://earthobservatory.nasa.gov/features/CarbonCycle)  
 [Daily CO2 concentration](https://www.co2.earth/)  
 [Carbon dioxide peaks near 420 parts per million](https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide)  
 [Changes in the World's Top 10 Emitters](https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters)  
@@ -69,4 +70,8 @@ CO2 vs energy: [the largest contributor to GHG emissions over any other sector, 
 ## 바이오매스
 ## 탄소저장기술 (CSS)
 ## CO2RR, HER, OER
-## 
+
+## Economy vs Environment
+climate change will start costing Canada in the billions by 2020 but that number could balloon up to as much as $43 billion a year by 2050
+
+
