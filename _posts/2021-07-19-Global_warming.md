@@ -47,8 +47,13 @@ CO2 vs energy: [the largest contributor to GHG emissions over any other sector, 
 ## 가뭄
 ## 에너지 빌려쓰기
 ## 식량
+## 노동량 감소
 ## 도서 국가의 침수
 ## 가장 따뜻했던 해
+
+## 2℃, 1.5℃
+[Global Warming of 1.5 ℃, IPCC](https://www.ipcc.ch/sr15/)  
+[지구 온난화, 1.5도와 2.0도 상승의 차이.."기후 피해 2배 더 많아져"](http://www.greenpostkorea.co.kr/news/articleView.html?idxno=62674)  
 
 
 ## 탄소중립
