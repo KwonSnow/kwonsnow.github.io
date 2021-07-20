@@ -37,21 +37,21 @@ Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https
 population vs energy  
 CO2 vs energy: [the largest contributor to GHG emissions over any other sector, representing 73%](https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters)  
 
-## 호주, 캘리포니아 산불  
-## 러시아, 캐나다 이상고온  
-## 조개류 집단폐사  
-## 해양 수온
-## Ocean acidification: Carbonic acid
+# 호주, 캘리포니아 산불  
+# 러시아, 캐나다 이상고온  
+# 조개류 집단폐사  
+# 해양 수온
+# Ocean acidification: Carbonic acid
 [Ocean acidification](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-chemistry/ocean-acidification/)  
-## 밀림 개체수
-## 유럽 폭우
-## 가뭄
-## 에너지 빌려쓰기
-## 식량
-## 노동량 감소
-## 도서 국가의 침수
-## 음식가격 상승
-## 가장 따뜻했던 해
+# 밀림 개체수
+# 유럽 폭우
+# 가뭄
+# 에너지 빌려쓰기
+# 식량
+# 노동량 감소
+# 도서 국가의 침수
+# 음식가격 상승
+# 가장 따뜻했던 해
 
 ## 2℃, 1.5℃
 [Global Warming of 1.5 ℃, IPCC](https://www.ipcc.ch/sr15/)  
