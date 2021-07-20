@@ -8,22 +8,24 @@ tags:
 ---
 
 ## CO2 vs temperature
-[Why reducing our carbon emissions matters (a little story about climate change)](https://www.youtube.com/watch?v=rivf479bW8Q)
-[Carbon dioxide over 800,000 years](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
+[Why reducing our carbon emissions matters (a little story about climate change)](https://www.youtube.com/watch?v=rivf479bW8Q)  
+[Carbon dioxide over 800,000 years](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)  
 ## CO2
-[Daily CO2 concentration](https://www.co2.earth/)
-[Carbon dioxide peaks near 420 parts per million](https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide)
-Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https://doi.org/10.5194/essd-11-1783-2019)
+[Daily CO2 concentration](https://www.co2.earth/)  
+[Carbon dioxide peaks near 420 parts per million](https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide)  
+[Changes in the World's Top 10 Emitters](https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters)  
+Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https://doi.org/10.5194/essd-11-1783-2019)  
 
-[The 5 Countries That Produce the Most Carbon Dioxide (CO2)](https://www.investopedia.com/articles/investing/092915/5-countries-produce-most-carbon-dioxide-co2.asp)
+
+[The 5 Countries That Produce the Most Carbon Dioxide (CO2)](https://www.investopedia.com/articles/investing/092915/5-countries-produce-most-carbon-dioxide-co2.asp)  
 ## Temperature
-[2019 Was the 2nd-Hottest Year on Record](https://www.youtube.com/watch?v=10H2ILuXjO8)
-1. Earth's global surface temperatures in 2019 were the second warmest since modern recordkeeping began in 1880.
-2. The last decade was the warmest on record.
-3. The past five years have been the warmest of the last 140 years.
+[2019 Was the 2nd-Hottest Year on Record](https://www.youtube.com/watch?v=10H2ILuXjO8)  
+1. Earth's global surface temperatures in 2019 were the second warmest since modern recordkeeping began in 1880.  
+2. The last decade was the warmest on record.  
+3. The past five years have been the warmest of the last 140 years.  
 
 ## CH4 concentration
-[Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends_ch4/)
+[Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends_ch4/)  
 
 
 
@@ -32,7 +34,7 @@ Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https
 ## 조개류 집단폐사  
 ## 해양 수온
 ## Ocean acidification: Carbonic acid
-[Ocean acidification](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-chemistry/ocean-acidification/)
+[Ocean acidification](https://www.whoi.edu/know-your-ocean/ocean-topics/ocean-chemistry/ocean-acidification/)  
 ## 밀림 개체수
 ## 유럽 폭우
 ## 가뭄
