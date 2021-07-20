@@ -56,7 +56,7 @@ CO2 vs energy: [the largest contributor to GHG emissions over any other sector, 
 ## 2℃, 1.5℃
 [Global Warming of 1.5 ℃, IPCC](https://www.ipcc.ch/sr15/)  
 [지구 온난화, 1.5도와 2.0도 상승의 차이.."기후 피해 2배 더 많아져"](http://www.greenpostkorea.co.kr/news/articleView.html?idxno=62674)  
-
+Geneva, 27 May 2021 (WMO) - There is about a 40% chance of the annual average global temperature temporarily reaching 1.5°C above the pre-industrial level in at least one of the next five years – and these odds are increasing with time, according to a new climate update issued by the World Meteorological Organization (WMO).  
 
 ## 탄소중립
 지구평균기온 상승을 2℃이하로 유지하고, 나아가 1.5℃ 를 달성하기 위해, 각국은 탄소중립을 선언하고 있는데, 핀란드(2035년)와 중국(2060년)을 제외하면 대부분 2050년을 목표로 하고 있다. 파리협정에 따라 당사국이 제출한 국가결정기여(NDC)가 1.5도와 2도 목표에 부합하는지 5년마다 검토하게 된다. 2023년에 처음으로 시행되며, 매 5년마다 이행점검이 시행될 예정.  
