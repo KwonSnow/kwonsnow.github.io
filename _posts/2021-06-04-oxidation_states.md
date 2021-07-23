@@ -14,7 +14,6 @@ Crystal 내의 electron은 multicentered wave functions (Bloch waves)에 의해 
   * Core-level photoemission spectrscopy
   * Electron spin resonance (ESR)
   * nuclear magnetic resonance (NMR)  
-등이 있다.  
 
  
 ### [Oxidation states and ionicity](https://www.nature.com/articles/s41563-018-0165-7)  
