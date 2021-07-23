@@ -25,8 +25,8 @@ Atomic charge는 양자역학적 observable이 아니다. DFT에서의 one-elect
   * <b>Wannier function</b>: Fourier transforms of Bloch wavefunctions onto discrete centres
   * <b>Mulliken, Löwdin</b>: A linear combination of atomic orbitals
   * Polarity of bond: <b>Christoffersen</b> (Molecular orbitals),  <b>Hirshfeld</b>(Charge density)
-  * Electron localization function (ELF)
-  * Modern theory of polarization: The link between polarizability and experimentally observable quantities is far clearer than that between the atomic charges and experiment. 
+  * <b>Electron localization function (ELF)</b>
+  * <b>Modern theory of polarization</b>: The link between polarizability and experimentally observable quantities is far clearer than that between the atomic charges and experiment. 
 
 Atomic charge에 대한 정보를 얻기 위한 alternative techniques으로는  
   * XPS, XANES, Neutron spectroscopy, spin resonance techniques, spectroscopic or magnetic measurements  
