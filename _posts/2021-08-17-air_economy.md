@@ -9,7 +9,6 @@ tags:
 ---
 
 
-https://10.1038/ncomms13237
 [Envisioning the “Air Economy” — Powered by Reticular Chemistry and Sunlight for Clean Air, Clean Energy, and Clean Water](https://doi.org/10.1142/S2529732521400046) 
 * Currently 100,000 <b>MOFs</b> structures are known. The pore diameter range from 5 Å to 100 Å. Ultra-high surface area of up to 7,000 m<sup>2</sup>/g
 * Captureing CO2 from air requires new materials capable of trapping carbon dioxide at 400-ppm levels.
