@@ -17,6 +17,7 @@ tags:
 [Changes in the World's Top 10 Emitters](https://www.wri.org/insights/interactive-chart-shows-changes-worlds-top-10-emitters)  
 Global Carbon Budget 2019, [Earth Syst. Sci. Data, 2019, 11, 1783–1838] (https://doi.org/10.5194/essd-11-1783-2019)  
 [Climate Reanalyzer](https://climatereanalyzer.org/)  
+[Global Temperature](https://climate.nasa.gov/vital-signs/global-temperature/)  
 
 [The 5 Countries That Produce the Most Carbon Dioxide (CO2)](https://www.investopedia.com/articles/investing/092915/5-countries-produce-most-carbon-dioxide-co2.asp)  
 ## Temperature
