@@ -7,7 +7,7 @@ tags:
   - electrocatalysis
 ---
 
-[A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)
+[A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)  
 H2 energy density 122 kJ/g 으로 gasoline (40 kJ/g)보다 4배 가량 높다.  
 Solar-to-hydrogen (STH) 은 아직 낮다. 원인으로는
 * rapid photo-generated electron/hole pair recombination
