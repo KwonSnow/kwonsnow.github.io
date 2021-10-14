@@ -1,14 +1,16 @@
 ---
-title: "Photoelectrocatalysis"
+title: "Photoelectrocatalytic Water Splitting"
 date: 2021-10-13T08:08:50-04:00
 category: Green chemistry
 tags:
   - photocatalysis
   - electrocatalysis
+  - water splitting
 ---
 
 [A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)  
 H2 energy density 122 kJ/g 으로 gasoline (40 kJ/g)보다 4배 가량 높다.  
+
 Solar-to-hydrogen (STH) 은 아직 낮다. 원인으로는
 * rapid photo-generated electron/hole pair recombination
 * fast-backward reaction
@@ -22,6 +24,10 @@ dopant를 carbon, nitrogen, halogen과 같은 non-metal을 쓰게 되면 주로 
 따라서 doping을 통해 밴드갭을 줄일 수도 있지만, doping을 많이 하면 recombination center로 작용할 수 있다. 
 
 Grain boundary 또한 recombination center로 작용할 수 있기 때문에, calcination을 통해 high crystallinity를 유지함으로써 효율을 증가시킬 수 있다.  
+
+Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같은 1D 구조를 생성해서, e-과 h+의 migration을 moving direction을 제한함으로써 촉진시킬 수 있다.  
+
+
 
 <b>Still working on...</b>  
 <b>Next</b>  
