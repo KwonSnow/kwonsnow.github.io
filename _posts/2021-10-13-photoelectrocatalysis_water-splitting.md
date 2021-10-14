@@ -12,10 +12,10 @@ tags:
 H2 energy density 122 kJ/g 으로 gasoline (40 kJ/g)보다 4배 가량 높다.  
 
 Solar-to-hydrogen (STH) 은 아직 낮다. 원인으로는
-* rapid photo-generated electron/hole pair recombination
+* rapid photo-generated electron/hole pair recombination: charge carrier lifetime & mobility
 * fast-backward reaction
 * unfavorable thermodynamic potential for water splitting
-* ineffective harvesting visible photons for water splitting
+* ineffective harvesting visible photons for water splitting: adsorption coefficient
 * instability against photo-corrosion
 
 열역학적 에너지 손실 (0.3~0.4 eV)과 overpotential (0.4 ~ 0.6 eV)을 고려해 봤을 때, 반도체의 밴드갭은 1.8 eV 보다는 커야하지만 효율적인 visible light의 흡수를 위해선 3.2 eV 보다는 작아야 한다.  
@@ -27,11 +27,10 @@ Grain boundary 또한 recombination center로 작용할 수 있기 때문에, ca
 
 Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같은 1D 구조를 생성해서, e-과 h+의 migration을 moving direction을 제한함으로써 촉진시킬 수 있다.  
 
-반도체를 electrolyte에 담그게 되면, 이온들이 표면에 위치함으로써 Helmhotz layer를 구성하게 되는데, 이것은 상온에서 -0.59 mV/pH 만큼의 potential drop (V<sub>H</sub>)을 야기시킨다. 따라서 반도체 내에서 band bending이 일어나게되며 charge carrier의 이동방향을 제한하거나 
+반도체를 electrolyte에 담그게 되면, 이온들이 표면에 위치함으로써 Helmhotz layer를 구성하게 되는데, 이것은 상온에서 -0.59 mV/pH 만큼의 potential drop (V<sub>H</sub>)을 야기시킨다. 따라서 반도체 내에서 band bending이 일어나게되며 charge carrier의 이동방향을 제한하거나 photo-induced e- and h+의 흐름에 영향을 주어 e-/h+ sepration effciency를 향상시킨다.
 
-<b>Still working on...</b>  
-<b>Next</b>  
-[Photoelectrochemical devices for solar water splitting – materials and challenges](DOI	https://doi.org/10.1039/C6CS00306K)  
+
+[Photoelectrochemical devices for solar water splitting – materials and challenges](https://doi.org/10.1039/C6CS00306K)  
 OER reviews  
 HER reeview (2D?)  
 
