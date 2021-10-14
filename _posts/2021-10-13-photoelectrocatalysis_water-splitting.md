@@ -27,7 +27,7 @@ Grain boundary 또한 recombination center로 작용할 수 있기 때문에, ca
 
 Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같은 1D 구조를 생성해서, e-과 h+의 migration을 moving direction을 제한함으로써 촉진시킬 수 있다.  
 
-
+반도체를 electrolyte에 담그게 되면, 이온들이 표면에 위치함으로써 Helmhotz layer를 구성하게 되는데, 이것은 상온에서 -0.59 mV/pH 만큼의 potential drop (V<sub>H</sub>)을 야기시킨다. 따라서 반도체 내에서 band bending이 일어나게되며 charge carrier의 이동방향을 제한하거나 
 
 <b>Still working on...</b>  
 <b>Next</b>  
