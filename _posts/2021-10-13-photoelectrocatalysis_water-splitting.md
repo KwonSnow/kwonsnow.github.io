@@ -31,6 +31,12 @@ Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같�
 
 
 [Photoelectrochemical devices for solar water splitting – materials and challenges](https://doi.org/10.1039/C6CS00306K)  
+
+지구에 도달하는 태양에너지는 약 100,000 TW이고, 이 중에서 지표면에 도달하는 에너지는 약 36,000 TW이다. 이 중에서 1 %의 에너지를 10%의 효율을 가진 photoelectrochemical (PEC) cell로 에너지 전환을 할 수 있다면 (36 TW), 2050년의 세계연간에너지소모를 충당할 수 있을것으로 예측된다. photovoltaic (PV) cell과 electrolyser를 결합하는 방식으로 solar-to-hydrgen (STH) efficiency는 이미 30%에 도달했기 때문에, 최근에는 안정적이고 저렴한 물분해 PEC cell을 만드는 것에 많은 집중이 이루어지고 있다.  
+하지만 PV-electrolyser 시스템은 최소비용이 $8/kg이지만, light harvester와 물분해 광촉매를 하나의 시스템으로 통합하면 (PEC cell) 비용을 약 $ 3/kg으로 줄일 수 있는데, 이는 steam reforming으로 생성한 H2와 경쟁하기 위해 DOE가 설정한 목표비용은 $2~4/kg에 가깝다.  
+sunlight만을 이용하는 PV cell의 경우 최저 포텐셜(3.0 V)에 도달하기 위하여 여러 cell을 series로 써야하지만, PEC은 
+
+
 OER reviews  
 HER reeview (2D?)  
 
