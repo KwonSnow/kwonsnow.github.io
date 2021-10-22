@@ -36,6 +36,10 @@ Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같�
 PV-electrolyser의 경우 electrolyser로 H2를 생성하기 위한 최저 포텐셜(3.0 V)에 도달하기 위하여 여러 개의 cell을 써야하므로 비용이 올라간다. PEC의 경우에는 보다 간단하고 적은 부품을 사용할 수 있어서 공간과 비용을 절약할 수 있다. 따라서 PV-electrolyser 시스템은 최소비용이 $8/kg이지만, light harvester와 물분해 광촉매를 하나의 시스템으로 통합하면 (PEC cell) 비용을 약 $ 3/kg으로 줄일 수 있는데, 이는 steam reforming으로 생성한 H2와 경쟁하기 위해 DOE가 설정한 목표비용($2~4/kg)에 적합하다.  
 
 
+
+
+[Band Bending in Semiconductors: Chemical and Physical Consequences at Surfaces and Interfaces](https://pubs.acs.org/doi/pdf/10.1021/cr3000626)  
+[Band Bending](http://tuttle.merc.iastate.edu/ee436/topics/fet/band_bending.pdf)  
 OER reviews  
 HER reeview (2D?)  
 
