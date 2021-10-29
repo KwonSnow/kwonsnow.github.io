@@ -8,6 +8,11 @@ tags:
   - water splitting
 ---
 
+광합성은 태양에너지와 물, 이산화탄소를 이용하여 바이오매스와 산소를 얻는 과정이다. 대부분 사람들이 잊어버리는 것중 하나는 이 광합성은 사실 2-step process라는 것. 식물은 빛을 이용하여 물을 분해하여 산소와 수소(NADPH)를 생성하지만, 수소와 CO2를 이용하여 바이오매스를 생산하는 과정은 빛을 필요로 하지 않는다.
+물분해는 열역학적으로 uphill. 하지만 우리가 이미 수소를 가지고 있다면, 이산화탄소를 환원해서 얻는 거의 모든 종류의 carbon product생산하는 것은 열역학적으로 thermoneutral이거나 downhill.
+광합성은 사실 에너지를 저장하기 위한 최적의 시스템은 아니다. 왜냐하면 생물은 에너지를 저장하기보다 에너지를 쓰는데 더 집중하기 때문. 실제 광합성을 통한 에너지 저장 효율은 10.5 % 정도로, 일반적인 실리콘태양전지(> 25 %)의 효율보다도  낮다.
+
+
 [A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)  
 H2 energy density 122 kJ/g 으로 gasoline (40 kJ/g)보다 4배 가량 높다.  
 
@@ -34,6 +39,11 @@ Photocatalyst의 morphology도 중요한데, 가령 nano rod, nano wire 와 같�
 
 지구에 도달하는 태양에너지는 약 100,000 TW이고, 이 중에서 지표면에 도달하는 에너지는 약 36,000 TW이다. 이 중에서 1 %의 에너지를 10%의 효율을 가진 photoelectrochemical (PEC) cell로 에너지 전환을 할 수 있다면 (36 TW), 2050년의 세계연간에너지소모를 충당할 수 있을것으로 예측된다. photovoltaic (PV) cell과 electrolyser를 결합하는 방식으로 solar-to-hydrgen (STH) efficiency는 이미 30%에 도달했기 때문에, 최근에는 안정적이고 저렴한 물분해 PEC cell을 만드는 것에 많은 집중이 이루어지고 있다.  
 PV-electrolyser의 경우 electrolyser로 H2를 생성하기 위한 최저 포텐셜(3.0 V)에 도달하기 위하여 여러 개의 cell을 써야하므로 비용이 올라간다. PEC의 경우에는 보다 간단하고 적은 부품을 사용할 수 있어서 공간과 비용을 절약할 수 있다. 따라서 PV-electrolyser 시스템은 최소비용이 $8/kg이지만, light harvester와 물분해 광촉매를 하나의 시스템으로 통합하면 (PEC cell) 비용을 약 $ 3/kg으로 줄일 수 있는데, 이는 steam reforming으로 생성한 H2와 경쟁하기 위해 DOE가 설정한 목표비용($2~4/kg)에 적합하다.  
+
+
+
+
+
 
 
 
