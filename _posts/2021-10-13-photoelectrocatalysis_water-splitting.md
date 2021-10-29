@@ -12,6 +12,19 @@ tags:
 물분해는 열역학적으로 uphill. 하지만 우리가 이미 수소를 가지고 있다면, 이산화탄소를 환원해서 얻는 거의 모든 종류의 carbon product생산하는 것은 열역학적으로 thermoneutral이거나 downhill.
 광합성은 사실 에너지를 저장하기 위한 최적의 시스템은 아니다. 왜냐하면 생물은 에너지를 저장하기보다 에너지를 쓰는데 더 집중하기 때문. 실제 광합성을 통한 에너지 저장 효율은 10.5 % 정도로, 일반적인 실리콘태양전지(> 25 %)의 효율보다도  낮다.
 
+실리콘 태양전지로 생산한 에너지를 저장하는데도 어려움을 겪고 있는데, 태양전지 효율이 점점더 좋아지면 어떻게 될까.
+(https://www.nrel.gov/pv/cell-efficiency.html)
+
+수소를 생산하기만 하면 쓸데가 너무 많다. (https://doi.org/10.1016/j.biortech.2020.124175)
+fuel cell, 철강생산, biomass 생산, ammonia 생산, methanol 생산, oil refining, 등등
+
+Daniel Nocera: https://register.gotowebinar.com/recording/viewRecording/2339719380513223696/7369764076308052239/skwon@caltech.edu?registrantKey=8901663049494344459&type=ATTENDEEEMAILRECORDINGLINK
+Hydrogenase(H2ase): H2 -> H+ and e- -> synthetic biology
+
+Haber process: 
+N2(g) + 1.5 CH4 + 1.5 O2 -> 2NH3(aq) + 1.5CO2(g)
+unreacted hydrogen, nitrogen, CO2, ammonia -> cooled and compressed -> liquified ammonia is seperated
+
 
 [A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)  
 H2 energy density 122 kJ/g 으로 gasoline (40 kJ/g)보다 4배 가량 높다.  
