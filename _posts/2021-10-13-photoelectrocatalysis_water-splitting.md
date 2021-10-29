@@ -18,12 +18,12 @@ tags:
 수소를 생산하기만 하면 쓸데가 너무 많다. (https://doi.org/10.1016/j.biortech.2020.124175)
 fuel cell, 철강생산, biomass 생산, ammonia 생산, methanol 생산, oil refining, 등등
 
-Daniel Nocera: https://register.gotowebinar.com/recording/viewRecording/2339719380513223696/7369764076308052239/skwon@caltech.edu?registrantKey=8901663049494344459&type=ATTENDEEEMAILRECORDINGLINK
+Daniel Nocera: https://register.gotowebinar.com/recording/viewRecording/2339719380513223696/7369764076308052239/skwon@caltech.edu?registrantKey=8901663049494344459&type=ATTENDEEEMAILRECORDINGLINK  
 Hydrogenase(H2ase): H2 -> H+ and e- -> synthetic biology
 
-Haber process: 
-N2(g) + 1.5 CH4 + 1.5 O2 -> 2NH3(aq) + 1.5CO2(g)
-unreacted hydrogen, nitrogen, CO2, ammonia -> cooled and compressed -> liquified ammonia is seperated
+Haber process:  
+N2(g) + 1.5 CH4 + 1.5 O2 -> 2NH3(aq) + 1.5CO2(g)  
+unreacted hydrogen, nitrogen, CO2, ammonia -> cooled and compressed -> liquified ammonia is seperated  
 
 
 [A current perspective for photocatalysis towards the hydrogen production from biomass-derived organic substances and water](https://doi.org/10.1016/j.ijhydene.2019.08.121)  
