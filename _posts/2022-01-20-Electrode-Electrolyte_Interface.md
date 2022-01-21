@@ -22,8 +22,7 @@ Solvent를 environment, explicit system을 solute라고 부르기로 하자. 정
 ![image-center]({{ 'images/JDFTx2.PNG' | absolute_url }}){: .align-center}  
 * A<sub>KS</sub>[n(r)]은 잘 알려진 LDA나 GGA를 이용하여 구할 수 있다. 
 * 물과 같은 liquid solvent의 functional Ω<sub>lq</sub>[{N<sub>α</sub>}]은 최근 몇년에서야 큰 developement가 이루어 지고 있다. 예를들어, [최근 연구](https://pubs.acs.org/doi/10.1021/jp9012224)에서 numerically efficient functional for liquid water를 이용하여 liquid와 solute의 상호작용을 결정짓는 중요한 factor들을 reproduce할 수 있었다. 예를 들어, linear and <em>nonlinear</em> non-local dielectric response, experimental site-site correlation functions, surface tension, bulk modulus of the liquid and the variation of this modulus with pressure, the density of liquid and the vapor phase, liquid-vapr coexistence. 이러한 functional을 이용한 framework은 linear local dielectric reponse만 기술하는 modified Poisson-Boltzmann 접근법보다 더 신뢰성 있는 방법이다. 이처럼 {N<sub>α</sub>}의 ionic distribution을 포함시켜 이에 의한 Ω<sub>lq</sub>[{N<sub>α</sub>}]로의 영향과 framework내에 전반적인 ionic screening을 유도하는 것이 보다 natural 하다.  
-* Coupling term인 ΔA의 approximate form을 개발하는 것은 open area of research로 남겨져 있다. 그 동안 여러 simplified 된 방법들이 개발 되었지만, solvent molecule과 solute electron의 coupling이 작다는 사실에 기반한 the lowest-order coupling, 즉 
-
+* Coupling term인 ΔA의 approximate form을 개발하는 것은 open area of research로 남겨져 있다. 그 동안 여러 simplified 된 방법들이 개발 되었지만, 대표적으로 solvent molecule과 solute electron의 coupling이 작다는 사실에 기반한 the lowest-order coupling, 즉 molecular psudopotential approach가 있다. (김광수 교수님) 이 방법은 물분자들의 nuclei와 electrons의 external system (solute)로의 영향을 물분자 핵의 location {Ri}에 의존하는 "molecular pseudopotential" V<sub>Ri</sub>(r)로 바꾸는 방법이다.  
 
 <p><span class="math display">\[\begin{aligned}
 G\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right] \equiv &amp; A_{K
