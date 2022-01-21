@@ -30,8 +30,4 @@ S}[n(r)]+\Omega_{l q}\left[\left\{N_{\alpha}(r)\right\}\right] \\
 &amp;+\Delta A\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right],
 \end{aligned}\]</span></p>
 
-그러면 
 
-
-
-이것은 수식 <p><span class="math display">\[\begin{aligned} G\left[n(r)\right] \end{aligned}\]</span></p> 입니다.  
