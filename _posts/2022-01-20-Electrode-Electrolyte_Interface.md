@@ -18,4 +18,6 @@ Solvent를 environment, explicit system을 solute라고 부르기로 하자.
 ![image-center]({{ 'images/JDFTx1.PNG' | absolute_url }}){: .align-center}  
 
 
+<span class="math display">\[\begin{aligned} G\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right] \equiv &amp; A_{KS}[n(r)]+\Omega_{l q}\left[\left\{N_{\alpha}(r)\right\}\right] \\ &amp;+\Delta A\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right], \end{aligned}\]</span>
+
 ![image-center]({{ 'images/JDFTx2.PNG' | absolute_url }}){: .align-center}
