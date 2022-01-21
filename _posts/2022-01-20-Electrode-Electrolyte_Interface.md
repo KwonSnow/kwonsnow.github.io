@@ -17,10 +17,13 @@ Solvent를 environment, explicit system을 solute라고 부르기로 하자.
 정확한 Free energy를 구하려면, solvent 원자도 explicit하게 포함해야하고, 이들 위치의 thermodynamic averge도 구해야 하는데 최근에 joint density-functional theory (JDFT) framework에서 이것이 가능함을 매우 rigorous 하게 증명되었다. 구체적으로, liquid enviroment의 thermodynamic equilibrium을 이루는 위치가 고정된 원자의 양자역학적 시스템의 free energy A는 다음과 같이 variational principle로 구할 수 있다.  
 ![image-center]({{ 'images/JDFTx1.PNG' | absolute_url }}){: .align-center}  
 
-여기서 G[n(r)] 은 universal function임을 알 수 있는데, 왜냐하면,  
-
-이것은 수식 <span class="math display">\[\begin{aligned} G\left[n(r)\right] \end{aligned}\]</span> 입니다.  
 
 <span class="math display">\[\begin{aligned} G\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right] \equiv &amp; A_{KS}[n(r)]+\Omega_{l q}\left[\left\{N_{\alpha}(r)\right\}\right] \\ &amp;+\Delta A\left[n(r),\left\{N_{\alpha}(r)\right\}, V(r)\right], \end{aligned}\]</span>
 
-![image-center]({{ 'images/JDFTx2.PNG' | absolute_url }}){: .align-center}
+![image-center]({{ 'images/JDFTx2.PNG' | absolute_url }}){: .align-center}  
+
+
+
+여기서 G[n(r)] 은 universal function임을 알 수 있는데, 왜냐하면,  
+
+이것은 수식 <span class="math display">\[\begin{aligned} G\left[n(r)\right] \end{aligned}\]</span> 입니다.  
