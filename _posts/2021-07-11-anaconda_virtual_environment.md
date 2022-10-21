@@ -18,17 +18,17 @@ conda info --envs
 ## 가상환경 생성하기
 conda create -n 가상환경이름 python=버전  
 
-## 가상환경 활성화하기
-conda activate 가상환경이름  
-
-## 가상환경 비활성화하기
-conda deactivate  
-
 ## 가상환경 라이브러리 확인하기
 conda list  
 
 ## 가상환경 삭제하기
 conda remove -n 가상환경이름 --all  
+
+## 가상환경 활성화하기
+conda activate 가상환경이름  
+
+## 가상환경 비활성화하기
+conda deactivate  
 
 ## 가상환경 복사하기
 conda create -n 복사된_가상환경이름 --clone 복사할_가상환경이름  
