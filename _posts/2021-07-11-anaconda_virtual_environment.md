@@ -9,8 +9,7 @@ tags:
 
 miniconda 가 Anaconda보다 훨씬 가볍기 때문에, Miniconda를 설치할 것을 추천한다.  
 또한 miniconda 설치시 설치 경로에 띄어쓰기가 들어가지 않도록 주의해야 한다. 몇몇 패키지들의 설치에 문제가 생길 수 있기 때문. (예: assimulo)  
-"사용자"가 아닌 "공용"으로 쓰도록 miniconda를 설치하고 필요한 가상환경이나 패키지가 있을 경우에는 prompt를 사용자 권한으로 실행시킨 후 각각 설치하는 것이 깔끔하다.  
-이렇게 하면 miniconda는 C:\ProgramData 에 설치되게 된다.  
+"사용자"가 아닌 "공용"으로 쓰도록 miniconda를 설치하고 필요한 가상환경이나 패키지가 있을 경우에는 prompt를 사용자 권한으로 실행시킨 후 각각 설치하는 것이 깔끔하다. 이렇게 하면 miniconda는 C:\ProgramData 에 설치되게 된다.  
 
 ## 가상환경 확인하기
 conda info --envs  
