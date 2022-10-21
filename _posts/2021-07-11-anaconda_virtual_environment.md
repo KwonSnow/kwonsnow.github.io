@@ -12,7 +12,7 @@ miniconda 가 Anaconda보다 훨씬 가볍기 때문에, Miniconda를 설치할 
 "사용자"가 아닌 "공용"으로 쓰도록 miniconda를 설치하고 필요한 가상환경이나 패키지가 있을 경우에는 prompt를 사용자 권한으로 실행시킨 후 각각 설치하는 것이 깔끔하다. 이렇게 하면 miniconda는 C:\ProgramData 에 설치되게 된다.  
 
 ## 가상환경 확인하기
-conda info --envs  
+conda info - -envs  
 
 ## 가상환경 생성하기
 conda create -n 가상환경이름 python=버전  
@@ -21,7 +21,7 @@ conda create -n 가상환경이름 python=버전
 conda list  
 
 ## 가상환경 삭제하기
-conda remove -n 가상환경이름 --all  
+conda remove -n 가상환경이름 - -all  
 
 ## 가상환경 활성화하기
 conda activate 가상환경이름  
@@ -30,7 +30,7 @@ conda activate 가상환경이름
 conda deactivate  
 
 ## 가상환경 복사하기
-conda create -n 복사된_가상환경이름 --clone 복사할_가상환경이름  
+conda create -n 복사된_가상환경이름 - -clone 복사할_가상환경이름  
 
 ## 라이브러리(패키지) 관리
 pip freeze > requirements.txt  
