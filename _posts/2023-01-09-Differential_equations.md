@@ -1,6 +1,6 @@
 ---
 title: "Differential equations"
-date: 2023-01-19T08:08:50-04:00
+date: 2023-01-09T08:08:50-04:00
 category: Mathematics
 tags:
   - Mathematics
