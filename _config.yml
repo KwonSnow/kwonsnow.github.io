@@ -16,8 +16,8 @@
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "Determination"
-description: "is stronger than strength"
+title: "Position < Velocity"
+description: "Magnitude < Direction"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://kwonsnow.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "images/determination.jpg" # path of site logo, e.g. "/images/logo.png"
