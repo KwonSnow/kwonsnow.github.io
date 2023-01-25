@@ -17,6 +17,9 @@ Magnetism is a cooperative phenomenon where spins of magnetic ions spontaneously
 
 
 
-[How can I decide if magnetic calculation should be collinear or noncollinear?](https://www.researchgate.net/post/How-can-I-decide-if-magnetic-calculation-should-be-collinear-or-noncollinear-from-DFT-using-VASP-or-any-other-code)
+[How can I decide if magnetic calculation should be collinear or noncollinear?](https://www.researchgate.net/post/How-can-I-decide-if-magnetic-calculation-should-be-collinear-or-noncollinear-from-DFT-using-VASP-or-any-other-code)  
+
+[The non-collinear magnetism is characterized by the fact that not all atomic magnetic moments are parallel (or antiparallel) to each other](https://www.researchgate.net/post/Are_there_examples_of_collinear_and_non-collinear_magnetism)  
+
 
 
