@@ -22,8 +22,8 @@ B}\right)$$</span></p>
 
 이 함수는 발산하는 R<sup>-6</sup> term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub> 함수가 곱해져 있다.
 
-<p><span class="math display"><em>f</em><sub>damp
-</sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup></span></p>
+<p><span class="math display">$$<em>f</em><sub>damp
+</sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup>$$</span></p>
 
 이는 추가적인 효과가 있는데, 바로 electron correlation의 double-counting을 피할 수 있게 해준다. 왜냐하면 short- to medium-range correlation은 이미 density functional을 통해 어느정도 포함되어 있기 때문이다.
 
