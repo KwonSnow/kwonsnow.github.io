@@ -56,7 +56,7 @@ R<sub>0,AB</sub>는 D2에서와 마찬가지로 van der Waals radii로 구하고
 <p><span class="math display">$$f_{\text {damp }, n}^{\mathrm{D}
 3(\mathrm{BJ})}\left(R_{A B}\right)=\frac{R_{A B}^n}{R_{A
 B}^n+\left(\alpha_1 R_{0, A B}+\alpha_2\right)^n}$$</span></p>
-여기서 α<sub>1</sub>과 α<sub>2</sub>는 functional에 따라 조정이 가능한 파라미터이고, DFT-D3(0)에서처럼 s<sub>6</sub> 일반적으로 1 로 고정되고, s<sub>8</sub>는 사용하는 functional에 따라 최적화 된 값이다. DFT-D3(BJ)는 일반적으로 DFT-D3(0)에 비해 성능이 우수하다.[JCC 2011, 32 , 1456](https://doi.org/10.1002/jcc.21759)
+여기서 α<sub>1</sub>과 α<sub>2</sub>는 functional에 따라 조정이 가능한 파라미터이고, DFT-D3(0)에서처럼 s<sub>6</sub> 일반적으로 1 로 고정되고, s<sub>8</sub>는 사용하는 functional에 따라 최적화 된 값이다. DFT-D3(BJ)는 일반적으로 DFT-D3(0)에 비해 성능이 우수하다.[JCC 2011 32 1456](https://doi.org/10.1002/jcc.21759)
 
 ## [Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)  
 ## [Tkatchenko-Scheffler van der Waals Model (TS-vdW)](https://manual.q-chem.com/5.2/Ch5.S7.SS4.html)  
