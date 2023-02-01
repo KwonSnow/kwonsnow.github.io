@@ -18,22 +18,14 @@ DFT의 주요한 개발이 이루어지고 있던 2000년대 중반에는 semi-l
 B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
 B}\right)$$</span></p>
 
-<p><span class="math display">R_{AB}^6</span></p>
-
 이 함수는 발산하는 R<sup>-6</sup> term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub> 함수가 곱해져 있다.
-
 <p><span class="math display"><em>f</em><sub>damp
 </sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup></span></p>
-
 이는 추가적인 효과가 있는데, 바로 electron correlation의 double-counting을 피할 수 있게 해준다. 왜냐하면 short- to medium-range correlation은 이미 density functional을 통해 어느정도 포함되어 있기 때문이다. 여기서 R<sub>0</sub> term은 atom A와 atom B의 van der Waals radii의 합이고 d는 추가적인 파라미터이다.  
 가장 중요한 파라미터는 atomic coefficient인 C<sub>6</sub> 인데 이는 classical force field에서 흔한 방법인 geometric means을 통해 얻어진다.
-
 <p><span
 class="math display"><em>C</em><sub>6, <em>A</em><em>B</em></sub> = (<em>C</em><sub>6, <em>A</em></sub><em>C</em><sub>6, <em>B</em></sub>)<sup>1/2</sup></span></p>
-
-따라서 Total Energy는 <p><span
-class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
-</sub><sup>D2</sup></span></p>
+따라서 Total Energy는 
 <p><span
 class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
 </sub><sup>D2</sup></span></p>
