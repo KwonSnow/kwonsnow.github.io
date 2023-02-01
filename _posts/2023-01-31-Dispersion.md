@@ -17,18 +17,11 @@ DFT의 주요한 개발이 이루어지고 있던 2000년대 중반에 semi-loca
 \sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
 B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
 B}\right)$$</span></p>
-
-이 함수는 발산하는 R<sup>-6</sup> 
-R<span style="position:relative">
-<span style="position:absolute;left:2px;top:-9px">-6</span>
-<span style="position:absolute;left:2px;top:8px">AB</span>
-</span>
-term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub>
-f<span style="position:relative">
-<span style="position:absolute;left:2px;top:-9px">D2</span>
-<span style="position:absolute;left:2px;top:8px">damp</span>
-</span>
-함수가 곱해져 있다.
+<p><span class="math display">E_{\text {disp }}^{\mathrm{D} 2}=-s_6
+\sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
+B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
+B}\right)</span></p>
+이 함수는 발산하는 R<sup>-6</sup> term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub> 함수가 곱해져 있다.
 
 <p><span class="math display"><em>f</em><sub>damp
 </sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup></span></p>
