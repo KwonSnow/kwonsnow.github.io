@@ -31,7 +31,7 @@ B}\right)$$</span></p>
 <p><span
 class="math display"><em>C</em><sub>6, <em>A</em><em>B</em></sub> = (<em>C</em><sub>6, <em>A</em></sub><em>C</em><sub>6, <em>B</em></sub>)<sup>1/2</sup></span></p>
 
-<p><span
+따라서 Total Energy는 <p><span
 class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
 </sub><sup>D2</sup></span></p>
 <p><span
