@@ -19,6 +19,11 @@ B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
 B}\right)$$</span></p>
 
 이 함수는 발산하는 R<sup>-6</sup> term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub> 함수가 곱해져 있다.
+T<span style="position:relative">
+<span style="position:absolute;left:2px;top:-9px">j<sub>1</sub>,...,j<sub>h</sub></span>
+<span style="position:absolute;left:2px;top:8px">i<sub>1</sub>,...,i<sub>k</sub></span>
+</span>
+
 <p><span class="math display"><em>f</em><sub>damp
 </sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup></span></p>
 
