@@ -17,6 +17,7 @@ DFT의 주요한 개발이 이루어지고 있던 2000년대 중반에 semi-loca
 \sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
 B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
 B}\right)$$</span></p>
+
 <p><span class="math display">E_{\text {disp }}^{\mathrm{D} 2}=-s_6
 \sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
 B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
@@ -34,6 +35,34 @@ class="math display"><em>C</em><sub>6, <em>A</em><em>B</em></sub> = (<em>C
 <p><span
 class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
 </sub><sup>D2</sup></span></p>
+
+
+이후에 개발된 [DFT-D3]() method는 C2와 비슷하지만 atomic C<sub>8</sub> term이 추가되었다.
+<p><span class="math display">$$E_{\mathrm{D} 3,2-\text { body
+}}=-\sum_A^{\text {atoms }}
+\sum_{B&lt;A}^{\text {atoms }}\left[s_6\left(\frac{C_{6, A B}}{R_{A B}^6}\right) f_{\text
+{damp }, 6}\left(R_{A B}\right)+s_8\left(\frac{C_{8, A B}}{R_{A
+B}^8}\right) f_{\text {damp }, 8}\left(R_{A
+B}\right)\right]$$</span></p>
+s<sub>6</sub> 일반적으로 1 이고, s<sub>8</sub>는 사용하는 functional에 따라 최적화 된 값이다.
+
+DFT-D3의 "zero-dampling" version인 DFT-D3(0)는 아래와 같은 damping function을 사용한다.
+<p><span class="math display">$$f_{\text {damp }, n}^{\mathrm{D}
+3(0)}\left(R_{A B}\right)=\left[1+6\left(\frac{R_{A B}}{s_{r, n} R_{0, A
+B}}\right)^{-\beta_n}\right]^{-1}$$</span></p>
+
+R<sub>0,AB</sub>는 D2에서와 마찬가지로 van der Waals radii로 구하고, n=6 or 8, β<sub>6</sub>=12, β<sub>8</sub>=14, s<sub>r,6</sub>는 functional-dependent parameter이고 s<sub>r,8</sub>=1.
+
+or n=6
+ or 8, β6=12
+, and β8=14
+. The parameters R0,AB
+ come from atomic van der Waals radii, sr,6
+ is a functional-dependent parameter, and sr,8=1
+. Typically s6
+ is set to unity and s8
+ is optimized for the functional in question.
+
 
 
 ## [Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)  
