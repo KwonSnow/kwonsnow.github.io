@@ -11,10 +11,10 @@ tags:
 [DFT Methods for van der Waals Interactions](https://manual.q-chem.com/5.2/Ch5.S7.html)
 
 # Emprical dispersion correction
-[Non-Local Correlation (NLC) Functionals](https://manual.q-chem.com/5.2/Ch5.S7.SS1.html)
-[Empirical Dispersion Corrections: DFT-D](https://manual.q-chem.com/5.2/Ch5.S7.SS2.html)
-[Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)
-[Tkatchenko-Scheffler van der Waals Model (TS-vdW)](https://manual.q-chem.com/5.2/Ch5.S7.SS4.html)
-[Many-Body Dispersion (MBD) Method](https://manual.q-chem.com/5.2/Ch5.S7.SS5.html)
+[Non-Local Correlation (NLC) Functionals](https://manual.q-chem.com/5.2/Ch5.S7.SS1.html)  
+[Empirical Dispersion Corrections: DFT-D](https://manual.q-chem.com/5.2/Ch5.S7.SS2.html)  
+[Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)  
+[Tkatchenko-Scheffler van der Waals Model (TS-vdW)](https://manual.q-chem.com/5.2/Ch5.S7.SS4.html)  
+[Many-Body Dispersion (MBD) Method](https://manual.q-chem.com/5.2/Ch5.S7.SS5.html)  
 
 
