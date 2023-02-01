@@ -22,6 +22,8 @@ B}\right)$$</span></p>
 <p><span class="math display"><em>f</em><sub>damp
 </sub><sup>D2</sup>(<em>R</em><sub><em>A</em><em>B</em></sub>) = [1+<em>e</em><sup>−<em>d</em>(<em>R</em><sub><em>A</em><em>B</em></sub>/<em>R</em><sub>0, <em>A</em><em>B</em></sub>−1)</sup>]<sup>−1</sup></span></p>
 
+<p>f_<span>damp</span>^<span>D2</span>(R_<span>AB</span>)=[1+e^<span>-d(R_<span>AB</span>/R_<span>0,AB</span>-1)</span>]^<span>-1</span></p>
+
 <p><span class="math display"> f_{\text {damp }}^{\mathrm{D} 2}\left </span></p>
 
 
