@@ -36,6 +36,10 @@ class="math display"><em>C</em><sub>6, <em>A</em><em>B</em></sub> = (<em>C
 class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
 </sub><sup>D2</sup></span></p>
 
+<p><span
+class="math display">$$ <em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
+</sub><sup>D2</sup>$$</span></3p>
+
 
 이후에 개발된 [DFT-D3]() method는 C2와 비슷하지만 atomic C<sub>8</sub> term이 추가되었다.
 <p><span class="math display">$$E_{\mathrm{D} 3,2-\text { body
