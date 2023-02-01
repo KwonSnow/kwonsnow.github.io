@@ -11,17 +11,15 @@ tags:
 # [DFT Methods for van der Waals Interactions](https://manual.q-chem.com/5.2/Ch5.S7.html)
 ## [Non-Local Correlation (NLC) Functionals](https://manual.q-chem.com/5.2/Ch5.S7.SS1.html)  
 ## [Empirical Dispersion Corrections: DFT-D](https://manual.q-chem.com/5.2/Ch5.S7.SS2.html)  
-DFT의 주요한 개발이 이루어지고 있던 2000년대 중반에 semi-local density functional (GGA)가 dispersion을 정확히 기술하지 못한다는 것이 알려졌고, 이는 최근에야 Non-local correlation (NLC) fuctionals의 개발로 어느정도 해결된 문제이다. 그럼에도 -C<sub>6</sub>/R<sup>6</sup>의 형태를 가진 empirical potential 을 도입하여 아주 빠르고 간단하게 이를 기술할 수 있다. NLC functional을 사용하지 않는 이러한 접근방식을 dispersion-corrected DFT (DFT-D)라고 한다. 가장 오래된 방법은 Stefan Grimme이 개발한 [DFT-D2](https://doi.org/10.1002/jcc.20495)로 다음과 같은 pairwise atomic term을 가지고 있다.  
+DFT의 주요한 개발이 이루어지고 있던 2000년대 중반에 semi-local density functional (GGA)가 dispersion을 정확히 기술하지 못한다는 것이 알려졌고, 이는 최근에야 Non-local correlation (NLC) fuctionals의 개발로 어느정도 해결된 문제이다. 그럼에도 -C<sub>6</sub>/R<sup>6</sup>의 형태를 가진 empirical potential 을 도입하여 아주 빠르고 간단하게 이를 기술할 수 있다. NLC functional을 사용하지 않는 이러한 접근방식을 dispersion-corrected DFT (DFT-D)라고 한다. 
+### DFT-D2
+가장 오래된 방법은 Stefan Grimme이 개발한 [DFT-D2](https://doi.org/10.1002/jcc.20495)로 다음과 같은 pairwise atomic term을 가지고 있다.  
 
 <p><span class="math display">$$E_{\text {disp }}^{\mathrm{D} 2}=-s_6
 \sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
 B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
 B}\right)$$</span></p>
 
-<p><span class="math display">E_{\text {disp }}^{\mathrm{D} 2}=-s_6
-\sum_A^{\text {atoms }} \sum_{B&lt;A}^{\text {atoms }}\left(\frac{C_{6, A B}}{R_{A
-B}^6}\right) f_{\text {damp }}^{\mathrm{D} 2}\left(R_{A
-B}\right)</span></p>
 이 함수는 발산하는 R<sup>-6</sup> term 때문에 short range에서 감폭(damping)하도록 f<sub>damp</sub> 함수가 곱해져 있다.
 
 <p><span class="math display"><em>f</em><sub>damp
@@ -40,8 +38,8 @@ class="math display"><em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS
 class="math display">$$ <em>E</em><sub>DFT − D2</sub> = <em>E</em><sub>KS − DFT</sub> + <em>E</em><sub>disp
 </sub><sup>D2</sup>$$</span></3p>
 
-
-이후에 개발된 [DFT-D3]() method는 C2와 비슷하지만 atomic C<sub>8</sub> term이 추가되었다.
+### DFT-D3
+이후에 개발된 [DFT-D3](https://doi.org/10.1063/1.3382344) method는 C2와 비슷하지만 atomic C<sub>8</sub> term이 추가되었다.
 <p><span class="math display">$$E_{\mathrm{D} 3,2-\text { body
 }}=-\sum_A^{\text {atoms }}
 \sum_{B&lt;A}^{\text {atoms }}\left[s_6\left(\frac{C_{6, A B}}{R_{A B}^6}\right) f_{\text
@@ -57,16 +55,8 @@ B}}\right)^{-\beta_n}\right]^{-1}$$</span></p>
 
 R<sub>0,AB</sub>는 D2에서와 마찬가지로 van der Waals radii로 구하고, n=6 or 8, β<sub>6</sub>=12, β<sub>8</sub>=14, s<sub>r,6</sub>는 functional-dependent parameter이고 s<sub>r,8</sub>=1.
 
-or n=6
- or 8, β6=12
-, and β8=14
-. The parameters R0,AB
- come from atomic van der Waals radii, sr,6
- is a functional-dependent parameter, and sr,8=1
-. Typically s6
- is set to unity and s8
- is optimized for the functional in question.
-
+### DFT-D3(BJ)
+그 이후에 Becke와 Johnson이(BJ) 개발한 DFT-D3의 damping version은 DFT-D3(BJ)
 
 
 ## [Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)  
