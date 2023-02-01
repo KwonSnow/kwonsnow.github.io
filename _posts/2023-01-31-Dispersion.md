@@ -56,8 +56,11 @@ B}}\right)^{-\beta_n}\right]^{-1}$$</span></p>
 R<sub>0,AB</sub>는 D2에서와 마찬가지로 van der Waals radii로 구하고, n=6 or 8, β<sub>6</sub>=12, β<sub>8</sub>=14, s<sub>r,6</sub>는 functional-dependent parameter이고 s<sub>r,8</sub>=1.
 
 ### DFT-D3(BJ)
-그 이후에 Becke와 Johnson이(BJ) 개발한 DFT-D3의 damping version은 DFT-D3(BJ)
-
+그 이후에 Becke와 Johnson이(BJ) 개발한 DFT-D3의 damping version은 DFT-D3(BJ) R<sub>AB</sub> → 0 일때 finite value를 갖는 damping function을 사용한다.
+<p><span class="math display">$$f_{\text {damp }, n}^{\mathrm{D}
+3(\mathrm{BJ})}\left(R_{A B}\right)=\frac{R_{A B}^n}{R_{A
+B}^n+\left(\alpha_1 R_{0, A B}+\alpha_2\right)^n}$$</span></p>
+여기서 α<sub>1</sub>과 α<sub>2</sub>는 functional에 따라 조정이 가능한 파라미터이고, DFT-D3(0)에서처럼 s<sub>6</sub> 일반적으로 1 로 고정되고, s<sub>8</sub>는 사용하는 functional에 따라 최적화 된 값이다. DFT-D3(BJ)는 일반적으로 DFT-D3(0)에 비해 성능이 우수하다.[Journal of Computational Chemistry 2011, 32 (7), 1456](https://doi.org/10.1002/jcc.21759)
 
 ## [Exchange-Dipole Model (XDM)](https://manual.q-chem.com/5.2/Ch5.S7.SS3.html)  
 ## [Tkatchenko-Scheffler van der Waals Model (TS-vdW)](https://manual.q-chem.com/5.2/Ch5.S7.SS4.html)  
