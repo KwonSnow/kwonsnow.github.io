@@ -21,7 +21,7 @@ conda create -n 가상환경이름 python=버전
 conda list  
 
 ## 가상환경 삭제하기
-conda remove -n 가상환경이름 &#8209;&#8209;all  
+conda remove -n 가상환경이름 &#45;&#45;all  
 
 ## 가상환경 활성화하기
 conda activate 가상환경이름  
@@ -30,7 +30,7 @@ conda activate 가상환경이름
 conda deactivate  
 
 ## 가상환경 복사하기
-conda create -n 복사된_가상환경이름 &#8209;&#8209;clone 복사할_가상환경이름  
+conda create -n 복사된_가상환경이름 &#45;&#45;clone 복사할_가상환경이름  
 
 ## 라이브러리(패키지) 관리
 pip freeze > requirements.txt  
