@@ -10,7 +10,7 @@ tags:
 
 
 [Optimizing the parallelization](https://www.vasp.at/wiki/index.php/Optimizing_the_parallelization)  
-[https://www.nsc.liu.se/~pla/blog/2015/01/12/vasp-how-many-cores/](https://www.nsc.liu.se/~pla/blog/2015/01/12/vasp-how-many-cores/)  
+[Selecting the Right Number of Cores for a VASP Calculation](https://www.nsc.liu.se/~pla/blog/2015/01/12/vasp-how-many-cores/)  
 
 
 ### [NBANDS](https://www.vasp.at/wiki/index.php/NBANDS)
