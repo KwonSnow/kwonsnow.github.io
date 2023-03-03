@@ -8,6 +8,27 @@ tags:
   - parallelization
 ---
 
+
+[Optimizing the parallelization](https://www.vasp.at/wiki/index.php/Optimizing_the_parallelization)  
+[https://www.nsc.liu.se/~pla/blog/2015/01/12/vasp-how-many-cores/](https://www.nsc.liu.se/~pla/blog/2015/01/12/vasp-how-many-cores/)  
+
+
+### NPAR
+[NPAR](https://www.vasp.at/wiki/index.php/NPAR)는 코어당 Band수를 정하는 것으로, 기본적으로 NBANDS를 NPAR를 통해서 number of task로 나누고, 각 task마다 하나의 코어를 할당한다. 예를 들어 Ag FCC conventional cell (NIONS=4)의 경우 NBANDS = 27 인데 이를 28로 올리고 7 tasks(w/ NPAR=4)로 계산하던지 NBANDS=32로 늘리고 4 tasks(w/ NPAR=8)로 계산할 수 있음. One ionic step 결과만 보면 Total CPU time (Elapsed time)은 각각 78.175(80.608), 78.231(82.239) 로 별반 차이 없음. 후자가 적은 수의 코어(4)를 쓰기 때문에, NPAR=8로 하는 것이 좋다. 이는 또한 stampede2 KNL의 경우 [sqrt(64)](https://www.vasp.at/wiki/index.php/NPAR) = 8과 일치한다.  
+
+w/ NPAR = 8  
+#SBATCH --nodes 1               # Total # of nodes  
+#SBATCH --ntasks-per-node 4  
+#SBATCH --ntasks-per-core 1    # Run only one MPI process per CPU core  
+#SBATCH --cpus-per-task   4    # Number of OpenMP threads per MPI process # KNL has 4 thread per core  
+
+위의 경우 stampede2 KNL와 같은 하이퍼스레딩 프로세서의 경우 하나의 코어당 가능한 thread(가상코어)를 늘릴 수 있다. 
+
+
+[NBANDS](https://www.vasp.at/wiki/index.php/NBANDS)는 better convergence를 위해서 최소한 
+NBANDS는 NCORE나 KPAR에 따라 
+
+
 VASP은 NCORE와 --ntasks-per-node를 기준으로 TEST  
 예를들어 노드당 코어수가 128개라면, --ntasks-per-node는 2, 4, 8, 16, 32, 64, 128개를 TEST할 수 있음.  
 하지만, Expanse (SDSC) 처럼 core단위가 아니라 node단위로 청구하는 곳에서는 128개를 안쓸 이유가 없음.  
