@@ -14,11 +14,11 @@ tags:
 
 
 ### [NBANDS](https://www.vasp.at/wiki/index.php/NBANDS)
+NBANDS는 better convergence를 위해서 어느정도의 unoccupied band를 추가시켜준다.  
 NBANDS = max(NELECT/2+NIONS/2,NELECT×0.6)  
-[NBANDS](https://www.vasp.at/wiki/index.php/NBANDS)는 better convergence를 위해서 어느정도의 unoccupied band를 추가시켜준다.
 
-### NPAR
-[NPAR](https://www.vasp.at/wiki/index.php/NPAR)는 코어당 Band수를 정하는 것으로, 기본적으로 NBANDS를 NPAR를 통해서 number of task로 나누고, 각 task마다 하나의 코어를 할당한다. 예를 들어 Ag FCC conventional cell (NIONS=4)의 경우 NBANDS = 27 인데 이를 28로 올리고 7 tasks(w/ NPAR=4)로 계산하던지 NBANDS=32로 늘리고 4 tasks(w/ NPAR=8)로 계산할 수 있다. One ionic step 결과만 보면 Total CPU time (Elapsed time)은 각각 78.175(80.608), 78.231(82.239) 로 별반 차이가 없다. 후자가 적은 수의 코어(4)를 쓰기 때문에, NPAR=8로 하는 것이 좋다. 이는 또한 stampede2 KNL의 경우 [sqrt(64)](https://www.vasp.at/wiki/index.php/NPAR) = 8과 일치한다.  
+### [NPAR](https://www.vasp.at/wiki/index.php/NPAR)
+NPAR는 코어당 Band수를 정하는 것으로, 기본적으로 NBANDS를 NPAR를 통해서 number of task로 나누고, 각 task마다 하나의 코어를 할당한다. 예를 들어 Ag FCC conventional cell (NIONS=4)의 경우 NBANDS = 27 인데 이를 28로 올리고 7 tasks(w/ NPAR=4)로 계산하던지 NBANDS=32로 늘리고 4 tasks(w/ NPAR=8)로 계산할 수 있다. One ionic step 결과만 보면 Total CPU time (Elapsed time)은 각각 78.175(80.608), 78.231(82.239) 로 별반 차이가 없다. 후자가 적은 수의 코어(4)를 쓰기 때문에, NPAR=8로 하는 것이 좋다. 이는 또한 stampede2 KNL의 경우 [sqrt(64)](https://www.vasp.at/wiki/index.php/NPAR) = 8과 일치한다.  
 
 w/ NPAR = 8  
 #SBATCH --nodes 1               # Total # of nodes  
@@ -26,8 +26,7 @@ w/ NPAR = 8
 #SBATCH --ntasks-per-core 1    # Run only one MPI process per CPU core  
 #SBATCH --cpus-per-task   4    # Number of OpenMP threads per MPI process # KNL has 4 thread per core  
 
-위의 경우처럼 stampede2 KNL와 같은 하이퍼스레딩 프로세서의 경우 하나의 코어당 가능한 thread(가상코어)를 늘릴 수 있다. 
-
+위의 경우처럼 stampede2 KNL와 같은 하이퍼스레딩 프로세서의 경우 하나의 코어당 가능한 thread(가상코어)를 늘릴 수 있다.  
 
 k-ponits grid가 큰 경우 NPAR와 KPAR를 동시에 사용하여 각 band 내에서 k-점 그리드를 분할하여 각각의 작업에 할당된 프로세서에서 병렬 처리할 수 있다. 예를들어 simulation cell은 작지만 매우 많은 kpoints를 사용하는 경우 KPAR가 유리할 수 있다.
 
